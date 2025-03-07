@@ -15,5 +15,6 @@ I'm a full-stack developer, DevOps engineer, and Linux system administrator. Pas
 ## 📬 Contact Me
 - ✉️ Email: [krato@krato.cz](mailto:krato@krato.cz)
 - 🐦 Twitter: [@kratocz](https://twitter.com/kratocz)
+- 📞 Phone: +420776762237
 
 Feel free to reach out for collaboration or tech discussions! 🚀
