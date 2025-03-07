@@ -13,7 +13,7 @@ I'm a full-stack developer, DevOps engineer, and Linux system administrator. Pas
 - 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
 
 ## 📬 Contact Me
-- ✉️ Email: [me@krato.cz](mailto:krato@krato.cz)
+- ✉️ Email: [krato@krato.cz](mailto:krato@krato.cz)
 - 🐦 Twitter: [@kratocz](https://twitter.com/kratocz)
 
 Feel free to reach out for collaboration or tech discussions! 🚀
