@@ -5,7 +5,7 @@ I'm a full-stack developer, DevOps engineer, and Linux system administrator. Pas
 ## 🌐 Links
 - 🌍 Personal Website: [krato.cz](https://krato.cz/)
 - 💼 LinkedIn: [https://www.linkedin.com/in/petr-kratochvíl-43072724/](https://www.linkedin.com/in/petr-kratochv%C3%ADl-43072724/)
-- 📺 YouTube: [https://www.youtube.com/c/PetrKratochvíl]([https://www.youtube.com/c/PetrKratochv%C3%ADl)
+- 📺 YouTube: [https://www.youtube.com/c/PetrKratochv%C3%ADl
 - 📜 My IT Knowledge Base (WIP): [SHEL on GitHub](https://github.com/kratocz/shel)
 
 ## 📂 Featured Projects
