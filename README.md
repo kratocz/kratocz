@@ -1,11 +1,12 @@
 # Hi there! 👋 I'm Petr Kratochvíl (Krato)
 
-I'm a full-stack developer, DevOps engineer, and Linux system administrator. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel.
+I'm a full-stack developer, DevOps engineer, and Linux system administrator. I specialize in working with Docker, Kubernetes, Terraform, and Btrfs, focusing on scalable infrastructure, automation, and containerized deployments. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel.
 
 ## 🌐 Links
 - 🌍 [Personal Website: krato.cz](https://krato.cz/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/petr-kratochv%C3%ADl-43072724/)
 - 📺 [YouTube](https://www.youtube.com/c/PetrKratochv%C3%ADl)
+- 🐙 [GitHub](https://github.com/kratocz)
 
 ## 📂 Featured Projects
 - 🏗 **IT Knowledge Base** - A structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
