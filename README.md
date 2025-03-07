@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Petr Kratochvíl (Krato)
 
-I'm a full-stack developer, DevOps engineer, and Linux system administrator. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel and technical blogs.
+I'm a full-stack developer, DevOps engineer, and Linux system administrator. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel.
 
 ## 🌐 Links
 - 🌍 [Personal Website: krato.cz](https://krato.cz/)
