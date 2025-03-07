@@ -9,7 +9,7 @@ I'm a full-stack developer, DevOps engineer, and Linux system administrator. Pas
 
 ## 📂 Featured Projects
 - 🏗 **IT Knowledge Base** - A structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
-- 🐧 **Btrfs & Docker YouTube Videos** - Advanced tutorials on Btrfs, Docker, and Linux administration (in Czech): [YouTube Playlist: Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
+- 🐧 **Btrfs, Docker and Linux administration Tutorials** - YouTube Videos in Czech: [YouTube Playlist: Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
 - 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
 
 ## 📬 Contact Me
