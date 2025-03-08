@@ -1,6 +1,8 @@
 site_name: Ing. Petr Kratochvíl
 theme:
   name: material
+  logo: assets/Petr-Kratochvil/DSCN0104-cut01-edit02-cut01.jpg
+  favicon: assets/Petr-Kratochvil/DSCN0104-cut01-edit02-cut01.jpg
 extra:
   generator: false
 extra_css:

@@ -1,25 +1,36 @@
-# Ing. Petr Kratochvíl
+# Ing. Petr Kratochvíl (krato.cz)
 
-WIP.
+## Profiles
 
-Come back in a few days, please...
+| Platform     | Link |
+|--------------|------|
+| 🌍 Homepage: | [krato.cz](https://krato.cz/) |
+| 🐙 GitHub:   | [github.com/kratocz](https://github.com/kratocz) |
+| 💼 LinkedIn: | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/) |
+| 📺 YouTube:  | [www.youtube.com/c/PetrKratochv%C3%ADl](https://www.youtube.com/c/PetrKratochv%C3%ADl) |
+| Twitter (X): | [x.com/kratocz](https://x.com/kratocz) |
+| Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz) |
 
+## Public Projects
+
+- 🏗 **IT Knowledge Base** - A structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
+- 🐧 **Btrfs, Docker and Linux administration Tutorials** - YouTube Playlist in Czech: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
+- 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
+
+## Curriculum Vitae (CV)
 
 
 
 ## Contact
 
-|                 |                                                                                                                                                                  |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Name:           | Ing. Petr Kratochvíl                                                                                                                                             |
-| E-mail:         | krato@krato.cz                                                                                                                                                   |
-| Hangouts        | kratocz@gmail.com                                                                                                                                                |
-| Skype           | kratocz                                                                                                                                                          |
-| Google+         | kratocz@gmail.com                                                                                                                                                |
-| Facebook        | [https://www.facebook.com/kratocz](https://www.facebook.com/kratocz)                                                                                             |
-| LinkedIn        | [https://www.linkedin.com/in/petr-kratochv%C3%ADl-43072724](https://www.linkedin.com/in/petr-kratochv%C3%ADl-43072724)                                           |
-| Mobile          | +420 776 76 22 37                                                                                                                                                |
-| Bitcoin donate  | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP <img style="margin-left: 10px;" src="./assets/qrcode-bitcoin-12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP-message_krato.cz_donate.png"> |
+|                |                                                                                                                                                                  |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Name:          | Ing. Petr Kratochvíl                                                                                                                                             |
+| Homepage:      | [krato.cz](https://krato.cz/)                                                                                                                                    |
+| E-mail:        | [krato@krato.cz](mailto:krato@krato.cz)                                                                                                                          |
+| Phone:         | +420 776 762 237                                                                                                                                                 |
+| IČ:            | 03645762                                                                                                                                                         |
+| Bitcoin donate | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP <img style="margin-left: 10px;" src="./assets/qrcode-bitcoin-12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP-message_krato.cz_donate.png"> |
 
 ## QR code vCard
 
