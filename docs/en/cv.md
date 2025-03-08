@@ -1,4 +1,8 @@
-# Ing. Petr Kratochvíl (krato.cz) - Curriculum Vitae (CV)
+# CV in English
+
+Always up-to-date version:  [krato.cz/en/cv](../en/cv.md)
+
+CV in Czech is also available: [krato.cz/cs/cv](../cs/cv.md)
 
 ## Personal data
 
@@ -9,7 +13,7 @@
 | Date of birth:                  | 9th October 1981                            |
 | Place of residence:             | Havanská 2808, 390 05 Tábor, Czech Republic |
 | Phone number:                   | +420776762237                               |
-| Homepage:                       | [www.krato.cz](https://www.krato.cz)        |
+| Homepage:                       | [krato.cz](https://krato.cz)                |
 | E-mail:                         | [krato@krato.cz](mailto:krato@krato.cz)     |
 
 ## Profiles
@@ -71,16 +75,14 @@ Courses
 * Professional: OS Linux.
 * In free time: In-line skating, swimming, music, horse riding, chess, computer games.
 
-## QR code vCard
+## vCard (QR code)
 
-<img src="./assets/qrcode-url-krato.cz-vcard-02.svg" align="left" width="200" style="margin: 10px;">
+![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-vcard-02.svg)
 
-Petr Kratochvíl
-
-self-employed developer, DevOps engineer and sysadmin
-
-phone: +420776762237
-
-email: [krato@krato.cz](mailto:krato@krato.cz)
-
-homepage: [krato.cz](https://krato.cz/)
+|           |                                                       |
+|-----------|-------------------------------------------------------|
+| Name:     | Petr Kratochvíl                                       |
+| Job:      | self-employed developer, DevOps engineer and sysadmin |
+| Phone:    | +420776762237                                         |
+| E-mail:   | [krato@krato.cz](mailto:krato@krato.cz)               |
+| Homepage: | [krato.cz](https://krato.cz/)                         |

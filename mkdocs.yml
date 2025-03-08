@@ -17,3 +17,7 @@ plugins:
         'cs/zivotopis.md': 'cs/cv.md'
         'cs/kontakt.md': 'index.md'
         '**.md': 'index.md'
+nav:
+  - 'index.md'
+  - 'en/cv.md'
+  - 'cs/cv.md'

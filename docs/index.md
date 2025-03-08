@@ -1,4 +1,4 @@
-# Ing. Petr Kratochvíl (krato.cz)
+# Intro
 
 ## Profiles
 
@@ -19,8 +19,7 @@
 
 ## Curriculum Vitae (CV)
 
-| [🇺🇸 CV in English](en/cv.md) | [🇨🇿 CV in Czech](cs/cv.md) |
-|--------------------------------|------------------------------|
+<a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 Životopis v češtině</a>
 
 ## QR code vCard
 

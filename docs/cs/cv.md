@@ -1,27 +1,31 @@
-# Ing. Petr Kratochvíl (krato.cz) - Životopis (CV)
+# Životopis v češtině
+
+Vždy aktuální verze:  [krato.cz/cs/cv](../cs/cv.md)
+
+K dispozici je také životopis v angličtině: [krato.cz/en/cv](../en/cv.md)
 
 ## Osobní údaje
 
-|                                 |                                             |
-|---------------------------------|---------------------------------------------|
-| Titul, jméno a příjmení:        | Ing. Petr Kratochvíl                        |
-| Identifikační číslo (IČ):       | 03645762                                    |
-| Datum narození:                 | 9. října 1981                               |
-| Místo bydliště:                 | Havanská 2808, 390 05 Tábor, Česká republika|
-| Telefonní číslo:                | +420776762237                               |
-| Domovská stránka:               | [www.krato.cz](https://www.krato.cz)        |
-| E-mail:                         | [krato@krato.cz](mailto:krato@krato.cz)     |
+|                           |                                              |
+|---------------------------|----------------------------------------------|
+| Titul, jméno a příjmení:  | Ing. Petr Kratochvíl                         |
+| Identifikační číslo (IČ): | 03645762                                     |
+| Datum narození:           | 9. října 1981                                |
+| Místo bydliště:           | Havanská 2808, 390 05 Tábor, Česká republika |
+| Telefonní číslo:          | +420776762237                                |
+| Domovská stránka:         | [krato.cz](https://krato.cz)                 |
+| E-mail:                   | [krato@krato.cz](mailto:krato@krato.cz)      |
 
 ## Profily
 
-| Platforma       | Odkaz                                                                        |
-|-----------------|------------------------------------------------------------------------------|
-| 🌍 Domovská stránka: | [krato.cz](https://krato.cz/)                                          |
-| 🐙 GitHub:      | [github.com/kratocz](https://github.com/kratocz)                             |
-| 💼 LinkedIn:    | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/)          |
-| 📺 YouTube:     | [www.youtube.com/c/PetrKratochvil](https://www.youtube.com/c/PetrKratochvil) |
-| 🐦 Twitter (X): | [x.com/kratocz](https://x.com/kratocz)                                       |
-| 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                     |
+| Platforma            | Odkaz                                                                        |
+|----------------------|------------------------------------------------------------------------------|
+| 🌍 Domovská stránka: | [krato.cz](https://krato.cz/)                                                |
+| 🐙 GitHub:           | [github.com/kratocz](https://github.com/kratocz)                             |
+| 💼 LinkedIn:         | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/)          |
+| 📺 YouTube:          | [www.youtube.com/c/PetrKratochvil](https://www.youtube.com/c/PetrKratochvil) |
+| 🐦 Twitter (X):      | [x.com/kratocz](https://x.com/kratocz)                                       |
+| 📘 Facebook:         | [facebook.com/kratocz](https://www.facebook.com/kratocz)                     |
 
 ## Veřejné projekty
 
@@ -67,3 +71,16 @@ Pracovní zkušenosti
 
 * Profesionálně: OS Linux.
 * Rekreačně: In-line bruslení, plavání, hudba, jízda na koni, šachy, počítačové hry.
+
+
+## Vizitka (QR code)
+
+![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-vcard-02.svg)
+
+|           |                                                       |
+|-----------|-------------------------------------------------------|
+| Name:     | Petr Kratochvíl                                       |
+| Job:      | self-employed developer, DevOps engineer and sysadmin |
+| Phone:    | +420776762237                                         |
+| E-mail:   | [krato@krato.cz](mailto:krato@krato.cz)               |
+| Homepage: | [krato.cz](https://krato.cz/)                         |
