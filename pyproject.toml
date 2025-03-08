@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "kratocz"
 version = "0.1.0"
-description = "kratocz.github.io/kratocz"
+description = "https://kratocz.github.io/kratocz/"
 authors = ["Petr Kratochvíl <krato@krato.cz>"]
 readme = "README.md"
 package-mode = false
