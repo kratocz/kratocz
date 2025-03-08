@@ -4,8 +4,16 @@ theme:
   logo: assets/Petr-Kratochvil/DSCN0104-cut01-edit02-cut01.jpg
   favicon: assets/Petr-Kratochvil/DSCN0104-cut01-edit02-cut01.jpg
   include_sidebar: false
+  custom_dir: './overrides'
+use_directory_urls: true
 extra:
   generator: false
 extra_css:
   - './assets/common.css'
-repo_url: https://github.com/kratocz/kratocz/
+repo_url: 'https://github.com/kratocz/'
+plugins:
+  - redirects:
+      redirect_maps:
+        'cs/zivotopis.md': 'index.md'
+        'cs/kontakt.md': 'index.md'
+        '**.md': 'index.md'
