@@ -15,3 +15,7 @@ h1 {
 article {
     margin-top: -2em !important;
 }
+
+ul.md-source__facts {
+    display: none;
+}
