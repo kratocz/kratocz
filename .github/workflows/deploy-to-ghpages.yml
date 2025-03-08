@@ -35,6 +35,9 @@ jobs:
       - name: Build site
         run: poetry run mkdocs build
 
+      - name: Print output files
+        run: ls -lhR
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
