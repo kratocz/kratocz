@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "kratocz"
+version = "0.1.0"
+description = "kratocz.github.io/kratocz"
+authors = ["Petr Kratochvíl <krato@krato.cz>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.13"
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.6.7"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
