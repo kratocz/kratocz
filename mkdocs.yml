@@ -1,5 +1,5 @@
 site_name: Ing. Petr Kratochvíl
 theme:
-  name: mkdocs
+  name: material
 extra:
   generator: false
