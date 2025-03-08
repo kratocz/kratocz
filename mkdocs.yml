@@ -14,6 +14,6 @@ repo_url: 'https://github.com/kratocz/'
 plugins:
   - redirects:
       redirect_maps:
-        'cs/zivotopis.md': 'index.md'
+        'cs/zivotopis.md': 'cs/cv.md'
         'cs/kontakt.md': 'index.md'
         '**.md': 'index.md'
