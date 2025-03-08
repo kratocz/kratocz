@@ -3,3 +3,6 @@ theme:
   name: material
 extra:
   generator: false
+extra_css:
+  - './assets/common.css'
+repo_url: https://github.com/kratocz/kratocz/
