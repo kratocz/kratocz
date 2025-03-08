@@ -3,6 +3,7 @@ theme:
   name: material
   logo: assets/Petr-Kratochvil/DSCN0104-cut01-edit02-cut01.jpg
   favicon: assets/Petr-Kratochvil/DSCN0104-cut01-edit02-cut01.jpg
+  include_sidebar: false
 extra:
   generator: false
 extra_css:
