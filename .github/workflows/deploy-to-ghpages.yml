@@ -36,7 +36,7 @@ jobs:
         run: poetry run mkdocs build
 
       - name: Print output files
-        run: ls -lhR
+        run: ls -lhR site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
