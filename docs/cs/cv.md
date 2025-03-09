@@ -1,8 +1,11 @@
 # Životopis v češtině
 
-Vždy aktuální verze:  [krato.cz/cs/cv](https://krato.cz/cs/cv)
+Jsem full-stack IT developer, DevOps engineer a Linux system administrator.
 
-K dispozici je také životopis v angličtině: [krato.cz/en/cv](https://krato.cz/en/cv)
+## CV updates
+
+* 🇺🇸 CV in English:  [krato.cz/en/cv](https://krato.cz/en/cv)
+* 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 
 ## Osobní údaje
 

@@ -1,6 +1,6 @@
 # Ing. Petr Kratochvíl
 
-I'm a full-stack developer, DevOps engineer, and Linux system administrator.
+I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 
 I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infrastructure, automation, and containerized deployments. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel.
 

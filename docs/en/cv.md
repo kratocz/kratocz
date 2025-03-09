@@ -1,8 +1,11 @@
 # CV in English
 
-Always up-to-date version:  [krato.cz/en/cv](https://krato.cz/en/cv)
+I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 
-CV in Czech is also available: [krato.cz/cs/cv](https://krato.cz/cs/cv)
+## CV updates
+
+* 🇺🇸 CV in English:  [krato.cz/en/cv](https://krato.cz/en/cv)
+* 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 
 ## Personal data
 
