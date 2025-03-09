@@ -25,10 +25,6 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 
 ## Curriculum Vitae (CV)
 
-<a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 Životopis v češtině</a>
+* [🇺🇸 CV in English](docs/en/cv.md)
+* [🇨🇿 Životopis v češtině](docs/cs/cv.md)
 
-## Donate Me
-
-|                  |                                    |
-|------------------|------------------------------------|
-| Bitcoin address: | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP |
