@@ -10,8 +10,29 @@ ul.md-source__facts {
     margin-left: 0;
 }
 
-div.md-nav__title {
+img[alt="Petr Kratochvíl's vCard QR code"] {
+    width: 64px;
+}
+
+nav.md-nav--primary label.md-nav__title {
     display: none;
+}
+
+header div.md-header__ellipsis {
+    text-align: center;
+}
+
+header div.md-header__topic {
+    width: 100%;
+}
+
+header span.md-ellipsis {
+    width: 100%;
+}
+
+h1#intro {
+    font-size: 0px;
+    margin-top: -2rem;
 }
 
 @media print {
@@ -23,8 +44,8 @@ div.md-nav__title {
     {
         color: black;
     }
-}
 
-img[alt="Petr Kratochvíl's vCard QR code"] {
-    width: 64px;
+    header div.md-header__topic {
+        padding-right: 4rem;
+    }
 }

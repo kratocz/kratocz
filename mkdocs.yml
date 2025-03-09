@@ -18,6 +18,6 @@ plugins:
         'cs/kontakt.md': 'index.md'
         '**.md': 'index.md'
 nav:
-  - 'index.md'
+  - 'Intro': 'index.md'
   - 'en/cv.md'
   - 'cs/cv.md'
