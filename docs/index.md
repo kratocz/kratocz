@@ -14,6 +14,7 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 | 📺 YouTube:     | [www.youtube.com/c/PetrKratochvil](https://www.youtube.com/c/PetrKratochvil) |
 | 🐦 Twitter (X): | [x.com/kratocz](https://x.com/kratocz)                                       |
 | 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                     |
+| 🚴 Strava:      | [www.strava.com/athletes/kratocz](https://www.strava.com/athletes/kratocz)   |
 
 ## Public Projects
 

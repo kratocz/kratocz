@@ -26,6 +26,7 @@ CV in Czech is also available: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 | 📺 YouTube:     | [www.youtube.com/c/PetrKratochvil](https://www.youtube.com/c/PetrKratochvil) |
 | 🐦 Twitter (X): | [x.com/kratocz](https://x.com/kratocz)                                       |
 | 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                     |
+| 🚴 Strava:      | [www.strava.com/athletes/kratocz](https://www.strava.com/athletes/kratocz)   |
 
 ## Public Projects
 
