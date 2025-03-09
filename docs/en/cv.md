@@ -37,6 +37,14 @@ I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 - 🐧 **Btrfs, Docker and Linux administration Tutorials** - YouTube Playlist in Czech: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
 - 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
 
+## Areas of interest
+
+* Backend development … PHP, Java, Kotlin, …
+* DevOps … Docker, Docker Swarm, Kubernetes, Git, GitLab CI/CD, GitHub Actions, …
+* Linux … bash scripting, Terraform, …
+* LLM (AI) … Custom GPTs, GPT4All, LM Studio, self-hosted LLM, …
+* SPA frontend … Angular, CI/CD, GitHub Pages, …
+
 ## Educational attainment
 
 * 2002 – 2007: Engineer study at the Faculty of  Applied Sciences at the University of West Bohemia in Pilsen. Study program: Engineering Science – Computer Science and Engineering. Specialization: Distributed Systems. Diploma thesis topic: “Communication system using mobile devices“. Merit Scholarship in third and fourth year of study.

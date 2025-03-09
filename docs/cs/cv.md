@@ -36,6 +36,15 @@ Jsem full-stack IT developer, DevOps engineer a Linux system administrator.
 - 🏗 **Znalostní báze IT** - Strukturovaný repozitář mých IT znalostí: [GitHub Repo](https://github.com/kratocz/shel)
 - 🐧 **Tutoriály pro Btrfs, Docker a správu Linuxu** - YouTube playlist v češtině: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
 - 📦 **Docker a DevOps nástroje** - Různé kontejnerizační a automatizační skripty: [GitHub Repos](https://github.com/kratocz?tab=repositories)
+
+## Oblasti zájmu
+
+* Backend development … PHP, Java, Kotlin, …
+* DevOps … Docker, Docker Swarm, Kubernetes, Git, GitLab CI/CD, GitHub Actions, …
+* Linux … bash scripting, Terraform, …
+* LLM (AI) … Custom GPTs, GPT4All, LM Studio, self-hosted LLM, …
+* SPA frontend … Angular, CI/CD, GitHub Pages, …
+
 ## Dosažené vzdělání
 
 * 2002 – 2007: Magisterské studium na Katedře informatiky a výpočetní techniky na Fakultě Aplikovaných Věd na Západočeské Univerzitě v Plzni. Program a obor: Inženýrská Informatika – Informatika a Výpočetní Technika, specializace: Distribuované Systémy. Téma diplomové práce: „Komunikační systém s využitím mobilních zařízení“. Pobírání prospěchového stipendia za studijní výsledky v 3. a 4. ročníku.
