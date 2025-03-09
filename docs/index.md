@@ -25,6 +25,12 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 
 <a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 Životopis v češtině</a>
 
+## Donate Me
+
+|                  |                                    |
+|------------------|------------------------------------|
+| Bitcoin address: | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP |
+
 ## 📬 Contact Me
 
 - ✉️ Email: [krato@krato.cz](mailto:krato@krato.cz)
@@ -33,16 +39,7 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 
 Feel free to reach out for collaboration or tech discussions! 🚀
 
-## QR code vCard
+## vCard (QR code)
 
-<img src="./assets/qrcode-url-krato.cz-vcard-02.svg" align="left" width="200" style="margin: 10px;" alt="QR code with contact information">
+![QR code with contact information](./assets/qrcode-url-krato.cz-vcard-02.svg)
 
-Petr Kratochvíl
-
-self-employed developer, DevOps engineer and sysadmin
-
-phone: +420776762237
-
-email: [krato@krato.cz](mailto:krato@krato.cz)
-
-homepage: [krato.cz](https://krato.cz/)
