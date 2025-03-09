@@ -1,8 +1,8 @@
 # CV in English
 
-Always up-to-date version:  [krato.cz/en/cv](../en/cv.md)
+Always up-to-date version:  [krato.cz/en/cv](https://krato.cz/en/cv)
 
-CV in Czech is also available: [krato.cz/cs/cv](../cs/cv.md)
+CV in Czech is also available: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 
 ## Personal data
 

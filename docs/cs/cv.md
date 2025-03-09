@@ -1,8 +1,8 @@
 # Životopis v češtině
 
-Vždy aktuální verze:  [krato.cz/cs/cv](../cs/cv.md)
+Vždy aktuální verze:  [krato.cz/cs/cv](https://krato.cz/cs/cv)
 
-K dispozici je také životopis v angličtině: [krato.cz/en/cv](../en/cv.md)
+K dispozici je také životopis v angličtině: [krato.cz/en/cv](https://krato.cz/en/cv)
 
 ## Osobní údaje
 
