@@ -1,5 +1,9 @@
 # Ing. Petr Kratochvíl
 
+I'm a full-stack developer, DevOps engineer, and Linux system administrator.
+
+I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infrastructure, automation, and containerized deployments. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel.
+
 ## Profiles
 
 | Platform        | Link                                                                         |
@@ -20,6 +24,14 @@
 ## Curriculum Vitae (CV)
 
 <a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 Životopis v češtině</a>
+
+## 📬 Contact Me
+
+- ✉️ Email: [krato@krato.cz](mailto:krato@krato.cz)
+- 🐦 Twitter: [@kratocz](https://twitter.com/kratocz)
+- 📞 Phone: +420776762237
+
+Feel free to reach out for collaboration or tech discussions! 🚀
 
 ## QR code vCard
 
