@@ -78,11 +78,3 @@ Courses
 ## vCard (QR code)
 
 ![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-vcard-02.svg)
-
-|           |                                                       |
-|-----------|-------------------------------------------------------|
-| Name:     | Petr Kratochvíl                                       |
-| Job:      | self-employed developer, DevOps engineer and sysadmin |
-| Phone:    | +420776762237                                         |
-| E-mail:   | [krato@krato.cz](mailto:krato@krato.cz)               |
-| Homepage: | [krato.cz](https://krato.cz/)                         |
