@@ -49,35 +49,48 @@ I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 
 ## Educational attainment
 
-* 2002 – 2007: Engineer study at the Faculty of  Applied Sciences at the University of West Bohemia in Pilsen. Study program: Engineering Science – Computer Science and Engineering. Specialization: Distributed Systems. Diploma thesis topic: “Communication system using mobile devices“. Merit Scholarship in third and fourth year of study.
-* 1997 – 2001: Secondary school: SPŠ A VOŠ Písek – School of Electrical Engineering, specialization: electronic computers.
-Work experience
-* 2015 January – today: Freelancer: website and API backend development, Linux server administration, security management and more.
-* 2014 October – December: ext. cooperation: RTsoft s.r.o. – website development.
-* 2013 March: ext. cooperation: RTsoft s.r.o. – intranet website for stock.
-* 2011 February – August: ext. cooperation: Swistar, s.r.o. – hotel book for Android tablets.
-* 2007: external cooperation: University of West Bohemia in Pilsen – International Student Club – development of International Student Club website.
-* 2002 – 2004: external cooperation with the department of information systems at Tábor Hospital (Nemocnice Tábor, a.s.) – development of intranet website (HTML, PHP, MySQL) and their maintenance and innovation.
-* 2002: 5 months full time work at department of information systems at Tábor Hospital.
+| Period | Institution and description |
+|--------|----------------------------|
+| 2002 – 2007 | Engineer study at the Faculty of Applied Sciences at the University of West Bohemia in Pilsen. Study program: Engineering Science – Computer Science and Engineering. Specialization: Distributed Systems. Diploma thesis topic: "Communication system using mobile devices". Merit Scholarship in third and fourth year of study. |
+| 1997 – 2001 | Secondary school: SPŠ A VOŠ Písek – School of Electrical Engineering, specialization: electronic computers. |
+
+## Work experience
+
+| Period                  | Position and description                                                                                                                                                                             |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2015 January – today    | Freelancer: website and API backend development, Linux server administration, security management and more.                                                                                          |
+| 2014 October – December | ext. cooperation: RTsoft s.r.o. – website development.                                                                                                                                               |
+| 2013 March              | ext. cooperation: RTsoft s.r.o. – intranet website for stock.                                                                                                                                        |
+| 2011 February – August  | ext. cooperation: Swistar, s.r.o. – hotel book for Android tablets.                                                                                                                                  |
+| 2007                    | external cooperation: University of West Bohemia in Pilsen – International Student Club – development of International Student Club website.                                                         |
+| 2002 – 2004             | external cooperation with the department of information systems at Tábor Hospital (Nemocnice Tábor, a.s.) – development of intranet website (HTML, PHP, MySQL) and their maintenance and innovation. |
+| 2002                    | 5 months full time work at department of information systems at Tábor Hospital.                                                                                                                      |
 
 ## Skills
 
 ### IT contests
 
-* Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague in years 2004, 2005 and 2006.
-* Representation on ACM – International Collegiate Programming Contest – European   round in Budapest in years 2005 and 2006.
-* Primary and secondary school – programming contest  – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997.
-
+| Period/Event     | Achievement                                                                                                                                                                 |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
+| 2005, 2006       | Representation on ACM – International Collegiate Programming Contest – European round in Budapest.                                                                          |
+| 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
 ### IT skills
 
-* Programming languages – professional: PHP, Java, JavaScript, ECMAScript 6.
-* Programming languages – advanced: TypeScript, ANSI C, C#, Delphi.
-* Operating systems – professional: Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …).
-* Other – professional: Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA a UML modelování, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine.
-* Other – advanced: Software and hardware of usual PC, CMS Drupal, artificial intelligence.
-Courses
-* Cisco Networking Academy (CNA) – obtained all four certificates in year 2006.
-* Own course released on YouTube in year 2020: https://www.youtube.com/c/PetrKratochvil
+| Category                             | Skills                                                                                                                                                                 |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programming languages – professional | PHP, Java, JavaScript, ECMAScript 6                                                                                                                                    |
+| Programming languages – advanced     | TypeScript, ANSI C, C#, Delphi                                                                                                                                         |
+| Operating systems – professional     | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                        |
+| Other – professional                 | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA a UML modelování, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine |
+| Other – advanced                     | Software and hardware of usual PC, CMS Drupal, artificial intelligence                                                                                                 |
+
+### Courses
+
+| Course                         | Details                                                                    |
+|--------------------------------|----------------------------------------------------------------------------|
+| Cisco Networking Academy (CNA) | Obtained all four certificates in year 2006                                |
+| Own course                     | Released on YouTube in year 2020: https://www.youtube.com/c/PetrKratochvil |
 
 ### Language skills
 
