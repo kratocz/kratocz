@@ -28,9 +28,11 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 
 ## Donate Me
 
-|                  |                                    |
-|------------------|------------------------------------|
-| Bitcoin address: | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP |
+|                       |                                            |
+|-----------------------|--------------------------------------------|
+| Bank account number:  | 2400102355 / 2010                          |
+| Bank IBAN, BIC/SWIFT: | CZ09 2010 0000 0024 0010 2355, FIOBCZPPXXX |
+| Bitcoin address:      | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP         |
 
 ## 📬 Contact Me
 
