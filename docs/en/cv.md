@@ -13,7 +13,7 @@ I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 |---------------------------------|---------------------------------------------|
 | Title, first name and surname:  | Ing. Petr Kratochvíl                        |
 | Identification number (IN, IČ): | 03645762                                    |
-| Date of birth:                  | 9th October 1981                            |
+| Date of birth:                  | 9ᵗʰ October 1981                            |
 | Place of residence:             | Havanská 2808, 390 05 Tábor, Czech Republic |
 | Phone number:                   | +420776762237                               |
 | Homepage:                       | [krato.cz](https://krato.cz)                |
