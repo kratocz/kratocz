@@ -35,6 +35,13 @@ h1#intro {
     margin-top: -2rem;
 }
 
+h2#donate-me + div.md-typeset__scrollwrap thead tr,
+h2#personal-data + div.md-typeset__scrollwrap thead tr,
+h2#osobni-udaje + div.md-typeset__scrollwrap thead tr
+{
+    display: none;
+}
+
 @media print {
     table {
         break-inside: avoid;
