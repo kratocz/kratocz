@@ -37,6 +37,7 @@ h1#intro {
 
 @media print {
     table {
+        break-inside: avoid;
         page-break-inside: avoid;
     }
 
