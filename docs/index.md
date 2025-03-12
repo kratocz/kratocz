@@ -26,6 +26,8 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 
 <a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 Životopis v češtině</a>
 
+<div id="section-donate_me">
+
 ## Donate Me
 
 |                       |                                            |
@@ -33,6 +35,8 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 | Bank account number:  | 2400102355 / 2010                          |
 | Bank IBAN, BIC/SWIFT: | CZ09 2010 0000 0024 0010 2355, FIOBCZPPXXX |
 | Bitcoin address:      | 12ULg96Py4xXgSWpQS1uMLGzJ5Lpr9TheP         |
+
+</div>
 
 ## 📬 Contact Me
 
