@@ -31,7 +31,7 @@ header span.md-ellipsis {
 }
 
 h1#intro {
-    font-size: 0px;
+    font-size: 0;
     margin-top: -2rem;
 }
 
@@ -42,12 +42,21 @@ h2#osobni-udaje + div.md-typeset__scrollwrap thead tr
     display: none;
 }
 
-@media print {
-    table {
-        break-inside: avoid;
-        page-break-inside: avoid;
-    }
+h1, h2, h3, h4, h5 {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    break-after: avoid;
+    page-break-after: avoid;
+}
 
+table {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    break-before: avoid;
+    page-break-before: avoid;
+}
+
+@media print {
     .md-typeset h1,
     .md-typeset h2,
     .md-typeset h3,
