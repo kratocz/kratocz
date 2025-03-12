@@ -36,6 +36,10 @@ h1#intro {
 }
 
 @media print {
+    table {
+        page-break-inside: avoid;
+    }
+
     .md-typeset h1,
     .md-typeset h2,
     .md-typeset h3,
