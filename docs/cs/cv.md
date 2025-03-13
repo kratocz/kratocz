@@ -70,7 +70,7 @@ Jsem full-stack IT developer, DevOps engineer a Linux system administrator.
 
 ### IT znalosti
 
-| Kategorie                           | Dovednosti                                                                                                                                                             |
+| Kategorie                           | Znalosti                                                                                                                                                               |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Programovací jazyky – profesionální | PHP, Java, JavaScript, ES6                                                                                                                                             |
 | Programovací jazyky – pokročilý     | TypeScript, ANSI C, C#, Delphi                                                                                                                                         |

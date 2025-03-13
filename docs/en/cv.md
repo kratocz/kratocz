@@ -75,6 +75,7 @@ I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 | 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
 | 2005, 2006       | Representation on ACM – International Collegiate Programming Contest – European round in Budapest.                                                                          |
 | 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
+
 ### IT skills
 
 | Category                             | Skills                                                                                                                                                                 |
