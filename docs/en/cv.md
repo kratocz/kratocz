@@ -21,15 +21,16 @@ I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 
 ## Profiles
 
-| Platform        | Link                                                                         |
-|-----------------|------------------------------------------------------------------------------|
-| 🌍 Homepage:    | [krato.cz](https://krato.cz/)                                                |
-| 🐙 GitHub:      | [github.com/kratocz](https://github.com/kratocz)                             |
-| 💼 LinkedIn:    | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/)          |
-| 📺 YouTube:     | [www.youtube.com/c/PetrKratochvil](https://www.youtube.com/c/PetrKratochvil) |
-| 🐦 Twitter (X): | [x.com/kratocz](https://x.com/kratocz)                                       |
-| 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                     |
-| 🚴 Strava:      | [www.strava.com/athletes/kratocz](https://www.strava.com/athletes/kratocz)   |
+| Platform        | Link                                                                                 |
+|-----------------|--------------------------------------------------------------------------------------|
+| 🌍 Homepage:    | [krato.cz](https://krato.cz/)                                                        |
+| 🐙 GitHub:      | [github.com/kratocz](https://github.com/kratocz)                                     |
+| 💼 LinkedIn:    | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/)                  |
+| ▶️ YouTube:     | [www.youtube.com/c/PetrKratochvil](https://www.youtube.com/c/PetrKratochvil)         |
+| ☁️ BlueSky:     | [bsky.app/profile/kratocz.bsky.social](https://bsky.app/profile/kratocz.bsky.social) |
+| 🐦 Twitter (X): | [x.com/kratocz](https://x.com/kratocz)                                               |
+| 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                             |
+| 🚴 Strava:      | [www.strava.com/athletes/kratocz](https://www.strava.com/athletes/kratocz)           |
 
 ## Public Projects
 
