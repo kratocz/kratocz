@@ -8,6 +8,8 @@ theme:
 use_directory_urls: true
 extra:
   generator: false
+markdown_extensions:
+  - md_in_html
 extra_css:
   - './assets/common.css'
 repo_url: 'https://github.com/kratocz/'
