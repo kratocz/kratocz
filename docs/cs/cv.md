@@ -68,9 +68,17 @@ Jsem full-stack IT developer, DevOps engineer a Linux system administrator.
 | 2002 – 2004           | externí spolupráce: Oddělení informačních systémů v Nemocnici Tábor, a.s. – vývoj intranetových webových stránek (HTML, PHP, MySQL) a jejich údržba a inovace.             |
 | 2002                  | 5 měsíců trvalý prac. poměr na oddělení informačních systémů v Nemocnici Tábor, a.s.                                                                                       |
 
-## Znalosti a úspěchy
+## IT znalosti a úspěchy
 
-### IT znalosti
+### Úspěchy
+
+| Rok              | Úspěch                                                                                                                                                                      |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2005, 2006       | Representation on ACM – International Collegiate Programming Contest – European round in Budapest.                                                                          |
+| 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
+| 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
+
+### Znalosti
 
 | Kategorie                           | Znalosti                                                                                                                                                               |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

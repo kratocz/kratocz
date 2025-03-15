@@ -68,17 +68,17 @@ I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
 | 2002 – 2004             | external cooperation with the department of information systems at Tábor Hospital (Nemocnice Tábor, a.s.) – development of intranet website (HTML, PHP, MySQL) and their maintenance and innovation. |
 | 2002                    | 5 months full time work at department of information systems at Tábor Hospital.                                                                                                                      |
 
-## Skills
+## IT Skills
 
-### IT contests
+### Contests
 
 | Period/Event     | Achievement                                                                                                                                                                 |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
 | 2005, 2006       | Representation on ACM – International Collegiate Programming Contest – European round in Budapest.                                                                          |
+| 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
 | 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
 
-### IT skills
+### Skills
 
 | Category                             | Skills                                                                                                                                                                 |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
