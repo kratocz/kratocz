@@ -1,6 +1,6 @@
 # CV in English
 
-I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
+**Petr Kratochvíl** is a full-stack IT developer, DevOps engineer, and Linux system administrator.
 
 ## CV updates
 

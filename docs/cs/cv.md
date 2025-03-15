@@ -1,6 +1,6 @@
 # Životopis v češtině
 
-Jsem full-stack IT developer, DevOps engineer a Linux system administrator.
+Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux system administrator.
 
 ## CV updates
 
