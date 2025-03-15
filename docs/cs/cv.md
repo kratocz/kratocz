@@ -93,8 +93,9 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 * **Cisco Networking Academy (CNA)** – získány všechny čtyři certifikáty v roce 2006.
 * V roce 2020 uveden vlastní kurz na YouTube: https://www.youtube.com/c/PetrKratochvil
 
-### Jazykové znalosti
+## Jazykové znalosti
 
+* **Čeština** – aktivně, rodilý mluvčí – písmem a slovem.
 * **Angličtina** – aktivně, pokročilý – písmem a slovem.
 
 ### Úspěchy v IT soutěžích
