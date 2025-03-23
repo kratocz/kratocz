@@ -107,4 +107,4 @@
 
 ## vCard (QR code)
 
-![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-vcard-02.svg)
+![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-en-vcard.svg)

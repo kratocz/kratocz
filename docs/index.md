@@ -46,5 +46,5 @@ Feel free to reach out for collaboration or tech discussions! 🚀
 
 ## vCard (QR code)
 
-![QR code with contact information](./assets/qrcode-url-krato.cz-vcard-02.svg)
+![QR code with contact information](./assets/qrcode-url-krato.cz-en-vcard.svg)
 

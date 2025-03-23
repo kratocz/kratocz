@@ -110,4 +110,4 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 
 ## Vizitka (QR code)
 
-![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-vcard-02.svg)
+![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-cs-vcard.svg)
