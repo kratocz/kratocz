@@ -28,6 +28,7 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 | 👨‍💼 LinkedIn:      | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/)                  |
 | ▶️ YouTube:          | [www.youtube.com/@kratocz](https://www.youtube.com/@kratocz)                         |
 | 🐳 Docker Hub:       | [hub.docker.com/u/krato](https://hub.docker.com/u/krato)                             |
+| 🤗 Hugging Face:     | [huggingface.co/kratocz](https://huggingface.co/kratocz)                             |
 | ☁️ Bluesky:          | [bsky.app/profile/kratocz.bsky.social](https://bsky.app/profile/kratocz.bsky.social) |
 | 🐦 Twitter (X):      | [x.com/kratocz](https://x.com/kratocz)                                               |
 | 📘 Facebook:         | [facebook.com/kratocz](https://www.facebook.com/kratocz)                             |
