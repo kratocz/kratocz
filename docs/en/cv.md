@@ -92,10 +92,10 @@
 
 ### Courses
 
-| Course                         | Details                                                                    |
-|--------------------------------|----------------------------------------------------------------------------|
-| Cisco Networking Academy (CNA) | Obtained all four certificates in year 2006                                |
-| Own course                     | Released on YouTube in year 2020: https://www.youtube.com/c/PetrKratochvil |
+| Course                         | Details                                                                                                |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| Cisco Networking Academy (CNA) | Obtained all four certificates in year 2006                                                            |
+| Own course                     | Released on YouTube in year 2020: [youtube.com/c/PetrKratochvil](https://youtube.com/c/PetrKratochvil) |
 
 ## Language skills
 
