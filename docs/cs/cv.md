@@ -92,6 +92,15 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 
 ### Kurzy
 
+#### Moje kurzy pro Vás, zdarma, rok 2020
+
+* Docker: https://www.youtube.com/watch?v=wJdsPSFE5n8
+* Btrfs: https://www.youtube.com/watch?v=6o5gble3dYY
+* Celý Kratokurz (playlist): https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x
+
+
+
+
 * **Cisco Networking Academy (CNA)** – získány všechny čtyři certifikáty v roce 2006.
 * V roce 2020 uveden vlastní kurz na YouTube: [youtube.com/c/PetrKratochvil](https://youtube.com/c/PetrKratochvil)
 
