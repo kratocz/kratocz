@@ -69,4 +69,9 @@ table {
     header div.md-header__topic {
         padding-right: 4rem;
     }
+
+    /* List items styling - smaller font size */
+    ol li {
+        font-size: 0.8em;
+    }
 }
