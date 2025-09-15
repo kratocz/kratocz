@@ -232,10 +232,10 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 
 #### CCNA 1 - 4 (Cisco Networking Academy, 2006)
 
-* CCNA 1 – základy sítí (Networking for Home and Small Businesses)
-* CCNA 2 – střední / malé podniky / ISP (Working at a Small-to-Medium Business or ISP)
-* CCNA 3 – zavádění směrování a přepínání na úrovni podniku (Enterprise)
-* CCNA 4 – navrhování struktury počítačových sítí + pokročilé aspekty.
+1. CCNA 1 – základy sítí (Networking for Home and Small Businesses)
+2. CCNA 2 – střední / malé podniky / ISP (Working at a Small-to-Medium Business or ISP)
+3. CCNA 3 – zavádění směrování a přepínání na úrovni podniku (Enterprise)
+4. CCNA 4 – navrhování struktury počítačových sítí + pokročilé aspekty.
 
 ### Plánované kurzy
 

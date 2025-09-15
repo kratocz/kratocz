@@ -232,10 +232,10 @@ The course was conducted via distance learning in Czech and focused on using art
 
 #### CCNA 1 - 4 (Cisco Networking Academy, 2006)
 
-* CCNA 1 – network basics (Networking for Home and Small Businesses)
-* CCNA 2 – medium / small enterprises / ISP (Working at a Small-to-Medium Business or ISP)
-* CCNA 3 – implementing enterprise-level routing and switching (Enterprise)
-* CCNA 4 – designing computer network structure + advanced aspects.
+1. CCNA 1 – network basics (Networking for Home and Small Businesses)
+2. CCNA 2 – medium / small enterprises / ISP (Working at a Small-to-Medium Business or ISP)
+3. CCNA 3 – implementing enterprise-level routing and switching (Enterprise)
+4. CCNA 4 – designing computer network structure + advanced aspects.
 
 ### Planned Courses
 
