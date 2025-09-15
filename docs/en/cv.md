@@ -109,7 +109,7 @@ Overview of courses I have completed (sorted in descending order by completion d
 | 2025 | AI Agents                                      | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
 | 2025 | AI Developer                                   | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
 | 2025 | AI Level Up                                    | coalbrain (coalsoft s.r.o.)                 | Attendance (course did not verify knowledge) | AI                 |
-| 2025 | AI without Nonsense                            | coalbrain (coalsoft s.r.o.)                 | Attendance (course did not verify knowledge) | AI                 |
+| 2025 | Practical AI                                   | coalbrain (coalsoft s.r.o.)                 | Attendance (course did not verify knowledge) | AI                 |
 | 2006 | Cisco Certified Network Associate (CCNA 1 - 4) | Cisco Networking Academy                    | Successful completion (final test)          | network technologies |
 
 ### Knowledge and Experience Gained in Courses
@@ -220,12 +220,12 @@ We hereby confirm that Petr Kratochvíl successfully completed the course AI Lev
 
 The course was conducted via distance learning in Czech and focused on using artificial intelligence in personal and professional life to increase productivity and simplify everyday tasks.
 
-#### AI without Nonsense (coalbrain, 2025)
+#### Practical AI (coalbrain, 2025)
 
 * Course page: https://coalbrain.cz/produkt/ai-bez-kecu
 * Instructor: Marek Bartoš (artificial intelligence popularizer, coalsoft)
 
-Knowledge and experience gained: We hereby confirm that Petr Kratochvíl successfully completed the course AI without Nonsense organized by coalsoft s.r.o. from May 13 to May 27, 2025, with a total duration of 8 hours.
+Knowledge and experience gained: We hereby confirm that Petr Kratochvíl successfully completed the course Practical AI organized by coalsoft s.r.o. from May 13 to May 27, 2025, with a total duration of 8 hours.
 
 The course was conducted via distance learning in Czech and focused on using artificial intelligence in personal and professional life to increase productivity and simplify everyday tasks.
 
