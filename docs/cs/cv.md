@@ -37,6 +37,8 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 
 ## Veřejné projekty
 
+- 🤖 **Local AI Coder** - AI agent pro lokální vývoj kódu (závěrečný projekt kurzu AI Agenti): [GitHub Repo](https://github.com/kratocz/localaicoder)
+- ⚡ **Sys Alert Tuner** - AI systém pro ladění alertů (závěrečný projekt kurzu AI Developer): [GitHub Repo](https://github.com/kratocz/sys-alert-tuner)
 - 🏗 **Znalostní báze IT** - Strukturovaný repozitář mých IT znalostí: [GitHub Repo](https://github.com/kratocz/shel)
 - 🐧 **Tutoriály pro Btrfs, Docker a správu Linuxu** - YouTube playlist v češtině: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
 - 📦 **Docker a DevOps nástroje** - Různé kontejnerizační a automatizační skripty: [GitHub Repos](https://github.com/kratocz?tab=repositories)
@@ -181,6 +183,8 @@ Program kurzu:
 10. RL agent – praktický projekt
 11. Shrnutí a diskuze
 
+Vypracovaný závěrečný projekt: https://github.com/kratocz/localaicoder (Local AI Coder)
+
 #### AI Developer (robot_dreams, 2025)
 
 * Stránka kurzu: https://robotdreams.cz/course/287-t6-ai-developer
@@ -204,6 +208,8 @@ Program kurzu:
 12.	Shrnutí a budoucí směry
 
 Absolvent kurzu získal znalosti a praktické dovednosti potřebné k plnému vývojovému cyklu AI agentů, včetně sběru, čištění a strukturování trénovacích dat, návrhu a hodnocení promptů, fine-tuningu LLM, optimalizace výkonu modelů a jejich integrace do komplexních systémů. Zvládá práci v Pythonu s klíčovými knihovnami a frameworky jako PyTorch, HuggingFace a LangChain, osvojil si metody retrieval-augmented generation (RAG) a orchestraci více agentů přes LangGraph či Semantic Kernel, a naučil se nasazení AI řešení včetně Autogen workflow. Výstupem je plně funkční AI agent.
+
+Vypracovaný závěrečný projekt: https://github.com/kratocz/sys-alert-tuner (Sys Alert Tuner)
 
 #### AI Level Up (coalbrain, 2025)
 

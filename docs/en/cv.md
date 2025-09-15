@@ -37,6 +37,8 @@ Ing. **Petr Kratochvíl** is a full-stack IT developer, DevOps engineer and Linu
 
 ## Public Projects
 
+- 🤖 **Local AI Coder** - AI agent for local code development (final project of AI Agents course): [GitHub Repo](https://github.com/kratocz/localaicoder)
+- ⚡ **Sys Alert Tuner** - AI system for alert tuning (final project of AI Developer course): [GitHub Repo](https://github.com/kratocz/sys-alert-tuner)
 - 🏗 **IT Knowledge Base** - Structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
 - 🐧 **Tutorials for Btrfs, Docker and Linux Administration** - YouTube playlist in Czech: [Kratokurz - 1st series videos (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
 - 📦 **Docker and DevOps tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
@@ -181,6 +183,8 @@ Course program:
 10. RL agent – practical project
 11. Summary and discussion
 
+Final project completed: https://github.com/kratocz/localaicoder (Local AI Coder)
+
 #### AI Developer (robot_dreams, 2025)
 
 * Course page: https://robotdreams.cz/course/287-t6-ai-developer
@@ -204,6 +208,8 @@ Course program:
 12. Summary and future directions
 
 The course graduate gained knowledge and practical skills needed for the full development cycle of AI agents, including collection, cleaning and structuring of training data, prompt design and evaluation, LLM fine-tuning, model performance optimization and their integration into complex systems. They master working in Python with key libraries and frameworks such as PyTorch, HuggingFace and LangChain, learned retrieval-augmented generation (RAG) methods and orchestration of multiple agents through LangGraph or Semantic Kernel, and learned AI solution deployment including Autogen workflow. The output is a fully functional AI agent.
+
+Final project completed: https://github.com/kratocz/sys-alert-tuner (Sys Alert Tuner)
 
 #### AI Level Up (coalbrain, 2025)
 
