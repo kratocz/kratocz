@@ -13,6 +13,10 @@ extra:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      social_url_shorthand: true
+      normalize_issue_symbols: true
 extra_css:
   - './assets/common.css'
 repo_url: 'https://github.com/kratocz/'
