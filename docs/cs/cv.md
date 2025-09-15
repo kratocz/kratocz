@@ -76,9 +76,9 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 
 | Rok              | Úspěch                                                                                                                                                                      |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2005, 2006       | Representation on ACM – International Collegiate Programming Contest – European round in Budapest.                                                                          |
-| 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
-| 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
+| 2005, 2006       | Reprezentace na ACM – International Collegiate Programming Contest – evropské kolo v Budapešti.                                                                            |
+| 2004, 2005, 2006 | Reprezentace na ACM – International Collegiate Programming Contest – celostátní kolo v Praze.                                                                              |
+| 1997 a dříve     | Základní a střední škola – programátorské soutěže – reprezentace na krajském kole v Českých Budějovicích a reprezentace na celostátním kole v Mladé Boleslavi v roce 1997. |
 
 ## Znalosti
 
@@ -222,7 +222,7 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 
 #### AI bez keců (coalbrain, 2025)
 
-* Stránka kurzu: https://robotdreams.cz/course/287-t6-ai-developer
+* Stránka kurzu: https://coalbrain.cz/produkt/ai-bez-kecu
 * Lektor: Marek Bartoš (populizátor umělé inteligence, coalsoft)
 
 Získané znalosti a zkušenosti: Tímto potvrzujeme, že Petr Kratochvíl úspěšně absolvoval kurz s názvem AI bez keců pořádaný společností coalsoft s.r.o. v termínu od 13. 5. do 27. 5. 2025 v celkovém rozsahu 8 hodin.
@@ -242,7 +242,7 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 |-----------------|--------------------------|---------------------------------------------|---------------|
 | plán na 2025    | Staň se etickým hackerem | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | plán na 2025    | Advanced AI Applications | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
-| aktuálně v 2025 | Cloud Architect          | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
+| aktuálně v 2025 | Cloud Architect          | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
 
 ## Soutěže
 
@@ -261,4 +261,4 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 
 ## Vizitka (QR code)
 
-![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-cs-vcard.svg)
+![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-vcard.svg)
