@@ -1,6 +1,6 @@
 # Životopis v češtině
 
-Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux system administrator a AI specialista.
+Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadmin a AI specialista.
 
 ## CV updates
 
