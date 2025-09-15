@@ -1,8 +1,8 @@
 # Ing. Petr Kratochvíl
 
-I'm a full-stack IT developer, DevOps engineer, and Linux system administrator.
+I'm a full-stack developer, DevOps engineer, Linux system administrator and AI specialist.
 
-I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infrastructure, automation, and containerized deployments. Passionate about technology, distributed systems, and automation. I love working on open-source projects and sharing knowledge through my YouTube channel.
+I specialize in working with PHP, Docker, AI technologies, and Btrfs, focusing on scalable infrastructure, automation, containerized deployments, and AI agent development. Passionate about technology, distributed systems, automation, and cybersecurity. I love working on open-source projects and sharing knowledge through my YouTube channel.
 
 ## Profiles
 
@@ -22,6 +22,8 @@ I specialize in working with PHP, Docker, and Btrfs, focusing on scalable infras
 
 ## Public Projects
 
+- 🤖 **Local AI Coder** - AI agent for local code development (final project of AI Agents course): [GitHub Repo](https://github.com/kratocz/localaicoder)
+- ⚡ **Sys Alert Tuner** - AI system for alert tuning (final project of AI Developer course): [GitHub Repo](https://github.com/kratocz/sys-alert-tuner)
 - 🏗 **IT Knowledge Base** - A structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
 - 🐧 **Btrfs, Docker and Linux administration Tutorials** - YouTube Playlist in Czech: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
 - 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
@@ -49,5 +51,5 @@ Feel free to reach out for collaboration or tech discussions! 🚀
 
 ## vCard (QR code)
 
-![QR code with contact information](./assets/qrcode-url-krato.cz-en-vcard.svg)
+![QR code with contact information](./assets/qrcode-url-krato.cz-vcard.svg)
 
