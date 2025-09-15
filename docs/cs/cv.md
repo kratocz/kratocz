@@ -4,7 +4,7 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 
 ## CV updates
 
-* 🇺🇸 CV in English:  [krato.cz/en/cv](https://krato.cz/en/cv)
+* 🇺🇸 CV in English: [krato.cz/en/cv](https://krato.cz/en/cv)
 * 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 
 ## Osobní údaje
@@ -70,9 +70,7 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 | 2002 – 2004           | externí spolupráce: Oddělení informačních systémů v Nemocnici Tábor, a.s. – vývoj intranetových webových stránek (HTML, PHP, MySQL) a jejich údržba a inovace.             |
 | 2002                  | 5 měsíců trvalý prac. poměr na oddělení informačních systémů v Nemocnici Tábor, a.s.                                                                                       |
 
-## IT znalosti a úspěchy
-
-### Úspěchy
+## Úspěchy
 
 | Rok              | Úspěch                                                                                                                                                                      |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -80,39 +78,175 @@ Ing. **Petr Kratochvíl** je full-stack IT developer, DevOps engineer a Linux sy
 | 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
 | 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
 
-### Znalosti
+## Znalosti
 
-| Kategorie                           | Znalosti                                                                                                                                                               |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Programovací jazyky – profesionální | PHP, Java, JavaScript, ES6                                                                                                                                             |
-| Programovací jazyky – pokročilý     | TypeScript, ANSI C, C#, Delphi                                                                                                                                         |
-| Operační systémy – profesionální    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                        |
-| Ostatní – profesionální             | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA a UML modelování, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine |
-| Ostatní – pokročilý                 | Software a hardware běžného PC, CMS Drupal, umělá inteligence                                                                                                          |
+| Kategorie                           | Znalosti                                                                                                                                                                                  |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programovací jazyky – profesionální | PHP, Java, JavaScript, ES6                                                                                                                                                                |
+| Programovací jazyky – pokročilý     | TypeScript, ANSI C, C#, Delphi                                                                                                                                                            |
+| Operační systémy – profesionální    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                                           |
+| Ostatní – profesionální             | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA a UML modelování, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine, umělá inteligence |
+| Ostatní – pokročilý                 | Software a hardware běžného PC, CMS Drupal                                                                                                                                                |
 
-### Kurzy
+## Kurzy
 
-#### Moje kurzy pro Vás, zdarma, rok 2020
+### Moje tvorba kurzů
 
-* Docker: https://www.youtube.com/watch?v=wJdsPSFE5n8
-* Btrfs: https://www.youtube.com/watch?v=6o5gble3dYY
-* Celý Kratokurz (playlist): https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x
+| Rok  | Kurz               | URL adresa                                                               | Oblast                                                                                                           |
+|------|--------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 2020 | Kratokurz (zdarma) | https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x | [Docker](https://www.youtube.com/watch?v=wJdsPSFE5n8), [Btrfs](https://www.youtube.com/watch?v=6o5gble3dYY), ... |
 
+### Absolvované kurzy
 
+Přehled kurzů, které jsem absolvoval (seřazeno sestupně podle data absolvování):
 
+| Rok  | Kurz / Certifikace                             | Instituce / Poskytovatel                    | Typ získaného certifikátu                       | Oblast             |
+|------|------------------------------------------------|---------------------------------------------|-------------------------------------------------|--------------------|
+| 2025 | Computer Vision                                | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | AI                 |
+| 2025 | Penetrační testování prakticky                 | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | cybersecurity      |
+| 2025 | AI Agenti                                      | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | AI                 |
+| 2025 | AI Developer                                   | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | AI                 |
+| 2025 | AI Level Up                                    | coalbrain (coalsoft s.r.o.)                 | Účast (kurz neověřoval znalosti)                | AI                 |
+| 2025 | AI bez keců                                    | coalbrain (coalsoft s.r.o.)                 | Účast (kurz neověřoval znalosti)                | AI                 |
+| 2006 | Cisco Certified Network Associate (CCNA 1 - 4) | Cisco Networking Academy                    | Úspěšné absolvování (závěrečný test)            | síťové technologie |
 
-* **Cisco Networking Academy (CNA)** – získány všechny čtyři certifikáty v roce 2006.
-* V roce 2020 uveden vlastní kurz na YouTube: [youtube.com/c/PetrKratochvil](https://youtube.com/c/PetrKratochvil)
+### Znalosti a zkušenosti získané v kurzech
+
+#### Computer Vision (robot_dreams, 2025)
+
+* Stránka kurzu: https://robotdreams.cz/course/323-computer-vision
+* Lektor: Jakub Klus (fyzik, Thermo Fisher Scientific)
+
+Program kurzu:
+
+1. Úvod do strojového vidění
+2. Digitální reprezentace obrazových dat
+3. Snímání obrazu a kamery
+4. Workshop
+5. Geometrické transformace
+6. Morfologické operace
+7. Spektrální transformace
+8. Integrální transformace
+9. Hledání vzorů
+10. Workshop
+11. Registrace obrazu
+12. Segmentace obrazu
+13. Prolínání obrazu
+14. Workshop
+15. Neuronové sítě
+16. Pokročilé aplikace
+
+#### Penetrační testování prakticky (robot_dreams, 2025)
+
+* Stránka kurzu: https://robotdreams.cz/course/455-penetration-tester
+* Lektor: Patrik Žák (Penetrační tester / Business Owner, SYSNETSHIELD)
+
+Petr Kratochvíl v období od 26.05. do 23.07. 2025 úspěšně dokončil kurz Penetrační testování prakticky o celkové délce 18 vyučovacích hodin.
+
+Program kurzu:
+
+1. Úvod do cybersecurity
+2. Information Gathering
+3. Phishing
+4. Enumerace služeb
+5. Bruteforcing
+6. Penetrační test Linuxového serveru
+7. Penetrační test Windows serveru
+8. Penetrační test webové aplikace
+9. Reverse shell a priv esc na Linuxovém serveru
+10. Reverse shell a priv esc na Windows serveru
+11. Reporting
+12. Q&A session
+
+Absolvent kurzu získal teoretické znalosti i praktické dovednosti potřebné k provedení penetračního testu v reálném prostředí. Ovládá práci s nástroji jako Kali Linux, Nmap, OpenVAS, Metasploit či ZAP, rozumí různým typům testů (black-box, white-box, grey-box) a dokáže identifikovat a analyzovat zranitelnosti na úrovni infrastruktury, webových aplikací i operačních systémů. Výstupem je komplexní report z vlastního penetračního testu, včetně doporučení pro zajištění kybernetické bezpečnosti.
+
+#### AI Agenti (robot_dreams, 2025)
+
+* Stránka kurzu: https://robotdreams.cz/course/567-ai-agents
+* Lektor: Lukáš Kellerstein (Senior Software Engineer, Microsoft)
+
+PETR KRATOCHVÍL získal certifikát za úspěšné absolvování kurzu, 29.8.2025, 22 vyučovacích hodin, 11 lekcí.
+
+Program kurzu:
+
+1. AI API a první agent
+2. Databáze pro agenty
+3. Model context protocol (MCP)
+4. Automatizace a workflow s n8n
+5. Vlastní framework pro agenty
+6. LangChain a LangGraph
+7. Semantic Kernel a Autogen
+8. AI agent v praxi: OpenAI Operator styl
+9. Úvod do reinforcement learningu
+10. RL agent – praktický projekt
+11. Shrnutí a diskuze
+
+#### AI Developer (robot_dreams, 2025)
+
+* Stránka kurzu: https://robotdreams.cz/course/287-t6-ai-developer
+* Lektor: Lukáš Kellerstein (Senior Software Engineer, Microsoft)
+
+* Petr Kratochvíl v období od 15.05. do 24.06.2025 úspěšně dokončil kurz AI Developer o celkové délce 24 hodin.
+
+Program kurzu:
+
+1.	Úvod do neuronových sítí a generativní AI
+2.	Návrh promptů a hodnocení LLM
+3.	Příprava dat pro trénování
+4.	Modely OpenAI a Fine-Tuning
+5.	Úvod do Hugging Face
+6.	Fine-Tuning v Hugging Face
+7.	LangChain – vývoj AI aplikací
+8.	LangGraph
+9. Semantic Kernel
+10.	Autogen
+11.	Vývoj AI agentů – praktický workshop
+12.	Shrnutí a budoucí směry
+
+Absolvent kurzu získal znalosti a praktické dovednosti potřebné k plnému vývojovému cyklu AI agentů, včetně sběru, čištění a strukturování trénovacích dat, návrhu a hodnocení promptů, fine-tuningu LLM, optimalizace výkonu modelů a jejich integrace do komplexních systémů. Zvládá práci v Pythonu s klíčovými knihovnami a frameworky jako PyTorch, HuggingFace a LangChain, osvojil si metody retrieval-augmented generation (RAG) a orchestraci více agentů přes LangGraph či Semantic Kernel, a naučil se nasazení AI řešení včetně Autogen workflow. Výstupem je plně funkční AI agent.
+
+#### AI Level Up (coalbrain, 2025)
+
+* Stránka kurzu: https://coalbrain.cz/ai-level-up
+* Lektor: Marek Bartoš (populizátor umělé inteligence, coalsoft)
+
+Tímto potvrzujeme, že Petr Kratochvíl úspěšně absolvoval kurz s názvem AI Level Up pořádaný společností coalsoft s.r.o. v termínu od 29. 5. 2025 do 10. 6. 2025 v celkovém rozsahu 8 hodin.
+
+Kurz se konal formou distančního vzdělávání v jazyce českém a byl zaměřen na využití umělé inteligence v osobním i pracovním životě s cílem zvýšit produktivitu a zjednodušit všední úkoly.
+
+#### AI bez keců (coalbrain, 2025)
+
+* Stránka kurzu: https://robotdreams.cz/course/287-t6-ai-developer
+* Lektor: Marek Bartoš (populizátor umělé inteligence, coalsoft)
+
+Získané znalosti a zkušenosti: Tímto potvrzujeme, že Petr Kratochvíl úspěšně absolvoval kurz s názvem AI bez keců pořádaný společností coalsoft s.r.o. v termínu od 13. 5. do 27. 5. 2025 v celkovém rozsahu 8 hodin.
+
+Kurz se konal formou distančního vzdělávání v jazyce českém a byl zaměřen na využití umělé inteligence v osobním i pracovním životě s cílem zvýšit produktivitu a zjednodušit všední úkoly.
+
+#### CCNA 1 - 4 (Cisco Networking Academy, 2006)
+
+* CCNA 1 – základy sítí (Networking for Home and Small Businesses)
+* CCNA 2 – střední / malé podniky / ISP (Working at a Small-to-Medium Business or ISP)
+* CCNA 3 – zavádění směrování a přepínání na úrovni podniku (Enterprise)
+* CCNA 4 – navrhování struktury počítačových sítí + pokročilé aspekty.
+
+### Plánované kurzy
+
+| Rok             | Kurz / Certifikace       | Instituce / Poskytovatel                    | Oblast        |
+|-----------------|--------------------------|---------------------------------------------|---------------|
+| plán na 2025    | Staň se etickým hackerem | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
+| plán na 2025    | Advanced AI Applications | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
+| aktuálně v 2025 | Cloud Architect          | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
+
+## Soutěže
+
+* Na VŠ v roce 2004, 2005 a 2006 reprezentace na celorep. kole soutěže ACM – International Collegiate Programming Contest, v roce 2005 a 2006 účast na evropském kole v Budapešti.
+* Na ZŠ a SŠ opakované umístění na předních místech v krajském kole v Českých Budějovicích a v roce 1997 účast na mistrovství ČR v programování v Mladé Boleslavi.
 
 ## Jazykové znalosti
 
 * **Čeština** – aktivně, rodilý mluvčí – písmem a slovem.
 * **Angličtina** – aktivně, pokročilý – písmem a slovem.
-
-### Úspěchy v IT soutěžích
-
-* Na VŠ v roce 2004, 2005 a 2006 reprezentace na celorep. kole soutěže ACM – International Collegiate Programming Contest, v roce 2005 a 2006 účast na evropském kole v Budapešti.
-* Na ZŠ a SŠ opakované umístění na předních místech v krajském kole v Českých Budějovicích a v roce 1997 účast na mistrovství ČR v programování v Mladé Boleslavi.
 
 ## Zájmy
 

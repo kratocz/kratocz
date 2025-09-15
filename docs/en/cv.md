@@ -1,23 +1,23 @@
-# CV in English
+# Resume in English
 
-**Petr Kratochvíl** is a full-stack IT developer, DevOps engineer, and Linux system administrator.
+Ing. **Petr Kratochvíl** is a full-stack IT developer, DevOps engineer and Linux system administrator.
 
 ## CV updates
 
-* 🇺🇸 CV in English:  [krato.cz/en/cv](https://krato.cz/en/cv)
+* 🇺🇸 CV in English: [krato.cz/en/cv](https://krato.cz/en/cv)
 * 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 
-## Personal data
+## Personal Information
 
-|                                 |                                             |
-|---------------------------------|---------------------------------------------|
-| Title, first name and surname:  | Ing. Petr Kratochvíl                        |
-| Identification number (IN, IČ): | 03645762                                    |
-| Date of birth:                  | 9ᵗʰ October 1981                            |
-| Place of residence:             | Havanská 2808, 390 05 Tábor, Czech Republic |
-| Phone number:                   | +420776762237                               |
-| Homepage:                       | [krato.cz](https://krato.cz)                |
-| E-mail:                         | [krato@krato.cz](mailto:krato@krato.cz)     |
+|                           |                                              |
+|---------------------------|----------------------------------------------|
+| Title, name and surname:  | Ing. Petr Kratochvíl                         |
+| Business ID:              | 03645762                                     |
+| Date of birth:            | October 9, 1981                              |
+| Place of residence:       | Havanská 2808, 390 05 Tábor, Czech Republic |
+| Phone number:             | +420776762237                                |
+| Homepage:                 | [krato.cz](https://krato.cz)                 |
+| Email:                    | [krato@krato.cz](mailto:krato@krato.cz)      |
 
 ## Profiles
 
@@ -37,11 +37,11 @@
 
 ## Public Projects
 
-- 🏗 **IT Knowledge Base** - A structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
-- 🐧 **Btrfs, Docker and Linux administration Tutorials** - YouTube Playlist in Czech: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
-- 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
+- 🏗 **IT Knowledge Base** - Structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
+- 🐧 **Tutorials for Btrfs, Docker and Linux Administration** - YouTube playlist in Czech: [Kratokurz - 1st series videos (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
+- 📦 **Docker and DevOps tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
 
-## Areas of interest
+## Areas of Interest
 
 * **Backend development** … PHP, Java, Kotlin, …
 * **DevOps** … Docker, Docker Swarm, Kubernetes, Git, GitLab CI/CD, GitHub Actions, …
@@ -51,62 +51,208 @@
 * **SPA frontend** … Angular, CI/CD, GitHub Pages, …
 * **Modern IT technologies** … learning, applying, teaching, …
 
-## Educational attainment
+## Education
 
-| Period | Institution and description |
-|--------|----------------------------|
-| 2002 – 2007 | Engineer study at the Faculty of Applied Sciences at the University of West Bohemia in Pilsen. Study program: Engineering Science – Computer Science and Engineering. Specialization: Distributed Systems. Diploma thesis topic: "Communication system using mobile devices". Merit Scholarship in third and fourth year of study. |
-| 1997 – 2001 | Secondary school: SPŠ A VOŠ Písek – School of Electrical Engineering, specialization: electronic computers. |
+| Period      | Institution and description                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2002 – 2007 | Master's degree at the Department of Computer Science and Computer Engineering at the Faculty of Applied Sciences at the University of West Bohemia in Pilsen. Program and field: Engineering Informatics – Computer Science and Computer Engineering, specialization: Distributed Systems. Thesis topic: "Communication System Using Mobile Devices". Merit scholarship for academic results in 3rd and 4th year. |
+| 1997 – 2001 | Secondary Technical School and College Písek – electrical engineering industrial school, field: electrical computers.                                                                                                                                                                                                                                                                                  |
 
-## Work experience
+## Work Experience
 
-| Period                  | Position and description                                                                                                                                                                             |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2015 January – today    | Freelancer: website and API backend development, Linux server administration, security management and more.                                                                                          |
-| 2014 October – December | ext. cooperation: RTsoft s.r.o. – website development.                                                                                                                                               |
-| 2013 March              | ext. cooperation: RTsoft s.r.o. – intranet website for stock.                                                                                                                                        |
-| 2011 February – August  | ext. cooperation: Swistar, s.r.o. – hotel book for Android tablets.                                                                                                                                  |
-| 2007                    | external cooperation: University of West Bohemia in Pilsen – International Student Club – development of International Student Club website.                                                         |
-| 2002 – 2004             | external cooperation with the department of information systems at Tábor Hospital (Nemocnice Tábor, a.s.) – development of intranet website (HTML, PHP, MySQL) and their maintenance and innovation. |
-| 2002                    | 5 months full time work at department of information systems at Tábor Hospital.                                                                                                                      |
+| Period                | Position and description                                                                                                                                           |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| January 2015 – present | Self-employed – development of web presentations and APIs in PHP, Java, JavaScript, TypeScript, Linux server administration, security management.                  |
+| October – December 2014 | external collaboration: RTsoft s.r.o. – custom web development.                                                                                                     |
+| March 2013            | external collaboration: RTsoft s.r.o. – intranet web pages for inventory management.                                                                             |
+| February – August 2011 | external collaboration: Swistar s.r.o. – hotel book for Android tablets.                                                                                         |
+| 2007                  | external collaboration: University of West Bohemia in Pilsen – International Student Club – development of the International Student Club website, which belongs to the Department of International Relations at UWB. |
+| 2002 – 2004           | external collaboration: Information Systems Department at Tábor Hospital, a.s. – development of intranet web pages (HTML, PHP, MySQL) and their maintenance and innovation. |
+| 2002                  | 5 months permanent employment at the Information Systems Department at Tábor Hospital, a.s.                                                                       |
 
-## IT Skills
+## Achievements
 
-### Contests
+| Year             | Achievement                                                                                                                                                         |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2005, 2006       | Representation at ACM – International Collegiate Programming Contest – European round in Budapest.                                                                  |
+| 2004, 2005, 2006 | Representation at ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                  |
+| 1997 and earlier | Primary and secondary school – programming contest – representation at regional round in České Budějovice and representation at nationwide round in Mladá Boleslav in 1997. |
 
-| Period/Event     | Achievement                                                                                                                                                                 |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2005, 2006       | Representation on ACM – International Collegiate Programming Contest – European round in Budapest.                                                                          |
-| 2004, 2005, 2006 | Representation on ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                          |
-| 1997 and earlier | Primary and secondary school – programming contest – representation on regional round in České Budějovice and representation on nationwide round in Mladá Boleslav in 1997. |
+## Skills
 
-### Skills
+| Category                         | Skills                                                                                                                                                                            |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programming languages – professional | PHP, Java, JavaScript, ES6                                                                                                                                                       |
+| Programming languages – advanced    | TypeScript, ANSI C, C#, Delphi                                                                                                                                                   |
+| Operating systems – professional    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                                  |
+| Other – professional                | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA and UML modeling, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine, artificial intelligence |
+| Other – advanced                    | Common PC software and hardware, CMS Drupal                                                                                                                                       |
 
-| Category                             | Skills                                                                                                                                                                 |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Programming languages – professional | PHP, Java, JavaScript, ECMAScript 6                                                                                                                                    |
-| Programming languages – advanced     | TypeScript, ANSI C, C#, Delphi                                                                                                                                         |
-| Operating systems – professional     | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                        |
-| Other – professional                 | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA a UML modelování, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine |
-| Other – advanced                     | Software and hardware of usual PC, CMS Drupal, artificial intelligence                                                                                                 |
+## Courses
 
-### Courses
+### My Course Creation
 
-| Course                         | Details                                                                                                |
-|--------------------------------|--------------------------------------------------------------------------------------------------------|
-| Cisco Networking Academy (CNA) | Obtained all four certificates in year 2006                                                            |
-| Own course                     | Released on YouTube in year 2020: [youtube.com/c/PetrKratochvil](https://youtube.com/c/PetrKratochvil) |
+| Year | Course             | URL address                                                              | Area                                                                                                             |
+|------|--------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 2020 | Kratokurz (free)   | https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x | [Docker](https://www.youtube.com/watch?v=wJdsPSFE5n8), [Btrfs](https://www.youtube.com/watch?v=6o5gble3dYY), ... |
 
-## Language skills
+### Completed Courses
 
-* **Czech** – active, native speaker – write and speech
-* **English** – active, advanced – write and speech
+Overview of courses I have completed (sorted in descending order by completion date):
 
-## Hobbies
+| Year | Course / Certification                         | Institution / Provider                      | Type of certification obtained              | Area              |
+|------|------------------------------------------------|---------------------------------------------|--------------------------------------------|--------------------|
+| 2025 | Computer Vision                                | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
+| 2025 | Practical Penetration Testing                 | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | cybersecurity      |
+| 2025 | AI Agents                                      | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
+| 2025 | AI Developer                                   | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
+| 2025 | AI Level Up                                    | coalbrain (coalsoft s.r.o.)                 | Attendance (course did not verify knowledge) | AI                 |
+| 2025 | AI without Nonsense                            | coalbrain (coalsoft s.r.o.)                 | Attendance (course did not verify knowledge) | AI                 |
+| 2006 | Cisco Certified Network Associate (CCNA 1 - 4) | Cisco Networking Academy                    | Successful completion (final test)          | network technologies |
 
-* Professional: OS Linux.
-* In free time: In-line skating, swimming, music, horse riding, chess, computer games.
+### Knowledge and Experience Gained in Courses
 
-## vCard (QR code)
+#### Computer Vision (robot_dreams, 2025)
+
+* Course page: https://robotdreams.cz/course/323-computer-vision
+* Instructor: Jakub Klus (physicist, Thermo Fisher Scientific)
+
+Course program:
+
+1. Introduction to machine vision
+2. Digital representation of image data
+3. Image capture and cameras
+4. Workshop
+5. Geometric transformations
+6. Morphological operations
+7. Spectral transformations
+8. Integral transformations
+9. Pattern matching
+10. Workshop
+11. Image registration
+12. Image segmentation
+13. Image blending
+14. Workshop
+15. Neural networks
+16. Advanced applications
+
+#### Practical Penetration Testing (robot_dreams, 2025)
+
+* Course page: https://robotdreams.cz/course/455-penetration-tester
+* Instructor: Patrik Žák (Penetration tester / Business Owner, SYSNETSHIELD)
+
+Petr Kratochvíl successfully completed the Practical Penetration Testing course from May 26 to July 23, 2025, with a total duration of 18 teaching hours.
+
+Course program:
+
+1. Introduction to cybersecurity
+2. Information Gathering
+3. Phishing
+4. Service enumeration
+5. Bruteforcing
+6. Linux server penetration test
+7. Windows server penetration test
+8. Web application penetration test
+9. Reverse shell and privilege escalation on Linux server
+10. Reverse shell and privilege escalation on Windows server
+11. Reporting
+12. Q&A session
+
+The course graduate gained theoretical knowledge and practical skills needed to perform penetration testing in a real environment. They master working with tools such as Kali Linux, Nmap, OpenVAS, Metasploit or ZAP, understand different types of tests (black-box, white-box, grey-box) and can identify and analyze vulnerabilities at the infrastructure, web application and operating system level. The output is a comprehensive report from their own penetration test, including recommendations for cybersecurity.
+
+#### AI Agents (robot_dreams, 2025)
+
+* Course page: https://robotdreams.cz/course/567-ai-agents
+* Instructor: Lukáš Kellerstein (Senior Software Engineer, Microsoft)
+
+PETR KRATOCHVÍL received a certificate for successful completion of the course, August 29, 2025, 22 teaching hours, 11 lessons.
+
+Course program:
+
+1. AI API and first agent
+2. Database for agents
+3. Model context protocol (MCP)
+4. Automation and workflow with n8n
+5. Custom framework for agents
+6. LangChain and LangGraph
+7. Semantic Kernel and Autogen
+8. AI agent in practice: OpenAI Operator style
+9. Introduction to reinforcement learning
+10. RL agent – practical project
+11. Summary and discussion
+
+#### AI Developer (robot_dreams, 2025)
+
+* Course page: https://robotdreams.cz/course/287-t6-ai-developer
+* Instructor: Lukáš Kellerstein (Senior Software Engineer, Microsoft)
+
+* Petr Kratochvíl successfully completed the AI Developer course from May 15 to June 24, 2025, with a total duration of 24 hours.
+
+Course program:
+
+1. Introduction to neural networks and generative AI
+2. Prompt design and LLM evaluation
+3. Data preparation for training
+4. OpenAI models and Fine-Tuning
+5. Introduction to Hugging Face
+6. Fine-Tuning in Hugging Face
+7. LangChain – AI application development
+8. LangGraph
+9. Semantic Kernel
+10. Autogen
+11. AI agent development – practical workshop
+12. Summary and future directions
+
+The course graduate gained knowledge and practical skills needed for the full development cycle of AI agents, including collection, cleaning and structuring of training data, prompt design and evaluation, LLM fine-tuning, model performance optimization and their integration into complex systems. They master working in Python with key libraries and frameworks such as PyTorch, HuggingFace and LangChain, learned retrieval-augmented generation (RAG) methods and orchestration of multiple agents through LangGraph or Semantic Kernel, and learned AI solution deployment including Autogen workflow. The output is a fully functional AI agent.
+
+#### AI Level Up (coalbrain, 2025)
+
+* Course page: https://coalbrain.cz/ai-level-up
+* Instructor: Marek Bartoš (artificial intelligence popularizer, coalsoft)
+
+We hereby confirm that Petr Kratochvíl successfully completed the course AI Level Up organized by coalsoft s.r.o. from May 29 to June 10, 2025, with a total duration of 8 hours.
+
+The course was conducted via distance learning in Czech and focused on using artificial intelligence in personal and professional life to increase productivity and simplify everyday tasks.
+
+#### AI without Nonsense (coalbrain, 2025)
+
+* Course page: https://robotdreams.cz/course/287-t6-ai-developer
+* Instructor: Marek Bartoš (artificial intelligence popularizer, coalsoft)
+
+Knowledge and experience gained: We hereby confirm that Petr Kratochvíl successfully completed the course AI without Nonsense organized by coalsoft s.r.o. from May 13 to May 27, 2025, with a total duration of 8 hours.
+
+The course was conducted via distance learning in Czech and focused on using artificial intelligence in personal and professional life to increase productivity and simplify everyday tasks.
+
+#### CCNA 1 - 4 (Cisco Networking Academy, 2006)
+
+* CCNA 1 – network basics (Networking for Home and Small Businesses)
+* CCNA 2 – medium / small enterprises / ISP (Working at a Small-to-Medium Business or ISP)
+* CCNA 3 – implementing enterprise-level routing and switching (Enterprise)
+* CCNA 4 – designing computer network structure + advanced aspects.
+
+### Planned Courses
+
+| Year            | Course / Certification       | Institution / Provider                      | Area          |
+|-----------------|-------------------------------|---------------------------------------------|---------------|
+| planned for 2025 | Become an Ethical Hacker      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
+| planned for 2025 | Advanced AI Applications      | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
+| currently in 2025 | Cloud Architect               | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
+
+## Competitions
+
+* At university in 2004, 2005 and 2006 representation at the national round of ACM – International Collegiate Programming Contest, in 2005 and 2006 participation in the European round in Budapest.
+* At elementary and secondary school repeated placement in top positions at the regional round in České Budějovice and in 1997 participation at the Czech Republic championship in programming in Mladá Boleslav.
+
+## Language Skills
+
+* **Czech** – actively, native speaker – in writing and speech.
+* **English** – actively, advanced – in writing and speech.
+
+## Interests
+
+* **Professionally:** Linux OS.
+* **Recreationally:** In-line skating, swimming, music, horseback riding, chess, computer games.
+
+## Business Card (QR code)
 
 ![Petr Kratochvíl's vCard QR code](../assets/qrcode-url-krato.cz-en-vcard.svg)
