@@ -1,4 +1,4 @@
-# Resume in English
+# CV in English
 
 Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysadmin and AI specialist.
 
