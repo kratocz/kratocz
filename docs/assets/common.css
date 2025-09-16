@@ -74,4 +74,9 @@ table {
     ol li {
         font-size: 0.8em;
     }
+
+    /* Table text styling - smaller font size for print */
+    table {
+        font-size: 0.9em;
+    }
 }
