@@ -300,7 +300,7 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 
 ## Zájmy
 
-* **Profesionálně:** OS Linux.
+* **Profesionálně:** OS Linux, LLM agenti.
 * **Rekreačně:** In-line bruslení, plavání, hudba, jízda na koni, šachy, počítačové hry.
 
 ## Vizitka (QR code)

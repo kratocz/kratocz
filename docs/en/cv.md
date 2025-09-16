@@ -300,7 +300,7 @@ The course was conducted via distance learning in Czech and focused on using art
 
 ## Interests
 
-* **Professionally:** Linux OS.
+* **Professionally:** Linux OS, LLM Agents.
 * **Recreationally:** In-line skating, swimming, music, horseback riding, chess, computer games.
 
 ## Business Card (QR code)
