@@ -85,13 +85,17 @@ Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadm
 
 ## Znalosti
 
-| Kategorie                           | Znalosti                                                                                                                                                                                  |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Programovací jazyky – profesionální | PHP, Java, JavaScript, ES6                                                                                                                                                                |
-| Programovací jazyky – pokročilý     | TypeScript, ANSI C, C#, Delphi                                                                                                                                                            |
-| Operační systémy – profesionální    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                                           |
-| Ostatní – profesionální             | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA a UML modelování, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine, umělá inteligence |
-| Ostatní – pokročilý                 | Software a hardware běžného PC, CMS Drupal                                                                                                                                                |
+| Kategorie                           | Znalosti                                                                |
+|-------------------------------------|-------------------------------------------------------------------------|
+| Programovací jazyky – profesionální | PHP, Java                                                               |
+| Programovací jazyky – pokročilý     | JavaScript, ES6, TypeScript, ANSI C, C#, Delphi                         |
+| Operační systémy – profesionální    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                         |
+| AI/ML technologie – profesionální   | HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, benchmarking |
+| Cloud a DevOps – profesionální      | Docker, Docker Compose, Git, GitLab CI/CD, GitHub Actions               |
+| Cybersecurity – profesionální       | Kali Linux, Nmap, OpenVAS, Metasploit, penetrační testování              |
+| Web technologie – profesionální     | Angular, Nette, Latte, HTML5, CSS3, SCSS, REST API, jQuery, jQuery UI   |
+| Databáze a modeling – profesionální | MySQL, ERA a UML modelování                                             |
+| Ostatní – pokročilý                 | Software a hardware běžného PC, CMS Drupal                              |
 
 ## Kurzy
 

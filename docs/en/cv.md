@@ -85,13 +85,17 @@ Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysa
 
 ## Skills
 
-| Category                         | Skills                                                                                                                                                                            |
-|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Programming languages – professional | PHP, Java, JavaScript, ES6                                                                                                                                                       |
-| Programming languages – advanced    | TypeScript, ANSI C, C#, Delphi                                                                                                                                                   |
-| Operating systems – professional    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                                                                                                                                  |
-| Other – professional                | Docker, Docker Compose, Angular, Nette, Latte, HTML5, CSS3, SCSS, MySQL, ERA and UML modeling, REST API, Ajax, jQuery, jQuery UI, Selenium, Git, GitLab CI/CD, Redmine, artificial intelligence |
-| Other – advanced                    | Common PC software and hardware, CMS Drupal                                                                                                                                       |
+| Category                             | Skills                                                                  |
+|--------------------------------------|-------------------------------------------------------------------------|
+| Programming languages – professional | PHP, Java                                                               |
+| Programming languages – advanced     | JavaScript, ES6, TypeScript, ANSI C, C#, Delphi                         |
+| Operating systems – professional     | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                         |
+| AI/ML technologies – professional    | HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, benchmarking |
+| Cloud and DevOps – professional      | Docker, Docker Compose, Git, GitLab CI/CD, GitHub Actions               |
+| Cybersecurity – professional         | Kali Linux, Nmap, OpenVAS, Metasploit, penetration testing              |
+| Web technologies – professional      | Angular, Nette, Latte, HTML5, CSS3, SCSS, REST API, jQuery, jQuery UI   |
+| Database and modeling – professional | MySQL, ERA and UML modeling                                             |
+| Other – advanced                     | Common PC software and hardware, CMS Drupal                             |
 
 ## Courses
 
