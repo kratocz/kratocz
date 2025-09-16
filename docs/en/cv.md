@@ -20,8 +20,8 @@ Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysa
 | Date of birth:            | October 9, 1981                              |
 | Place of residence:       | Havanská 2808, 390 05 Tábor, Czech Republic |
 | Phone number:             | +420776762237                                |
-| Homepage:                 | [krato.cz](https://krato.cz)                 |
 | Email:                    | [krato@krato.cz](mailto:krato@krato.cz)      |
+| Homepage:                 | [krato.cz](https://krato.cz)                 |
 
 ## Profiles
 
