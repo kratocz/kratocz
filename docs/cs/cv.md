@@ -70,19 +70,19 @@ Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadm
 
 ## Pracovní zkušenosti
 
-| Období                | Pozice a popis                                                                                                                                                             |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2015 leden – dnes     | OSVČ – vývoj webových prezentací a API v PHP, Java, JavaScriptu, TypeScriptu, administrace Linuxových serverů, security management.                                        |
-| 2014 říjen – prosinec | externí spolupráce: RTsoft s.r.o. – vývoj webových stránek na zakázku.                                                                                                     |
-| 2013 březen           | externí spolupráce: RTsoft s.r.o. – intranetové webové stránky evidence zboží.                                                                                             |
-| 2011 únor – srpen     | ext. spolupráce: Swistar s.r.o. – hotelová kniha pro tablety s OS Android.                                                                                                 |
-| 2007                  | externí spolupráce: Západočeská Univerzita v Plzni – International Student Club – vývoj webu International Student Club, který patří pod oddělení Zahraničních vztahů ZČU. |
-| 2002 – 2004           | externí spolupráce: Oddělení informačních systémů v Nemocnici Tábor, a.s. – vývoj intranetových webových stránek (HTML, PHP, MySQL) a jejich údržba a inovace.             |
-| 2002                  | 5 měsíců trvalý prac. poměr na oddělení informačních systémů v Nemocnici Tábor, a.s.                                                                                       |
+| Období                | Hlavní technologie      | Pozice a popis                                                                                                                                                             |
+|-----------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2015 leden – dnes     | PHP, Nette, Java, MySQL | OSVČ – vývoj webových prezentací a API v PHP, Java, JavaScriptu, TypeScriptu, administrace Linuxových serverů, security management.                                        |
+| 2014 říjen – prosinec | PHP, Nette, MySQL       | externí spolupráce: RTsoft s.r.o. – vývoj webových stránek na zakázku.                                                                                                     |
+| 2013 březen           | PHP, Nette, MySQL       | externí spolupráce: RTsoft s.r.o. – intranetové webové stránky evidence zboží.                                                                                             |
+| 2011 únor – srpen     | PHP, CMS Drupal         | ext. spolupráce: Swistar s.r.o. – hotelová kniha pro tablety s OS Android.                                                                                                 |
+| 2007                  | PHP, CMS Tiki Wiki      | externí spolupráce: Západočeská Univerzita v Plzni – International Student Club – vývoj webu International Student Club, který patří pod oddělení Zahraničních vztahů ZČU. |
+| 2002 – 2004           | PHP, MySQL              | externí spolupráce: Oddělení informačních systémů v Nemocnici Tábor, a.s. – vývoj intranetových webových stránek (HTML, PHP, MySQL) a jejich údržba a inovace.             |
+| 2002                  | PHP, Microsoft Windows  | 5 měsíců trvalý prac. poměr na oddělení informačních systémů v Nemocnici Tábor, a.s.                                                                                       |
 
 ## PHP zkušenosti
 
-Se zaměřením na **PHP vývoj** mám více než **20 let profesionálních zkušeností** od roku 2002. Během této doby jsem pracoval na různých typech projektů v různých verzích PHP od PHP 4 až po PHP 8.2:
+Se zaměřením na PHP vývoj mám více než **20 let profesionálních zkušeností** od roku 2002. Během této doby jsem pracoval jako **PHP vývojář** na různých typech projektů v různých verzích PHP od PHP 4 až po PHP 8.2:
 
 ### Typy projektů
 * **Backend** - API, trvale běžící služby, paralelizace
@@ -125,7 +125,7 @@ Se zaměřením na **PHP vývoj** mám více než **20 let profesionálních zku
 | Operační systémy – profesionální    | Linux (Debian, Ubuntu, Mint, openSUSE, RHEL, …)                         |
 | AI/ML technologie – profesionální   | HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, benchmarking |
 | Cloud a DevOps – profesionální      | Docker, Docker Compose, Git, GitLab CI/CD, GitHub Actions               |
-| Cybersecurity – profesionální       | Kali Linux, Nmap, OpenVAS, Metasploit, penetrační testování              |
+| Cybersecurity – profesionální       | Kali Linux, Nmap, OpenVAS, Metasploit, penetrační testování             |
 | Web technologie – profesionální     | Angular, Nette, Latte, HTML5, CSS3, SCSS, REST API, jQuery, jQuery UI   |
 | Databáze a modeling – profesionální | MySQL, ERA a UML modelování                                             |
 | Ostatní – pokročilý                 | Software a hardware běžného PC, CMS Drupal                              |

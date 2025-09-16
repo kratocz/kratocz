@@ -63,26 +63,26 @@ Ing. **Petr Kratochvíl** to full-stack developer, DevOps engineer, Linux sysadm
 
 ## Osiągnięte wykształcenie
 
-| Okres       | Instytucja i opis                                                                                                                                                                                                                                                                                                                                                                                 |
-|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Okres       | Instytucja i opis                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2002 – 2007 | Studia magisterskie na Katedrze Informatyki i Technik Obliczeniowych na Wydziale Nauk Stosowanych Uniwersytetu Zachodnioczeskiego w Pilźnie. Program i kierunek: Informatyka Inżynierska – Informatyka i Techniki Obliczeniowe, specjalizacja: Systemy Rozproszone. Temat pracy dyplomowej: „System komunikacyjny z wykorzystaniem urządzeń mobilnych". Pobieranie stypendium za wyniki w nauce w 3. i 4. roku. |
-| 1997 – 2001 | SPŠ A VOŠ Písek – szkoła techniczna elektrotechniczna, kierunek: komputery elektroniczne.                                                                                                                                                                                                                                                                                                          |
+| 1997 – 2001 | SPŠ A VOŠ Písek – szkoła techniczna elektrotechniczna, kierunek: komputery elektroniczne.                                                                                                                                                                                                                                                                                                                       |
 
 ## Doświadczenie zawodowe
 
-| Okres                 | Stanowisko i opis                                                                                                                                                          |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2015 styczeń – dzisiaj | Działalność gospodarcza – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, zarządzanie bezpieczeństwem.        |
-| 2014 październik – grudzień | współpraca zewnętrzna: RTsoft s.r.o. – rozwój stron internetowych na zamówienie.                                                                                     |
-| 2013 marzec           | współpraca zewnętrzna: RTsoft s.r.o. – intranetowe strony internetowe ewidencji towarów.                                                                             |
-| 2011 luty – sierpień  | współpraca zewnętrzna: Swistar s.r.o. – księga hotelowa dla tabletów z OS Android.                                                                                   |
-| 2007                  | współpraca zewnętrzna: Uniwersytet Zachodnioczesski w Pilźnie – International Student Club – rozwój strony International Student Club, należącej do działu Kontaktów Zagranicznych ZČU. |
-| 2002 – 2004           | współpraca zewnętrzna: Oddział systemów informatycznych w Szpitalu Tábor, a.s. – rozwój intranetowych stron internetowych (HTML, PHP, MySQL) oraz ich utrzymanie i innowacje. |
-| 2002                  | 5 miesięcy stały stosunek pracy w dziale systemów informatycznych w Szpitalu Tábor, a.s.                                                                                       |
+| Okres                       | Główne technologie      | Stanowisko i opis                                                                                                                                                                       |
+|-----------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2015 styczeń – dzisiaj      | PHP, Nette, Java, MySQL | Działalność gospodarcza – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, zarządzanie bezpieczeństwem.                        |
+| 2014 październik – grudzień | PHP, Nette, MySQL       | współpraca zewnętrzna: RTsoft s.r.o. – rozwój stron internetowych na zamówienie.                                                                                                        |
+| 2013 marzec                 | PHP, Nette, MySQL       | współpraca zewnętrzna: RTsoft s.r.o. – intranetowe strony internetowe ewidencji towarów.                                                                                                |
+| 2011 luty – sierpień        | PHP, CMS Drupal         | współpraca zewnętrzna: Swistar s.r.o. – księga hotelowa dla tabletów z OS Android.                                                                                                      |
+| 2007                        | PHP, CMS Tiki Wiki      | współpraca zewnętrzna: Uniwersytet Zachodnioczesski w Pilźnie – International Student Club – rozwój strony International Student Club, należącej do działu Kontaktów Zagranicznych ZČU. |
+| 2002 – 2004                 | PHP, MySQL              | współpraca zewnętrzna: Oddział systemów informatycznych w Szpitalu Tábor, a.s. – rozwój intranetowych stron internetowych (HTML, PHP, MySQL) oraz ich utrzymanie i innowacje.           |
+| 2002                        | PHP, Microsoft Windows  | 5 miesięcy stały stosunek pracy w dziale systemów informatycznych w Szpitalu Tábor, a.s.                                                                                                |
 
 ## Doświadczenie PHP
 
-Z ukierunkowaniem na **rozwój PHP** mam ponad **20 lat doświadczenia profesjonalnego** od 2002 roku. W tym czasie pracowałem nad różnymi typami projektów w różnych wersjach PHP od PHP 4 do PHP 8.2:
+Z ukierunkowaniem na rozwój PHP mam ponad **20 lat doświadczenia profesjonalnego** od 2002 roku. W tym czasie pracowałem jako **PHP developer** nad różnymi typami projektów w różnych wersjach PHP od PHP 4 do PHP 8.2:
 
 ### Typy projektów
 * **Backend** - API, usługi działające w sposób ciągły, paralelizacja

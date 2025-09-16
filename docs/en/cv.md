@@ -70,19 +70,19 @@ Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysa
 
 ## Work Experience
 
-| Period                | Position and description                                                                                                                                           |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| January 2015 – present | Self-employed – development of web presentations and APIs in PHP, Java, JavaScript, TypeScript, Linux server administration, security management.                  |
-| October – December 2014 | external collaboration: RTsoft s.r.o. – custom web development.                                                                                                     |
-| March 2013            | external collaboration: RTsoft s.r.o. – intranet web pages for inventory management.                                                                             |
-| February – August 2011 | external collaboration: Swistar s.r.o. – hotel book for Android tablets.                                                                                         |
-| 2007                  | external collaboration: University of West Bohemia in Pilsen – International Student Club – development of the International Student Club website, which belongs to the Department of International Relations at UWB. |
-| 2002 – 2004           | external collaboration: Information Systems Department at Tábor Hospital, a.s. – development of intranet web pages (HTML, PHP, MySQL) and their maintenance and innovation. |
-| 2002                  | 5 months permanent employment at the Information Systems Department at Tábor Hospital, a.s.                                                                       |
+| Period                | Main Technologies        | Position and description                                                                                                                                           |
+|-----------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| January 2015 – present | PHP, Nette, Java, MySQL | Self-employed – development of web presentations and APIs in PHP, Java, JavaScript, TypeScript, Linux server administration, security management.                  |
+| October – December 2014 | PHP, Nette, MySQL       | external collaboration: RTsoft s.r.o. – custom web development.                                                                                                     |
+| March 2013            | PHP, Nette, MySQL       | external collaboration: RTsoft s.r.o. – intranet web pages for inventory management.                                                                             |
+| February – August 2011 | PHP, CMS Drupal         | external collaboration: Swistar s.r.o. – hotel book for Android tablets.                                                                                         |
+| 2007                  | PHP, CMS Tiki Wiki      | external collaboration: University of West Bohemia in Pilsen – International Student Club – development of the International Student Club website, which belongs to the Department of International Relations at UWB. |
+| 2002 – 2004           | PHP, MySQL              | external collaboration: Information Systems Department at Tábor Hospital, a.s. – development of intranet web pages (HTML, PHP, MySQL) and their maintenance and innovation. |
+| 2002                  | PHP, Microsoft Windows  | 5 months permanent employment at the Information Systems Department at Tábor Hospital, a.s.                                                                       |
 
 ## PHP Development Experience
 
-With a focus on **PHP development**, I have over **20 years of professional experience** since 2002. During this time, I have worked on various types of projects in different PHP versions from PHP 4 to PHP 8.2:
+With a focus on PHP development, I have over **20 years of professional experience** since 2002. During this time, I have worked as a **PHP developer** on various types of projects in different PHP versions from PHP 4 to PHP 8.2:
 
 ### Project Types
 * **Backend** - APIs, long-running services, parallelization
