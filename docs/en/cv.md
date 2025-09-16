@@ -2,7 +2,11 @@
 
 Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysadmin and AI specialist.
 
-## CV updates
+## Print and Download
+
+🖨️ Want a printed or PDF version? Just select print in your browser or contact me.
+
+## Current CV versions
 
 * 🇺🇸 CV in English: [krato.cz/en/cv](https://krato.cz/en/cv)
 * 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
