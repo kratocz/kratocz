@@ -79,13 +79,41 @@ Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysa
 | 2002 – 2004           | external collaboration: Information Systems Department at Tábor Hospital, a.s. – development of intranet web pages (HTML, PHP, MySQL) and their maintenance and innovation. |
 | 2002                  | 5 months permanent employment at the Information Systems Department at Tábor Hospital, a.s.                                                                       |
 
-## Achievements
+## PHP Development Experience
 
-| Year             | Achievement                                                                                                                                                         |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2005, 2006       | Representation at ACM – International Collegiate Programming Contest – European round in Budapest.                                                                  |
-| 2004, 2005, 2006 | Representation at ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                  |
-| 1997 and earlier | Primary and secondary school – programming contest – representation at regional round in České Budějovice and representation at nationwide round in Mladá Boleslav in 1997. |
+With a focus on **PHP development**, I have over **20 years of professional experience** since 2002. During this time, I have worked on various types of projects in different PHP versions from PHP 4 to PHP 8.2:
+
+### Project Types
+* **Backend** - APIs, long-running services, parallelization
+* **Web presentations** - corporate websites, portfolios, landing pages
+* **Intranet systems** - inventory management, document management, internal tools
+* **REST APIs** - backend services for mobile applications and SPA frontends
+* **E-commerce solutions** - ordering systems, product catalogs
+* **Administrative interfaces** - portals, dashboards, reporting
+
+### PHP and Related Technologies Used
+* **Frameworks:** Nette Framework, custom company MVC frameworks
+* **Template systems:** Latte (Nette), formerly Smarty
+* **Databases:** MySQL, MariaDB - daily SQL usage, query optimization, database structure design
+* **Web technologies:** HTML5, CSS3, SCSS, JavaScript, jQuery, jQuery UI, partially Angular
+* **Design patterns:** MVC, Repository pattern, Dependency Injection
+* **Content Management Systems (CMS):** Drupal
+* **Version control:** Git, branching strategies
+* **Deployment:** Docker containerization, Docker Swarm cluster, CI/CD pipelines
+
+### Key Projects
+* **2015-present:** ProfiSMS, s.r.o. - key systems:
+    * SMS reception via API
+    * backend services and databases
+    * API integration
+    * SMS competitions
+    * Linux server administration
+    * cloud service operations
+* **2013-2014:** RTsoft, s.r.o. - inventory systems and custom corporate websites, participation in large projects:
+    * e-shop knihydobrovsky.cz
+    * discount portal pepa.cz
+* **2007:** university website for international students - multilingual platform
+* **2002-2004:** hospital intranet pages for employees (still in daily use after more than 20 years) - PHP/MySQL
 
 ## Skills
 
@@ -100,6 +128,21 @@ Ing. **Petr Kratochvíl** is a full-stack developer, DevOps engineer, Linux sysa
 | Web technologies – professional      | Angular, Nette, Latte, HTML5, CSS3, SCSS, REST API, jQuery, jQuery UI   |
 | Database and modeling – professional | MySQL, ERA and UML modeling                                             |
 | Other – advanced                     | Common PC software and hardware, CMS Drupal                             |
+
+## Language Skills
+
+| Language    | Level                                      |
+|-------------|-------------------------------------------|
+| **Czech**   | actively, native speaker – in writing and speech |
+| **English** | actively, advanced – in writing and speech |
+
+## Competitions
+
+| Year             | Achievement                                                                                                                                                         |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2005, 2006       | Representation at ACM – International Collegiate Programming Contest – European round in Budapest.                                                                  |
+| 2004, 2005, 2006 | Representation at ACM – International Collegiate Programming Contest – nationwide round in Prague.                                                                  |
+| 1997 and earlier | Primary and secondary school – programming contest – representation at regional round in České Budějovice and representation at nationwide round in Mladá Boleslav in 1997. |
 
 ## Courses
 
@@ -254,16 +297,6 @@ The course was conducted via distance learning in Czech and focused on using art
 | planned for 2025 | Become an Ethical Hacker      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | planned for 2025 | Advanced AI Applications      | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
 | currently in 2025 | Cloud Architect               | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
-
-## Competitions
-
-* At university in 2004, 2005 and 2006 representation at the national round of ACM – International Collegiate Programming Contest, in 2005 and 2006 participation in the European round in Budapest.
-* At elementary and secondary school repeated placement in top positions at the regional round in České Budějovice and in 1997 participation at the Czech Republic championship in programming in Mladá Boleslav.
-
-## Language Skills
-
-* **Czech** – actively, native speaker – in writing and speech.
-* **English** – actively, advanced – in writing and speech.
 
 ## Interests
 

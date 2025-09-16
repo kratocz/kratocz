@@ -79,13 +79,41 @@ Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadm
 | 2002 – 2004           | externí spolupráce: Oddělení informačních systémů v Nemocnici Tábor, a.s. – vývoj intranetových webových stránek (HTML, PHP, MySQL) a jejich údržba a inovace.             |
 | 2002                  | 5 měsíců trvalý prac. poměr na oddělení informačních systémů v Nemocnici Tábor, a.s.                                                                                       |
 
-## Úspěchy
+## PHP zkušenosti
 
-| Rok              | Úspěch                                                                                                                                                                      |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2005, 2006       | Reprezentace na ACM – International Collegiate Programming Contest – evropské kolo v Budapešti.                                                                            |
-| 2004, 2005, 2006 | Reprezentace na ACM – International Collegiate Programming Contest – celostátní kolo v Praze.                                                                              |
-| 1997 a dříve     | Základní a střední škola – programátorské soutěže – reprezentace na krajském kole v Českých Budějovicích a reprezentace na celostátním kole v Mladé Boleslavi v roce 1997. |
+Se zaměřením na **PHP vývoj** mám více než **20 let profesionálních zkušeností** od roku 2002. Během této doby jsem pracoval na různých typech projektů v různých verzích PHP od PHP 4 až po PHP 8.2:
+
+### Typy projektů
+* **Backend** - API, trvale běžící služby, paralelizace
+* **Webové prezentace** - korporátní weby, portfolia, landing pages
+* **Intranetové systémy** - evidence zboží, správa dokumentů, interní nástroje
+* **REST API** - backend služby pro mobilní aplikace a SPA frontend
+* **E-commerce řešení** - objednávkové systémy, katalogy produktů
+* **Administrační rozhraní** - portály, dashboardy, reporting
+
+### Používané PHP a související technologie
+* **Frameworky:** Nette Framework, vlastní firemní MVC frameworky
+* **Template systémy:** Latte (Nette), dříve Smarty
+* **Databáze:** MySQL, MariaDB - každodenní používání SQL, optimalizace dotazů, návrh databázových struktur
+* **Webové technologie:** HTML5, CSS3, SCSS, JavaScript, jQuery, jQuery UI, částečně Angular
+* **Návrhové vzory:** MVC, Repository pattern, Dependency Injection
+* **Redakční systémy (CMS):** Drupal
+* **Verzování:** Git, branching strategies
+* **Deployment:** Docker kontejnerizace, Docker Swarm cluster, CI/CD pipelines
+
+### Klíčové projekty
+* **2015-současnost:** ProfiSMS, s.r.o. - klíčové systémy:
+    * příjem SMS přes API
+    * backendové služby a databáze
+    * napojení na API
+    * SMS soutěže
+    * administrace Linuxových serverů
+    * provoz služeb v cloudu
+* **2013-2014:** RTsoft, s.r.o. - inventární systémy a firemní weby na zakázku, podíl na velkých projektech:
+    * e-shop knihydobrovsky.cz
+    * slevový portál pepa.cz
+* **2007:** univerzitní web pro mezinárodní studenty - vícejazyčná platforma
+* **2002-2004:** nemocniční intranetové stránky pro zaměstnance (po více než 20 letech je stále denně používán) - PHP/MySQL
 
 ## Znalosti
 
@@ -100,6 +128,21 @@ Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadm
 | Web technologie – profesionální     | Angular, Nette, Latte, HTML5, CSS3, SCSS, REST API, jQuery, jQuery UI   |
 | Databáze a modeling – profesionální | MySQL, ERA a UML modelování                                             |
 | Ostatní – pokročilý                 | Software a hardware běžného PC, CMS Drupal                              |
+
+## Jazykové znalosti
+
+| Jazyk       | Úroveň                                    |
+|-------------|-------------------------------------------|
+| **Čeština** | aktivně, rodilý mluvčí – písmem a slovem |
+| **Angličtina** | aktivně, pokročilý – písmem a slovem   |
+
+## Soutěže
+
+| Rok              | Úspěch                                                                                                                                                                      |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2005, 2006       | Reprezentace na ACM – International Collegiate Programming Contest – evropské kolo v Budapešti.                                                                            |
+| 2004, 2005, 2006 | Reprezentace na ACM – International Collegiate Programming Contest – celostátní kolo v Praze.                                                                              |
+| 1997 a dříve     | Základní a střední škola – programátorské soutěže – reprezentace na krajském kole v Českých Budějovicích a reprezentace na celostátním kole v Mladé Boleslavi v roce 1997. |
 
 ## Kurzy
 
@@ -254,16 +297,6 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 | plán na 2025    | Staň se etickým hackerem | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | plán na 2025    | Advanced AI Applications | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
 | aktuálně v 2025 | Cloud Architect          | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
-
-## Soutěže
-
-* Na VŠ v roce 2004, 2005 a 2006 reprezentace na celorep. kole soutěže ACM – International Collegiate Programming Contest, v roce 2005 a 2006 účast na evropském kole v Budapešti.
-* Na ZŠ a SŠ opakované umístění na předních místech v krajském kole v Českých Budějovicích a v roce 1997 účast na mistrovství ČR v programování v Mladé Boleslavi.
-
-## Jazykové znalosti
-
-* **Čeština** – aktivně, rodilý mluvčí – písmem a slovem.
-* **Angličtina** – aktivně, pokročilý – písmem a slovem.
 
 ## Zájmy
 
