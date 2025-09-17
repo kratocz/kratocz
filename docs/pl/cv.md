@@ -103,18 +103,18 @@ Z ukierunkowaniem na rozwój PHP mam ponad **20 lat doświadczenia profesjonalne
 * **Deployment:** konteneryzacja Docker, klaster Docker Swarm, potoki CI/CD
 
 ### Kluczowe projekty
-* **2015-obecnie:** ProfiSMS, s.r.o. - kluczowe systemy:
+* **2015-obecnie, PHP/full-stack developer:** ProfiSMS, s.r.o. - kluczowe systemy:
     * odbiór SMS przez API
     * usługi backendowe i bazy danych
     * połączenie z API
     * konkursy SMS
     * administracja serwerów Linux
     * działanie usług w chmurze
-* **2013-2014:** RTsoft, s.r.o. - systemy inwentaryzacyjne i strony firmowe na zamówienie, udział w dużych projektach:
+* **2013-2014, PHP/full-stack developer:** RTsoft, s.r.o. - systemy inwentaryzacyjne i strony firmowe na zamówienie, udział w dużych projektach:
     * e-shop knihydobrovsky.cz
     * portal rabatowy pepa.cz
-* **2007:** strona uniwersytecka dla studentów międzynarodowych - platforma wielojęzyczna
-* **2002-2004:** intranetowe strony szpitalne dla pracowników (po ponad 20 latach nadal używane codziennie) - PHP/MySQL
+* **2007, PHP/full-stack developer:** strona uniwersytecka dla studentów międzynarodowych - platforma wielojęzyczna
+* **2002-2004, PHP/full-stack developer:** intranetowe strony szpitalne dla pracowników (po ponad 20 latach nadal używane codziennie) - PHP/MySQL
 
 ## Wiedza
 

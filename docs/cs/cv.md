@@ -103,18 +103,18 @@ Se zaměřením na PHP vývoj mám více než **20 let profesionálních zkušen
 * **Deployment:** Docker kontejnerizace, Docker Swarm cluster, CI/CD pipelines
 
 ### Klíčové projekty
-* **2015-současnost:** ProfiSMS, s.r.o. - klíčové systémy:
+* **2015-současnost, PHP/full-stack vývojář:** ProfiSMS, s.r.o. - klíčové systémy:
     * příjem SMS přes API
     * backendové služby a databáze
     * napojení na API
     * SMS soutěže
     * administrace Linuxových serverů
     * provoz služeb v cloudu
-* **2013-2014:** RTsoft, s.r.o. - inventární systémy a firemní weby na zakázku, podíl na velkých projektech:
+* **2013-2014, PHP/full-stack vývojář:** RTsoft, s.r.o. - inventární systémy a firemní weby na zakázku, podíl na velkých projektech:
     * e-shop knihydobrovsky.cz
     * slevový portál pepa.cz
-* **2007:** univerzitní web pro mezinárodní studenty - vícejazyčná platforma
-* **2002-2004:** nemocniční intranetové stránky pro zaměstnance (po více než 20 letech je stále denně používán) - PHP/MySQL
+* **2007, PHP/full-stack vývojář:** univerzitní web pro mezinárodní studenty - vícejazyčná platforma
+* **2002-2004, PHP/full-stack vývojář:** nemocniční intranetové stránky pro zaměstnance (po více než 20 letech je stále denně používán) - PHP/MySQL
 
 ## Znalosti
 

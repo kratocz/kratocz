@@ -103,18 +103,18 @@ With a focus on PHP development, I have over **20 years of professional experien
 * **Deployment:** Docker containerization, Docker Swarm cluster, CI/CD pipelines
 
 ### Key Projects
-* **2015-present:** ProfiSMS, s.r.o. - key systems:
+* **2015-present, PHP/full-stack developer:** ProfiSMS, s.r.o. - key systems:
     * SMS reception via API
     * backend services and databases
     * API integration
     * SMS competitions
     * Linux server administration
     * cloud service operations
-* **2013-2014:** RTsoft, s.r.o. - inventory systems and custom corporate websites, participation in large projects:
+* **2013-2014, PHP/full-stack developer:** RTsoft, s.r.o. - inventory systems and custom corporate websites, participation in large projects:
     * e-shop knihydobrovsky.cz
     * discount portal pepa.cz
-* **2007:** university website for international students - multilingual platform
-* **2002-2004:** hospital intranet pages for employees (still in daily use after more than 20 years) - PHP/MySQL
+* **2007, PHP/full-stack developer:** university website for international students - multilingual platform
+* **2002-2004, PHP/full-stack developer:** hospital intranet pages for employees (still in daily use after more than 20 years) - PHP/MySQL
 
 ## Skills
 
