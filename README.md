@@ -29,5 +29,6 @@ I specialize in working with PHP, Docker, AI technologies, and Btrfs, focusing o
 ## Curriculum Vitae (CV)
 
 * [🇺🇸 CV in English](docs/en/cv.md)
-* [🇨🇿 Životopis v češtině](docs/cs/cv.md)
+* [🇨🇿 CV v češtině](docs/cs/cv.md)
+* [🇵🇱 CV po polsku](docs/pl/cv.md)
 
