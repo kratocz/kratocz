@@ -30,7 +30,7 @@ I specialize in working with PHP, Docker, AI technologies, and Btrfs, focusing o
 
 ## Curriculum Vitae (CV)
 
-<a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 Životopis v češtině</a>
+<a href="en/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇺🇸 CV in English</a> <a href="cs/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇨🇿 CV v češtině</a> <a href="pl/cv" style="display:inline-block; padding: 15px 30px; font-size: 20px; color: white; background: rgb(64, 81, 181); text-decoration: none; border-radius: 5px; margin: 10px;">🇵🇱 CV po polsku</a>
 
 ## Donate Me
 
