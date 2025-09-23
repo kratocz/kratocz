@@ -6,7 +6,7 @@ I specialize in working with PHP, Docker, AI technologies, and Btrfs, focusing o
 
 ## 🇺🇦 Ukraine Support & Community
 
-I stand with Ukraine and support the Ukrainian people in their fight for freedom and democracy. 🇺🇦
+I stand with Ukraine and support the Ukrainian people in their fight for freedom and democracy.
 
 I also run a Czech Facebook group focused on critical thinking and logical reasoning:
 
