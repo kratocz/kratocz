@@ -4,6 +4,14 @@ I'm a full-stack developer, DevOps engineer, Linux system administrator and AI s
 
 I specialize in working with PHP, Docker, AI technologies, and Btrfs, focusing on scalable infrastructure, automation, containerized deployments, and AI agent development. Passionate about technology, distributed systems, automation, and cybersecurity. I love working on open-source projects and sharing knowledge through my YouTube channel.
 
+## 🇺🇦 Ukraine Support & Community
+
+I stand with Ukraine and support the Ukrainian people in their fight for freedom and democracy. 🇺🇦
+
+I also run a Czech Facebook group focused on critical thinking and logical reasoning:
+
+📘 [Debatní fauly – jak poznat špatné argumenty](https://www.facebook.com/groups/debatnifauly)
+
 ## Profiles
 
 | Platform         | Link                                                                                 |
