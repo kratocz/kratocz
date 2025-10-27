@@ -295,7 +295,7 @@ The course was conducted via distance learning in Czech and focused on using art
 
 | Year            | Course / Certification       | Institution / Provider                      | Area          |
 |-----------------|-------------------------------|---------------------------------------------|---------------|
-| planned for 2025 | Become an Ethical Hacker      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
+| planned for 2026 | Become an Ethical Hacker      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | planned for 2025 | Advanced AI Applications      | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
 | currently in 2025 | Cloud Architect               | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
 

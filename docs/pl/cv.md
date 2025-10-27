@@ -295,7 +295,7 @@ Kurs odbywał się w formie nauczania zdalnego w języku czeskim i był ukierunk
 
 | Rok             | Kurs / Certyfikacja          | Instytucja / Dostawca                       | Obszar           |
 |-----------------|-------------------------------|---------------------------------------------|------------------|
-| plan na 2025    | Zostań etycznym hackerem      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cyberbezpieczeństwo |
+| plan na 2026    | Zostań etycznym hackerem      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cyberbezpieczeństwo |
 | plan na 2025    | Advanced AI Applications      | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI               |
 | aktualnie w 2025 | Cloud Architect              | robot_dreams (Laba Czech vzdělávání s.r.o.) | chmura           |
 

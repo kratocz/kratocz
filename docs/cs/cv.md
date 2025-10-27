@@ -295,7 +295,7 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 
 | Rok             | Kurz / Certifikace       | Instituce / Poskytovatel                    | Oblast        |
 |-----------------|--------------------------|---------------------------------------------|---------------|
-| plán na 2025    | Staň se etickým hackerem | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
+| plán na 2026    | Staň se etickým hackerem | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | plán na 2025    | Advanced AI Applications | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
 | aktuálně v 2025 | Cloud Architect          | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
 
