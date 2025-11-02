@@ -158,7 +158,8 @@ With a focus on PHP development, I have over **20 years of professional experien
 Overview of courses I have completed (sorted in descending order by completion date):
 
 | Year | Course / Certification                         | Institution / Provider                      | Type of certification obtained              | Area              |
-|------|------------------------------------------------|---------------------------------------------|--------------------------------------------|--------------------|
+|------|------------------------------------------------|---------------------------------------------|--------------------------------------------|--------------------| 
+| 2025 | Cloud Architect                                | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | cloud              |
 | 2025 | Computer Vision                                | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
 | 2025 | Practical Penetration Testing                 | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | cybersecurity      |
 | 2025 | AI Agents                                      | robot_dreams (Laba Czech vzdělávání s.r.o.) | Successful completion (assignments and final project) | AI                 |
@@ -168,6 +169,34 @@ Overview of courses I have completed (sorted in descending order by completion d
 | 2006 | Cisco Certified Network Associate (CCNA 1 - 4) | Cisco Networking Academy                    | Successful completion (final test)          | network technologies |
 
 ### Knowledge and Experience Gained in Courses
+
+#### Cloud Architect (robot_dreams, 2025)
+
+* Course page: https://robotdreams.cz/course/412-cloud-architect
+* Instructor: Tomáš Kubica (Azure Cloud Solutions Architect at Microsoft)
+
+Petr Kratochvíl successfully completed the Cloud Architect course from August 28 to October 16, 2025, with a total duration of 21 hours (14 lessons, each 1.5 hours).
+
+Course program:
+
+1. Basic concepts of cloud solution design
+2. From VMs to serverless
+3. Container orchestration
+4. Load balancing and traffic ingestion
+5. Enterprise networking
+6. Modern application design patterns
+7. Monitoring modern applications
+8. Cloud data storage types and performance aspects
+9. Data redundancy and distribution, availability vs. consistency
+10. Distributed data processing and analytics
+11. Machine learning
+12. Infrastructure as Code and Site Reliability Engineering
+13. CI/CD and DevSecOps
+14. Presentation of selected final projects
+
+The course graduate gained comprehensive knowledge of cloud architecture including application design and data processing in the cloud, selection of optimal components for various solutions, high availability, disaster recovery, network infrastructure, databases, monitoring, Infrastructure as Code and CI/CD processes. The course provided practical knowledge for designing complex cloud architectures including aspects such as infrastructure, networks, data persistence, application architecture and deployment processes.
+
+Final project completed: Design of Ceph+Kubernetes cluster on 3 nodes
 
 #### Computer Vision (robot_dreams, 2025)
 
@@ -297,7 +326,6 @@ The course was conducted via distance learning in Czech and focused on using art
 |-----------------|-------------------------------|---------------------------------------------|---------------|
 | planned for 2026 | Become an Ethical Hacker      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | planned for 2025 | Advanced AI Applications      | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
-| currently in 2025 | Cloud Architect               | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
 
 ## Interests
 

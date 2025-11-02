@@ -159,6 +159,7 @@ Přehled kurzů, které jsem absolvoval (seřazeno sestupně podle data absolvov
 
 | Rok  | Kurz / Certifikace                             | Instituce / Poskytovatel                    | Typ získaného certifikátu                       | Oblast             |
 |------|------------------------------------------------|---------------------------------------------|-------------------------------------------------|--------------------|
+| 2025 | Cloud Architect                                | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | cloud              |
 | 2025 | Computer Vision                                | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | AI                 |
 | 2025 | Penetrační testování prakticky                 | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | cybersecurity      |
 | 2025 | AI Agenti                                      | robot_dreams (Laba Czech vzdělávání s.r.o.) | Úspěšné absolvování (úkoly a závěrečný projekt) | AI                 |
@@ -168,6 +169,34 @@ Přehled kurzů, které jsem absolvoval (seřazeno sestupně podle data absolvov
 | 2006 | Cisco Certified Network Associate (CCNA 1 - 4) | Cisco Networking Academy                    | Úspěšné absolvování (závěrečný test)            | síťové technologie |
 
 ### Znalosti a zkušenosti získané v kurzech
+
+#### Cloud Architect (robot_dreams, 2025)
+
+* Stránka kurzu: https://robotdreams.cz/course/412-cloud-architect
+* Lektor: Tomáš Kubica (Azure Cloud Solutions Architect v Microsoft)
+
+Petr Kratochvíl v období od 28. 8. do 16. 10. 2025 úspěšně dokončil kurz Cloud Architect o celkové délce 21 hodin (14 lekcí, každá 1,5 hodiny).
+
+Program kurzu:
+
+1. Základní koncepty návrhu cloudových řešení
+2. Od VM k serverless
+3. Orchestrace kontejnerů
+4. Rozdělení zátěže a nabírání provozu
+5. Enterprise networking
+6. Návrhové vzory moderních aplikací
+7. Monitoring moderních aplikací
+8. Typy uložení dat v cloudu a výkonnostní aspekty
+9. Redundance a distribuce dat, dostupnost vs. konzistence
+10. Distribuované zpracování a analýza dat
+11. Strojové učení
+12. Infrastructure as Code a Site Reliability Engineering
+13. CI/CD a DevSecOps
+14. Představení vybraných závěrečných prací
+
+Absolvent kurzu získal komplexní znalosti cloudové architektury zahrnující návrh aplikací a zpracování dat v cloudu, výběr optimálních komponent pro různá řešení, vysokou dostupnost, disaster recovery, síťovou infrastrukturu, databáze, monitoring, Infrastructure as Code a CI/CD procesy. Kurz poskytl praktické znalosti pro navrhování komplexních cloudových architektur včetně aspektů jako infrastruktura, sítě, perzistence dat, aplikační architektura a procesy nasazování.
+
+Vypracovaný závěrečný projekt: Návrh Ceph+Kubernetes clusteru na 3 uzlech
 
 #### Computer Vision (robot_dreams, 2025)
 
@@ -297,7 +326,6 @@ Kurz se konal formou distančního vzdělávání v jazyce českém a byl zamě�
 |-----------------|--------------------------|---------------------------------------------|---------------|
 | plán na 2026    | Staň se etickým hackerem | robot_dreams (Laba Czech vzdělávání s.r.o.) | cybersecurity |
 | plán na 2025    | Advanced AI Applications | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI            |
-| aktuálně v 2025 | Cloud Architect          | robot_dreams (Laba Czech vzdělávání s.r.o.) | cloud         |
 
 ## Zájmy
 

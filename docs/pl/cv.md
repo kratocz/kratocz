@@ -159,6 +159,7 @@ Przegląd kursów, które ukończyłem (posortowane malejąco według daty ukoń
 
 | Rok  | Kurs / Certyfikacja                        | Instytucja / Dostawca                       | Typ uzyskanego certyfikatu                      | Obszar             |
 |------|---------------------------------------------|---------------------------------------------|-------------------------------------------------|--------------------|
+| 2025 | Cloud Architect                             | robot_dreams (Laba Czech vzdělávání s.r.o.) | Pomyślne ukończenie (zadania i projekt końcowy) | chmura             |
 | 2025 | Computer Vision                             | robot_dreams (Laba Czech vzdělávání s.r.o.) | Pomyślne ukończenie (zadania i projekt końcowy) | AI                 |
 | 2025 | Testy penetracyjne praktycznie             | robot_dreams (Laba Czech vzdělávání s.r.o.) | Pomyślne ukończenie (zadania i projekt końcowy) | cyberbezpieczeństwo |
 | 2025 | AI Agenci                                   | robot_dreams (Laba Czech vzdělávání s.r.o.) | Pomyślne ukończenie (zadania i projekt końcowy) | AI                 |
@@ -168,6 +169,34 @@ Przegląd kursów, które ukończyłem (posortowane malejąco według daty ukoń
 | 2006 | Cisco Certified Network Associate (CCNA 1 - 4) | Cisco Networking Academy                    | Pomyślne ukończenie (test końcowy)              | technologie sieciowe |
 
 ### Wiedza i doświadczenie zdobyte na kursach
+
+#### Cloud Architect (robot_dreams, 2025)
+
+* Strona kursu: https://robotdreams.cz/course/412-cloud-architect
+* Lektor: Tomáš Kubica (Azure Cloud Solutions Architect w Microsoft)
+
+Petr Kratochvíl w okresie od 28. 8. do 16. 10. 2025 pomyślnie ukończył kurs Cloud Architect o łącznej długości 21 godzin (14 lekcji, każda 1,5 godziny).
+
+Program kursu:
+
+1. Podstawowe koncepcje projektowania rozwiązań chmurowych
+2. Od VM do serverless
+3. Orkiestracja kontenerów
+4. Równoważenie obciążenia i pobieranie ruchu
+5. Enterprise networking
+6. Wzorce projektowe nowoczesnych aplikacji
+7. Monitorowanie nowoczesnych aplikacji
+8. Typy przechowywania danych w chmurze i aspekty wydajnościowe
+9. Redundancja i dystrybucja danych, dostępność vs. spójność
+10. Rozproszone przetwarzanie i analiza danych
+11. Uczenie maszynowe
+12. Infrastructure as Code i Site Reliability Engineering
+13. CI/CD i DevSecOps
+14. Prezentacja wybranych projektów końcowych
+
+Absolwent kursu zdobył kompleksową wiedzę z zakresu architektury chmurowej, obejmującą projektowanie aplikacji i przetwarzanie danych w chmurze, wybór optymalnych komponentów dla różnych rozwiązań, wysoką dostępność, disaster recovery, infrastrukturę sieciową, bazy danych, monitoring, Infrastructure as Code i procesy CI/CD. Kurs dostarczył praktycznej wiedzy do projektowania złożonych architektur chmurowych, w tym aspektów takich jak infrastruktura, sieci, trwałość danych, architektura aplikacyjna i procesy wdrażania.
+
+Opracowany projekt końcowy: Projekt klastra Ceph+Kubernetes na 3 węzłach
 
 #### Computer Vision (robot_dreams, 2025)
 
@@ -297,7 +326,6 @@ Kurs odbywał się w formie nauczania zdalnego w języku czeskim i był ukierunk
 |-----------------|-------------------------------|---------------------------------------------|------------------|
 | plan na 2026    | Zostań etycznym hackerem      | robot_dreams (Laba Czech vzdělávání s.r.o.) | cyberbezpieczeństwo |
 | plan na 2025    | Advanced AI Applications      | robot_dreams (Laba Czech vzdělávání s.r.o.) | AI               |
-| aktualnie w 2025 | Cloud Architect              | robot_dreams (Laba Czech vzdělávání s.r.o.) | chmura           |
 
 ## Zainteresowania
 
