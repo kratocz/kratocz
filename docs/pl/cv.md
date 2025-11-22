@@ -12,6 +12,74 @@ Ing. **Petr Kratochvíl** to full-stack developer, DevOps engineer, Linux sysadm
 * 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 * 🇵🇱 CV po polsku: [krato.cz/pl/cv](https://krato.cz/pl/cv)
 
+<div class="resume-section" markdown="1">
+
+## Resume
+
+**Ing. Petr Kratochvíl**
+Full-stack developer, DevOps engineer, Linux sysadmin, specjalista AI
+📧 [krato@krato.cz](mailto:krato@krato.cz) | 📱 +420776762237 | 🌍 [krato.cz](https://krato.cz) | 🐙 [github.com/kratocz](https://github.com/kratocz)
+
+### Obszary zainteresowań
+
+Backend development (PHP, Java, Kotlin, Python), DevOps (Docker, Kubernetes, GitLab CI/CD, GitHub Actions), Linux (bash, Terraform), Cloud (AWS, Azure), LLM/AI (Custom GPTs, agenci AI, RAG, fine-tuning), Computer Vision (OpenCV, sieci neuronowe), Cyberbezpieczeństwo (testy penetracyjne, Kali Linux), SPA frontend (Angular), Systemy plików (Btrfs, CephFS)
+
+### Doświadczenie zawodowe
+
+* **2015 – obecnie: Działalność gospodarcza** – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, zarządzanie bezpieczeństwem
+* **2015 – obecnie: ProfiSMS, s.r.o.** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
+* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, udział w e-shop knihydobrovsky.cz i portalu rabatowym pepa.cz
+* **2007: Uniwersytet Zachodnioczesski** – rozwój strony International Student Club
+* **2002 – 2004: Szpital Tábor** – rozwój intranetowych stron internetowych (nadal używane po 20+ latach)
+
+### Wykształcenie
+
+* **2002 – 2007: Uniwersytet Zachodnioczesski w Pilźnie** – Ing., Informatyka i Techniki Obliczeniowe, specjalizacja Systemy Rozproszone, stypendium za wyniki w nauce
+* **1997 – 2001: SPŠ A VOŠ Písek** – szkoła techniczna elektrotechniczna, kierunek: komputery elektroniczne
+
+### Kluczowe umiejętności
+
+* **Programowanie:** PHP (20+ lat), Java, JavaScript/TypeScript, Python, ANSI C, C#
+* **DevOps i Cloud:** Docker, Docker Compose, Kubernetes, Git, GitLab CI/CD, GitHub Actions, Terraform
+* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain, Semantic Kernel, Autogen
+* **Cyberbezpieczeństwo:** Kali Linux, Nmap, OpenVAS, Metasploit, testy penetracyjne
+* **Web:** Angular, Nette Framework, HTML5, CSS3, REST API, Latte
+* **Bazy danych:** MySQL, MariaDB, optymalizacja SQL
+* **Linux:** Debian, Ubuntu, RHEL, bash scripting, administracja serwerów
+
+### Kursy i certyfikacje
+
+* **Cloud Architect** (robot_dreams, 2025) – architektura chmurowa, Kubernetes, monitoring, IaC, CI/CD, disaster recovery, projekt końcowy: klaster Ceph+Kubernetes
+* **Computer Vision** (robot_dreams, 2025) – cyfrowe przetwarzanie obrazu, operacje morfologiczne, transformacje spektralne, sieci neuronowe, OpenCV
+* **Testy penetracyjne praktycznie** (robot_dreams, 2025) – Kali Linux, Nmap, OpenVAS, Metasploit, ZAP, phishing, bruteforcing, reverse shell, privilege escalation, reporting
+* **AI Agenci** (robot_dreams, 2025) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, projekt końcowy: Local AI Coder
+* **AI Developer** (robot_dreams, 2025) – sieci neuronowe, prompt engineering, fine-tuning, HuggingFace, LangChain, RAG, projekt końcowy: Sys Alert Tuner
+* **AI Level Up** (coalbrain, 2025) – produktywność z AI, praktyczne zastosowania LLM
+* **Praktyczne AI** (coalbrain, 2025) – aplikacje AI w życiu osobistym i zawodowym
+* **CCNA 1-4** (Cisco Networking Academy, 2006) – technologie sieciowe, routing, switching
+
+### Projekty publiczne
+
+* **Local AI Coder** – agent AI do lokalnego rozwoju kodu (projekt końcowy kursu AI Agenci): [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
+* **Sys Alert Tuner** – system AI do strojenia alertów (projekt końcowy kursu AI Developer): [github.com/kratocz/sys-alert-tuner](https://github.com/kratocz/sys-alert-tuner)
+* **Kratokurz** – samouczki YouTube o Dockerze, Btrfs i administracji Linuksem (po czesku): [youtube.com/playlist](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
+
+### Dodatkowe doświadczenie
+
+* **Ekspertyza PHP:** 20+ lat doświadczenia profesjonalnego (PHP 4 – PHP 8.2), frameworki (Nette), systemy szablonów (Latte), MVC, Repository pattern, Dependency Injection
+* **Konkursy programistyczne:** ACM ICPC – reprezentacja Czech na etapie europejskim w Budapeszcie (2005, 2006), etapie ogólnokrajowym w Pradze (2004-2006)
+* **Języki:** Czeski (język ojczysty), Angielski (zaawansowany – pisemnie i ustnie)
+
+</div>
+
+<style>
+@media print {
+  .resume-section {
+    page-break-after: always;
+  }
+}
+</style>
+
 ## Dane osobowe
 
 |                               |                                              |

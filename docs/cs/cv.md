@@ -12,6 +12,74 @@ Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadm
 * 🇨🇿 CV v češtině: [krato.cz/cs/cv](https://krato.cz/cs/cv)
 * 🇵🇱 CV po polsku: [krato.cz/pl/cv](https://krato.cz/pl/cv)
 
+<div class="resume-section" markdown="1">
+
+## Resume
+
+**Ing. Petr Kratochvíl**
+Full-stack developer, DevOps engineer, Linux sysadmin, AI specialista
+📧 [krato@krato.cz](mailto:krato@krato.cz) | 📱 +420776762237 | 🌍 [krato.cz](https://krato.cz) | 🐙 [github.com/kratocz](https://github.com/kratocz)
+
+### Oblasti zájmu
+
+Backend development (PHP, Java, Kotlin, Python), DevOps (Docker, Kubernetes, GitLab CI/CD, GitHub Actions), Linux (bash, Terraform), Cloud (AWS, Azure), LLM/AI (Custom GPTs, AI agents, RAG, fine-tuning), Computer Vision (OpenCV, neural networks), Cybersecurity (penetrační testování, Kali Linux), SPA frontend (Angular), File systems (Btrfs, CephFS)
+
+### Pracovní zkušenosti
+
+* **2015 – dosud: OSVČ** – vývoj webových prezentací a API v PHP, Java, JavaScript, TypeScript, administrace Linuxových serverů, security management
+* **2015 – dosud: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
+* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, podíl na e-shop knihydobrovsky.cz a slevovém portálu pepa.cz
+* **2007: Západočeská Univerzita** – vývoj webu International Student Club
+* **2002 – 2004: Nemocnice Tábor** – vývoj intranetových webových stránek (stále používáno po 20+ letech)
+
+### Vzdělání
+
+* **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, prospěchové stipendium
+* **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
+
+### Klíčové dovednosti
+
+* **Programování:** PHP (20+ let), Java, JavaScript/TypeScript, Python, ANSI C, C#
+* **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, Git, GitLab CI/CD, GitHub Actions, Terraform
+* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain, Semantic Kernel, Autogen
+* **Cybersecurity:** Kali Linux, Nmap, OpenVAS, Metasploit, penetrační testování
+* **Web:** Angular, Nette Framework, HTML5, CSS3, REST API, Latte
+* **Databáze:** MySQL, MariaDB, SQL optimalizace
+* **Linux:** Debian, Ubuntu, RHEL, bash scripting, administrace serverů
+
+### Kurzy a certifikace
+
+* **Cloud Architect** (robot_dreams, 2025) – cloudová architektura, Kubernetes, monitoring, IaC, CI/CD, disaster recovery, závěrečný projekt: Ceph+Kubernetes cluster
+* **Computer Vision** (robot_dreams, 2025) – digitální zpracování obrazu, morfologické operace, spektrální transformace, neuronové sítě, OpenCV
+* **Penetrační testování prakticky** (robot_dreams, 2025) – Kali Linux, Nmap, OpenVAS, Metasploit, ZAP, phishing, bruteforcing, reverse shell, privilege escalation, reporting
+* **AI Agenti** (robot_dreams, 2025) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, závěrečný projekt: Local AI Coder
+* **AI Developer** (robot_dreams, 2025) – neuronové sítě, prompt engineering, fine-tuning, HuggingFace, LangChain, RAG, závěrečný projekt: Sys Alert Tuner
+* **AI Level Up** (coalbrain, 2025) – produktivita s AI, praktické využití LLM v praxi
+* **AI bez keců** (coalbrain, 2025) – aplikace AI v osobním a pracovním životě
+* **CCNA 1-4** (Cisco Networking Academy, 2006) – síťové technologie, routing, switching
+
+### Veřejné projekty
+
+* **Local AI Coder** – AI agent pro lokální vývoj kódu (závěrečný projekt AI Agenti): [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
+* **Sys Alert Tuner** – AI systém pro ladění alertů (závěrečný projekt AI Developer): [github.com/kratocz/sys-alert-tuner](https://github.com/kratocz/sys-alert-tuner)
+* **Kratokurz** – YouTube tutoriály o Dockeru, Btrfs a správě Linuxu (česky): [youtube.com/playlist](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
+
+### Další zkušenosti
+
+* **PHP expertise:** 20+ let profesionálních zkušeností (PHP 4 – PHP 8.2), frameworky (Nette), template systémy (Latte), MVC, Repository pattern, Dependency Injection
+* **Programátorské soutěže:** ACM ICPC – reprezentace ČR na evropském kole v Budapešti (2005, 2006), celostátním kole v Praze (2004-2006)
+* **Jazyky:** Čeština (rodilý mluvčí), Angličtina (pokročilý – písmem a slovem)
+
+</div>
+
+<style>
+@media print {
+  .resume-section {
+    page-break-after: always;
+  }
+}
+</style>
+
 ## Osobní údaje
 
 |                           |                                              |
