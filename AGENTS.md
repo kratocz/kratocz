@@ -47,11 +47,48 @@ The GitHub Actions workflow automatically handles deployment when pushing to `ma
 
 ## Content Guidelines
 
-- Main content is bilingual (Czech and English)
+- Main content is multilingual (Czech, English, Polish)
 - CV/resume content is in separate language-specific files
 - The homepage (`docs/index.md`) serves as the main landing page
 - All content uses standard Markdown with some HTML for styling buttons
 - Links to external profiles and projects are maintained in the main index
+
+### CV Structure and Versions
+
+Each language has two CV versions:
+- **cv.md** - Concise one-page format (~100 lines) with essential information
+- **cv-full.md** - Detailed archive version with complete history
+
+**Language-specific files:**
+- `docs/cs/cv.md` + `docs/cs/cv-full.md` (Czech)
+- `docs/en/cv.md` + `docs/en/cv-full.md` (English)
+- `docs/pl/cv.md` + `docs/pl/cv-full.md` (Polish)
+
+**Key sections in cv.md:**
+- Header with contact info (3 bullet points)
+- Aktuální verze CV (Current CV versions) - single line with language links
+- Profily (Profiles) - split into "IT development" and "Other"
+- Oblasti zájmu (Areas of Interest) - structured bullet list
+- Pracovní zkušenosti (Work Experience) - with "AI specialista" at end of OSVČ entry
+- Klíčové dovednosti (Key Skills)
+- Absolvované kurzy (Completed Courses) - organized by categories:
+  - AI Development
+  - AI Prompt Engineering
+  - Cloud Architecture
+  - Cybersecurity & Networking
+- Plánované kurzy (Planned Courses)
+- Veřejné projekty (Public Projects) - with Kratokurz first
+- Další zkušenosti (Additional Experience)
+- Zájmy (Interests)
+- Vizitka QR kód (Business Card QR code)
+
+**Important conventions:**
+- Keep all three language versions structurally identical
+- "AI specialista" / "AI specialist" / "specjalista AI" appears at end of OSVČ/Self-employed description
+- LLM/AI interests include: "AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design"
+- Course entries format: `**Course Name** (provider, year, hours, instructor: Name - Title, Company, [course](link)) – topics`
+- Use full YouTube URLs in project links (not shortened versions)
+- Maintain DRY, SOLID, Scrum in "Additional Experience" section
 
 ## Deployment
 
