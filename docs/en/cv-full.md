@@ -110,7 +110,7 @@ Backend development (PHP, Java, Kotlin, Python), DevOps (Docker, Kubernetes, Git
 
 ## Public Projects
 
-- 🤖 **Local AI Coder** - AI agent for local code development (final project of AI Agents course): [GitHub Repo](https://github.com/kratocz/localaicoder)
+- 🤖 **Local AI Coder** - AI agent using local LLM for code development (final project of AI Agents course): [GitHub Repo](https://github.com/kratocz/localaicoder)
 - ⚡ **Sys Alert Tuner** - AI system for alert tuning (final project of AI Developer course): [GitHub Repo](https://github.com/kratocz/sys-alert-tuner)
 - 🏗 **IT Knowledge Base** - Structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
 - 🐧 **Tutorials for Btrfs, Docker and Linux Administration** - YouTube playlist in Czech: [Kratokurz - 1st series videos (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)

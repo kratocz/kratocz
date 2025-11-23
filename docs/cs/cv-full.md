@@ -42,7 +42,7 @@ Ing. **Petr Kratochvíl** je full-stack developer, DevOps engineer, Linux sysadm
 
 ## Veřejné projekty
 
-- 🤖 **Local AI Coder** - AI agent pro lokální vývoj kódu (závěrečný projekt kurzu AI Agenti): [GitHub Repo](https://github.com/kratocz/localaicoder)
+- 🤖 **Local AI Coder** - AI agent využívající lokální LLM pro vývoj kódu (závěrečný projekt kurzu AI Agenti): [GitHub Repo](https://github.com/kratocz/localaicoder)
 - ⚡ **Sys Alert Tuner** - AI systém pro ladění alertů (závěrečný projekt kurzu AI Developer): [GitHub Repo](https://github.com/kratocz/sys-alert-tuner)
 - 🏗 **Znalostní báze IT** - Strukturovaný repozitář mých IT znalostí: [GitHub Repo](https://github.com/kratocz/shel)
 - 🐧 **Tutoriály pro Btrfs, Docker a správu Linuxu** - YouTube playlist v češtině: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)

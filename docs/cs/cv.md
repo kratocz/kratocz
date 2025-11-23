@@ -87,7 +87,7 @@
 ## Veřejné projekty
 
 * **Kratokurz** – YouTube tutoriály o Dockeru, Btrfs a správě Linuxu (česky): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
-* **Local AI Coder** – AI agent pro lokální vývoj kódu: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
+* **Local AI Coder** – AI agent využívající lokální LLM pro vývoj kódu: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
 * **Znalostní báze IT** – strukturovaný repozitář IT znalostí: [github.com/kratocz/shel](https://github.com/kratocz/shel)
 
 ## Další zkušenosti

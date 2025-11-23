@@ -87,7 +87,7 @@
 ## Public Projects
 
 * **Kratokurz** – YouTube tutorials about Docker, Btrfs and Linux administration (Czech): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
-* **Local AI Coder** – AI agent for local code development: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
+* **Local AI Coder** – AI agent using local LLM for code development: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
 * **IT Knowledge Base** – structured IT knowledge repository: [github.com/kratocz/shel](https://github.com/kratocz/shel)
 
 ## Additional Experience
