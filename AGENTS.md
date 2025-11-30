@@ -55,14 +55,18 @@ The GitHub Actions workflow automatically handles deployment when pushing to `ma
 
 ### CV Structure and Versions
 
-Each language has two CV versions:
+Each language has a CV file:
 - **cv.md** - Concise one-page format (~100 lines) with essential information
-- **cv-full.md** - Detailed archive version with complete history
 
 **Language-specific files:**
-- `docs/cs/cv.md` + `docs/cs/cv-full.md` (Czech)
-- `docs/en/cv.md` + `docs/en/cv-full.md` (English)
-- `docs/pl/cv.md` + `docs/pl/cv-full.md` (Polish)
+- `docs/cs/cv.md` (Czech)
+- `docs/en/cv.md` (English)
+- `docs/pl/cv.md` (Polish)
+
+**Archived files (read-only, do not modify):**
+- `docs/cs/cv-old-2025-11-30.md`
+- `docs/en/cv-old-2025-11-30.md`
+- `docs/pl/cv-old-2025-11-30.md`
 
 **Key sections in cv.md:**
 - Header with contact info (3 bullet points)
