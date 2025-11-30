@@ -58,6 +58,7 @@
 
 * **AI Developer** (robot_dreams, 2025, 24h, lektor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurz](https://robotdreams.cz/course/287-t6-ai-developer)) – neuronové sítě, prompt engineering, fine-tuning, HuggingFace, LangChain, RAG, závěrečný projekt: Sys Alert Tuner
 * **AI Agenti** (robot_dreams, 2025, 22h, lektor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurz](https://robotdreams.cz/course/567-ai-agents)) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, závěrečný projekt: Local AI Coder
+* **Pokročilé AI aplikace** (robot_dreams, 2025, 20h, lektor: Tomáš Kubica - Azure Cloud Solutions Architect, Microsoft, [kurz](https://robotdreams.cz/course/706-pokrocile-ai-aplikace)) – AI agenti v produkci, MCP, OAuth, RBAC, Keycloak, závěrečný projekt: MCP Auth Per-Tool RBAC
 * **Computer Vision** (robot_dreams, 2025, lektor: Jakub Klus - fyzik, Thermo Fisher Scientific, [kurz](https://robotdreams.cz/course/323-computer-vision)) – digitální zpracování obrazu, morfologické operace, spektrální transformace, neuronové sítě, OpenCV
 
 ### AI Prompt Engineering
@@ -76,7 +77,6 @@
 
 ## Plánované kurzy
 
-* **Advanced AI Applications** (robot_dreams, plán na 2025) – AI
 * **Machine Learning** (robot_dreams, plán na 2026) – AI
 * **Staň se etickým hackerem** (robot_dreams, plán na 2026) – cybersecurity
 * **DevOps Engineer** (robot_dreams, plán na 2026) – DevOps
