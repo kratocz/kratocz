@@ -10,7 +10,7 @@
 
 ## Profiles
 
-* **IT development:** 🐙 [GitHub](https://github.com/kratocz), 👨‍💼 [LinkedIn](https://www.linkedin.com/in/kratocz/), ▶️ [YouTube](https://www.youtube.com/@kratocz), 🐳 [Docker Hub](https://hub.docker.com/u/krato), 🤗 [Hugging Face](https://huggingface.co/kratocz), 📊 [Kaggle](https://www.kaggle.com/kratocz)
+* **IT development:** 🐙 [GitHub](https://github.com/kratocz), 👨‍💼 [LinkedIn](https://www.linkedin.com/in/kratocz/), ▶️ [YouTube](https://www.youtube.com/@kratocz), 🐳 [Docker Hub](https://hub.docker.com/u/krato), 🤗 [Hugging Face](https://huggingface.co/kratocz)
 * **Other:** 📘 [Facebook](https://www.facebook.com/kratocz), ☁️ [Bluesky](https://bsky.app/profile/kratocz.bsky.social), 🐦 [Twitter/X](https://x.com/kratocz), 🚴 [Strava](https://www.strava.com/athletes/kratocz)
 
 ## Areas of Interest
