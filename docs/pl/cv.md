@@ -61,11 +61,6 @@
 * **Zaawansowane aplikacje AI** (robot_dreams, 2025, 20h, instruktor: Tomáš Kubica - Azure Cloud Solutions Architect, Microsoft, [kurs](https://robotdreams.cz/course/706-pokrocile-ai-aplikace)) – agenci AI w produkcji, MCP, OAuth, RBAC, Keycloak, projekt końcowy: MCP Auth Per-Tool RBAC
 * **Computer Vision** (robot_dreams, 2025, instruktor: Jakub Klus - fizyk, Thermo Fisher Scientific, [kurs](https://robotdreams.cz/course/323-computer-vision)) – cyfrowe przetwarzanie obrazu, operacje morfologiczne, transformacje spektralne, sieci neuronowe, OpenCV
 
-### AI Prompt Engineering
-
-* **AI Level Up** (coalbrain, 2025, 8h, instruktor: Marek Bartoš - popularyzator AI, coalsoft, [kurs](https://coalbrain.cz/ai-level-up)) – produktywność z AI, praktyczne zastosowania LLM
-* **Praktyczne AI** (coalbrain, 2025, 8h, instruktor: Marek Bartoš - popularyzator AI, coalsoft, [kurs](https://coalbrain.cz/produkt/ai-bez-kecu)) – aplikacje AI w życiu osobistym i zawodowym
-
 ### Cloud Architecture
 
 * **Cloud Architect** (robot_dreams, 2025, 21h, instruktor: Tomáš Kubica - Azure Cloud Solutions Architect w Microsoft, [kurs](https://robotdreams.cz/course/412-cloud-architect)) – architektura chmurowa, Kubernetes, monitoring, IaC, CI/CD, disaster recovery, projekt końcowy: klaster Ceph+Kubernetes
