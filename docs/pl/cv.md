@@ -59,7 +59,7 @@
 * **AI Developer** (robot_dreams, 2025, 24h, instruktor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurs](https://robotdreams.cz/course/287-t6-ai-developer)) – sieci neuronowe, prompt engineering, fine-tuning, HuggingFace, LangChain, RAG, projekt końcowy: Sys Alert Tuner
 * **AI Agenci** (robot_dreams, 2025, 22h, instruktor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurs](https://robotdreams.cz/course/567-ai-agents)) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, projekt końcowy: Local AI Coder
 * **Zaawansowane aplikacje AI** (robot_dreams, 2025, 20h, instruktor: Tomáš Kubica - Azure Cloud Solutions Architect, Microsoft, [kurs](https://robotdreams.cz/course/706-pokrocile-ai-aplikace)) – agenci AI w produkcji, MCP, OAuth, RBAC, Keycloak, projekt końcowy: MCP Auth Per-Tool RBAC
-* **Computer Vision** (robot_dreams, 2025, instruktor: Jakub Klus - fizyk, Thermo Fisher Scientific, [kurs](https://robotdreams.cz/course/323-computer-vision)) – cyfrowe przetwarzanie obrazu, operacje morfologiczne, transformacje spektralne, sieci neuronowe, OpenCV
+* **Computer Vision** (robot_dreams, 2025, 24h, instruktor: Jakub Klus - fizyk, Thermo Fisher Scientific, [kurs](https://robotdreams.cz/course/323-computer-vision)) – cyfrowe przetwarzanie obrazu, operacje morfologiczne, transformacje spektralne, sieci neuronowe, OpenCV
 
 ### Cloud Architecture
 
