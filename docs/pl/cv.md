@@ -27,8 +27,8 @@
 
 ## Doświadczenie zawodowe
 
+* **2017 – obecnie: ProfiSMS, s.r.o.** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
 * **2015 – obecnie: Działalność gospodarcza** – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, specjalista AI
-* **2015 – obecnie: ProfiSMS, s.r.o.** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
 * **2014 paź-gru: RTsoft, s.r.o.** – rozwój stron internetowych na zamówienie
 * **2013 marzec: RTsoft, s.r.o.** – intranetowy system zarządzania magazynem
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, udział w e-shop knihydobrovsky.cz i portalu rabatowym pepa.cz

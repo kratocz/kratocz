@@ -27,8 +27,8 @@
 
 ## Work Experience
 
+* **2017 – present: ProfiSMS, s.r.o.** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
 * **2015 – present: Self-employed** – web presentations and API development in PHP, Java, JavaScript, TypeScript, Linux server administration, AI specialist
-* **2015 – present: ProfiSMS, s.r.o.** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
 * **2014 Oct-Dec: RTsoft, s.r.o.** – custom web development
 * **2013 March: RTsoft, s.r.o.** – intranet inventory management system
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, participation in e-shop knihydobrovsky.cz and discount portal pepa.cz

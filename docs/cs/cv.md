@@ -27,8 +27,8 @@
 
 ## Pracovní zkušenosti
 
+* **2017 – dosud: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
 * **2015 – dosud: OSVČ** – vývoj webových prezentací a API v PHP, Java, JavaScript, TypeScript, administrace Linuxových serverů, AI specialista
-* **2015 – dosud: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
 * **2014 říjen-prosinec: RTsoft, s.r.o.** – vývoj webových stránek na zakázku
 * **2013 březen: RTsoft, s.r.o.** – intranetové webové stránky evidence zboží
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, podíl na e-shop knihydobrovsky.cz a slevovém portálu pepa.cz
