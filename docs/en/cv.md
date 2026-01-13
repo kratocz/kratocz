@@ -17,7 +17,7 @@
 
 * **Backend development** – PHP, Java, Kotlin, Python
 * **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
-* **Linux** – bash, Terraform
+* **Linux** – bash, Ansible, Terraform
 * **Cloud** – AWS, Azure
 * **LLM/AI** – AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design
 * **Computer Vision** – OpenCV, neural networks
@@ -98,7 +98,7 @@
 
 ## Interests
 
-* **Professionally:** Linux OS, LLM agents
+* **Professionally:** modern IT technologies, Linux OS, LLM agents
 * **Recreationally:** Inline skating, swimming, music, horseback riding, chess, computer games
 
 ## Business Card (QR code)

@@ -17,7 +17,7 @@
 
 * **Backend development** – PHP, Java, Kotlin, Python
 * **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
-* **Linux** – bash, Terraform
+* **Linux** – bash, Ansible, Terraform
 * **Cloud** – AWS, Azure
 * **LLM/AI** – AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design
 * **Computer Vision** – OpenCV, neural networks
@@ -98,7 +98,7 @@
 
 ## Zájmy
 
-* **Profesionálně:** OS Linux, LLM agenti
+* **Profesionálně:** moderní IT technologie, OS Linux, LLM agenti
 * **Rekreačně:** In-line bruslení, plavání, hudba, jízda na koni, šachy, počítačové hry
 
 ## Vizitka (QR kód)
