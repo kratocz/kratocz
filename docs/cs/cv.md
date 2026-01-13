@@ -90,8 +90,9 @@
 * **Local AI Coder** – AI agent využívající lokální LLM pro vývoj kódu: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
 * **Znalostní báze IT** – strukturovaný repozitář IT znalostí: [github.com/kratocz/shel](https://github.com/kratocz/shel)
 
-## Další zkušenosti
+## Profesní detaily
 
+* **Agilní workflow:** každodenní Scrum meetingy, projektové řízení (ClickUp/Jira), týmová komunikace (Slack), verzování a CI/CD (GitLab), vývoj (IntelliJ IDEA Ultimate, Claude Code), databáze (DBeaver), API testování (Postman), terminál, SSH
 * **PHP expertise:** 20+ let profesionálních zkušeností (PHP 4 – PHP 8.2), frameworky (Nette), template systémy (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, Scrum, typy projektů (Backend API, webové prezentace, intranetové systémy, REST API, e-commerce, administrační rozhraní), klíčové projekty (ProfiSMS - příjem SMS přes API, backendové služby, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; nemocniční intranet stále v provozu po 20+ letech)
 * **Programátorské soutěže:** ACM ICPC – reprezentace ČR na evropském kole v Budapešti (2005, 2006), celostátním kole v Praze (2004-2006), reprezentace na krajském (České Budějovice) a celostátním kole (Mladá Boleslav, 1997) během základní a střední školy
 * **Jazyky:** Čeština (rodilý mluvčí), Angličtina (pokročilý – písmem a slovem)

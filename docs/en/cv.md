@@ -90,8 +90,9 @@
 * **Local AI Coder** – AI agent using local LLM for code development: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
 * **IT Knowledge Base** – structured IT knowledge repository: [github.com/kratocz/shel](https://github.com/kratocz/shel)
 
-## Additional Experience
+## Professional Details
 
+* **Agile workflow:** daily Scrum meetings, project management (ClickUp/Jira), team communication (Slack), version control and CI/CD (GitLab), development (IntelliJ IDEA Ultimate, Claude Code), database (DBeaver), API testing (Postman), terminal, SSH
 * **PHP expertise:** 20+ years of professional experience (PHP 4 – PHP 8.2), frameworks (Nette), template systems (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, Scrum, project types (Backend API, web presentations, intranet systems, REST API, e-commerce, admin interfaces), key projects (ProfiSMS - SMS reception via API, backend services, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; hospital intranet still in operation after 20+ years)
 * **Programming contests:** ACM ICPC – Czech Republic representation at European round in Budapest (2005, 2006), nationwide round in Prague (2004-2006), regional (České Budějovice) and nationwide round (Mladá Boleslav, 1997) during elementary and high school
 * **Languages:** Czech (native speaker), English (advanced – in writing and speech)
