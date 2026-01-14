@@ -15,7 +15,7 @@
 
 ## Areas of Interest
 
-* **Backend development** – PHP, Java, Kotlin, Python
+* **Backend Development** – PHP, Java, Kotlin, Python
 * **Backend Architecture** – REST API design, design patterns (MVC, Repository, DI), SOLID principles, microservices
 * **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
 * **Linux** – bash, Ansible, Terraform
@@ -23,8 +23,8 @@
 * **LLM/AI** – AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design
 * **Computer Vision** – OpenCV, neural networks
 * **Cybersecurity** – penetration testing, Kali Linux
-* **SPA frontend** – Angular
-* **File systems** – Btrfs, CephFS
+* **SPA Frontend** – Angular
+* **File Systems** – Btrfs, CephFS
 
 ## Work Experience
 

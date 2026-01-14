@@ -15,7 +15,7 @@
 
 ## Obszary zainteresowań
 
-* **Backend development** – PHP, Java, Kotlin, Python
+* **Backend Development** – PHP, Java, Kotlin, Python
 * **Backend Architecture** – projektowanie REST API, wzorce projektowe (MVC, Repository, DI), zasady SOLID, microservices
 * **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
 * **Linux** – bash, Ansible, Terraform
@@ -23,8 +23,8 @@
 * **LLM/AI** – agenci AI, RAG, fine-tuning, Prompt Engineering, AI Interaction Design
 * **Computer Vision** – OpenCV, sieci neuronowe
 * **Cyberbezpieczeństwo** – testy penetracyjne, Kali Linux
-* **SPA frontend** – Angular
-* **Systemy plików** – Btrfs, CephFS
+* **SPA Frontend** – Angular
+* **Systemy Plików** – Btrfs, CephFS
 
 ## Doświadczenie zawodowe
 
