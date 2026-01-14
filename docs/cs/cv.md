@@ -16,7 +16,7 @@
 ## Oblasti zájmu
 
 * **Backend Development** – PHP, Java, Kotlin, Python
-* **Backend Architecture** – REST API design, design patterns (MVC, Repository, DI), SOLID principles, microservices
+* **Backend Architecture** – REST API design, design patterns (MVC, Repository, DI), SOLID principles, microservices, data pipelines, zpracování zpráv, vysoce výkonné a spolehlivé systémy
 * **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
 * **Linux** – bash, Ansible, Terraform
 * **Cloud** – AWS, Azure
