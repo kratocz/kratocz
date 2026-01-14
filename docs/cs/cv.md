@@ -88,7 +88,7 @@
 
 ## Vybrané zkušenosti
 
-* **Agilní workflow:** každodenní Scrum meetingy, projektové řízení (ClickUp/Jira), týmová komunikace (Slack), verzování a CI/CD (GitLab), vývoj (IntelliJ IDEA Ultimate, Claude Code), databáze (DBeaver), API testování (Postman), terminál, SSH
+* **Agilní workflow:** denní Scrum videomeetingy v angličtině, projektové řízení (ClickUp/Jira), týmová komunikace (Slack), verzování a CI/CD (GitLab, GitHub), vývoj (IntelliJ IDEA Ultimate, Claude Code), databáze (DBeaver), API testování (Postman), terminál, SSH
 * **PHP expertise:** 20+ let profesionálních zkušeností (PHP 4 – PHP 8.5), frameworky (Nette), template systémy (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, typy projektů (Backend API, webové prezentace, intranetové systémy, REST API, e-commerce, administrační rozhraní), klíčové projekty (ProfiSMS - příjem SMS přes API, backendové služby, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; nemocniční intranet stále v provozu po 20+ letech)
 * **Programátorské soutěže:** ACM ICPC – reprezentace ČR na evropském kole v Budapešti (2005, 2006), celostátním kole v Praze (2004-2006), reprezentace na krajském (České Budějovice) a celostátním kole (Mladá Boleslav, 1997) během základní a střední školy
 * **Jazyky:** Čeština (rodilý mluvčí), Angličtina (pokročilý – písmem a slovem)
