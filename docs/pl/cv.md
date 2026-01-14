@@ -17,12 +17,12 @@
 
 * **Backend Development** – PHP, Java, Kotlin, Python
 * **Backend Architecture** – projektowanie API, wzorce projektowe (MVC, Repository, DI), zasady SOLID, microservices, potoki danych, przetwarzanie wiadomości, monitoring & observability, wysoka wydajność, wysoka dostępność i niezawodność
-* **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
-* **Linux** – bash, Ansible, Terraform
-* **Cloud** – AWS, Azure
-* **LLM/AI** – agenci AI, RAG, fine-tuning, Prompt Engineering, AI Interaction Design
+* **LLM/AI** – agenci AI, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, Machine Learning
 * **Computer Vision** – OpenCV, sieci neuronowe
-* **Cyberbezpieczeństwo** – testy penetracyjne, Kali Linux
+* **Linux** – bash, Ansible, Terraform
+* **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
+* **Cloud** – AWS, Azure
+* **Cyberbezpieczeństwo** – testy penetracyjne, etyczny hacking, Kali Linux
 * **SPA Frontend** – Angular
 * **Systemy Plików** – Btrfs, CephFS
 
