@@ -16,6 +16,7 @@
 ## Obszary zainteresowań
 
 * **Backend development** – PHP, Java, Kotlin, Python
+* **Backend Architecture** – projektowanie REST API, wzorce projektowe (MVC, Repository, DI), zasady SOLID, microservices
 * **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
 * **Linux** – bash, Ansible, Terraform
 * **Cloud** – AWS, Azure
