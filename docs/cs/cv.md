@@ -33,12 +33,12 @@
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, e-commerce projekty (knihydobrovsky.cz, pepa.cz), intranetové systémy, webové stránky na zakázku
 * **2011 únor-srpen: Swistar s.r.o.** – hotelová kniha pro tablety s OS Android
 * **2007: Západočeská Univerzita** – vývoj webu International Student Club
-* **2002 – 2004: Nemocnice Tábor** – vývoj intranetových webových stránek (stále používáno po 20+ letech)
-* **2002 (5 měsíců): Nemocnice Tábor** – trvalý pracovní poměr na oddělení informačních systémů
+* **2002 – 2004: Nemocnice Tábor** – vývoj intranetových stránek (stále používány po 20+ letech)
+* **2002 (5 měsíců): Nemocnice Tábor** – HPP na oddělení informačních systémů
 
 ## Vzdělání
 
-* **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, diplomová práce "Komunikační systém s využitím mobilních zařízení", prospěchové stipendium
+* **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, 2 roky prospěchové stipendium
 * **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
 
 ## Výzkum
@@ -49,8 +49,8 @@
 ## Klíčové dovednosti
 
 * **Programování:** PHP (20+ let), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
-* **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, Git, GitLab CI/CD, GitHub Actions, Terraform
-* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain, Semantic Kernel, Autogen
+* **DevOps & Cloud:** Docker, Docker Compose, Git, GitLab CI/CD, Ansible, Terraform
+* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain
 * **Cybersecurity:** Kali Linux, Nmap, OpenVAS, Metasploit, penetrační testování
 * **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
 * **Databáze:** MySQL, MariaDB, SQL optimalizace, ERA a UML modelování

@@ -38,7 +38,7 @@
 
 ## Education
 
-* **2002 – 2007: University of West Bohemia in Pilsen** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, thesis "Communication System Using Mobile Devices", merit scholarship
+* **2002 – 2007: University of West Bohemia in Pilsen** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, 2 years merit scholarship
 * **1997 – 2001: Secondary Technical School Písek** – electrical engineering, field: electrical computers
 
 ## Research
@@ -49,8 +49,8 @@
 ## Key Skills
 
 * **Programming:** PHP (20+ years), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
-* **DevOps & Cloud:** Docker, Docker Compose, Kubernetes, Git, GitLab CI/CD, GitHub Actions, Terraform
-* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain, Semantic Kernel, Autogen
+* **DevOps & Cloud:** Docker, Docker Compose, Git, GitLab CI/CD, Ansible, Terraform
+* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain
 * **Cybersecurity:** Kali Linux, Nmap, OpenVAS, Metasploit, penetration testing
 * **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
 * **Database:** MySQL, MariaDB, SQL optimization, ERA and UML modeling

@@ -33,24 +33,24 @@
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, projekty e-commerce (knihydobrovsky.cz, pepa.cz), systemy intranetowe, strony internetowe na zamówienie
 * **2011 lut-sie: Swistar s.r.o.** – aplikacja hotelowa na tablety Android
 * **2007: Uniwersytet Zachodnioczesski** – rozwój strony International Student Club
-* **2002 – 2004: Szpital Tábor** – rozwój intranetowych stron internetowych (nadal używane po 20+ latach)
+* **2002 – 2004: Szpital Tábor** – rozwój strony intranetowej (nadal używana po 20+ latach)
 * **2002 (5 miesięcy): Szpital Tábor** – stanowisko stałe w dziale IT
 
 ## Wykształcenie
 
-* **2002 – 2007: Uniwersytet Zachodnioczesski w Pilźnie** – Ing., Informatyka i Techniki Obliczeniowe, specjalizacja Systemy Rozproszone, praca dyplomowa "System komunikacyjny wykorzystujący urządzenia mobilne", stypendium za wyniki w nauce
-* **1997 – 2001: SPŠ A VOŠ Písek** – szkoła techniczna elektrotechniczna, kierunek: komputery elektroniczne
+* **2002 – 2007: Uniwersytet Zachodnioczesski w Pilźnie** – Ing., Informatyka i Techniki Obliczeniowe, specjalizacja Systemy Rozproszone, 2 lata stypendium za wyniki w nauce
+* **1997 – 2001: SPŠ A VOŠ Písek** – szkoła elektrotechniczna: komputery elektroniczne
 
 ## Badania
 
-* **Prototyp sieci neuronowej typu spiking (2014):** implementacja w CUDA (CUDAfy.net) z wizualizacją OpenGL propagacji potencjału czynnościowego; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
-* **Praca rygorystyczna (pomyślnie obroniona 2013):** agentowe środowisko symulacyjne dla AGI (wirtualne środowisko z agentami; przechowywanie scenariuszy i wyszukiwanie wiedzy); abstrakt + pełny tekst: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
+* **Prototyp sieci neuronowej typu spiking (2014):** implementacja w CUDA (CUDAfy.net) z wizualizacją OpenGL propagacji potencjału; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Praca rygorystyczna (pomyślnie obroniona 2013):** agentowe środowisko symulacyjne dla AGI (wirtualne środowisko z agentami; przechowywanie scenariuszy); abstrakt + pełny tekst: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
 
 ## Kluczowe umiejętności
 
 * **Programowanie:** PHP (20+ lat), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
-* **DevOps i Cloud:** Docker, Docker Compose, Kubernetes, Git, GitLab CI/CD, GitHub Actions, Terraform
-* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain, Semantic Kernel, Autogen
+* **DevOps i Cloud:** Docker, Docker Compose, Git, GitLab CI/CD, Ansible, Terraform
+* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain
 * **Cyberbezpieczeństwo:** Kali Linux, Nmap, OpenVAS, Metasploit, testy penetracyjne
 * **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
 * **Bazy danych:** MySQL, MariaDB, optymalizacja SQL, modelowanie ERA i UML
@@ -88,18 +88,18 @@
 * **Kratokurz** – samouczki YouTube o Dockerze, Btrfs i administracji Linuksem (po czesku): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
 * **Local AI Coder** – agent AI wykorzystujący lokalne LLM do rozwoju kodu: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
 * **Baza wiedzy IT** – uporządkowane repozytorium wiedzy IT: [github.com/kratocz/shel](https://github.com/kratocz/shel)
-* **MCP Auth Per-Tool RBAC** – przykładowa implementacja autoryzacji dla serwerów MCP z Keycloak i OAuth 2.0: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **MCP Auth Per-Tool RBAC** – przykład implementacji autoryzacji dla MCP z Keycloak i OAuth 2.0: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
 
 ## Wybrane doświadczenie
 
-* **Agile workflow:** codzienne spotkania Scrum wideo po angielsku, zarządzanie projektami (ClickUp/Jira), komunikacja zespołowa (Slack), kontrola wersji i CI/CD (GitLab, GitHub), rozwój (IntelliJ IDEA Ultimate, Claude Code), bazy danych (DBeaver), testowanie API (Postman), terminal, SSH
+* **Agile workflow:** codzienne spotkania Scrum wideo po angielsku, zarządzanie projektami (ClickUp/Jira), komunikacja zespołowa (Slack), kontrola wersji i CI/CD (GitLab, GitHub), rozwój (IntelliJ IDEA Ultimate, Claude Code), bazy danych (DBeaver), terminal, SSH
 * **Ekspertyza PHP:** 20+ lat doświadczenia profesjonalnego (PHP 4 – PHP 8.5), frameworki (Nette), systemy szablonów (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, typy projektów (Backend API, prezentacje internetowe, systemy intranetowe, REST API, e-commerce, interfejsy administracyjne), kluczowe projekty (ProfiSMS - odbiór SMS przez API, usługi backendowe, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; intranet szpitalny nadal działa po 20+ latach)
 * **Konkursy programistyczne:** ACM ICPC – reprezentacja Czech w rundzie europejskiej w Budapeszcie (2005, 2006), rundzie ogólnokrajowej w Pradze (2004-2006), reprezentacja w rundzie regionalnej (České Budějovice) i ogólnokrajowej (Mladá Boleslav, 1997) podczas szkoły podstawowej i średniej
 * **Języki:** Czeski (język ojczysty), Angielski (zaawansowany – pisemnie i ustnie)
 
 ## Zainteresowania
 
-* **Zawodowo:** nauka i stosowanie nowoczesnych technologii IT, system operacyjny Linux, agenci LLM
+* **Zawodowo:** nauka i stosowanie nowoczesnych technologii IT, OS Linux, agenci LLM
 * **Rekreacyjnie:** jazda na rolkach, pływanie, muzyka, jazda konna, szachy, gry komputerowe
 
 ## Wizytówka (kod QR)
