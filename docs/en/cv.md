@@ -53,7 +53,7 @@
 
 ## Research
 
-* **Spiking Neural Network prototype (2014):** CUDA (CUDAfy.net) implementation with OpenGL visualization of action potential propagation; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Spiking Neural Network prototype (2014):** GPU implementation in CUDA (CUDAfy.net) with visualization of action potential propagation; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
 * **Rigorous thesis (successfully defended 2013):** agent-based simulation environment for AGI (virtual world with agents; scenario storage and knowledge retrieval); abstract + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
 
 ## Completed Courses

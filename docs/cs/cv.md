@@ -53,7 +53,7 @@
 
 ## Výzkum
 
-* **Prototyp spiking neural network (2014):** implementace v CUDA (CUDAfy.net) s OpenGL vizualizací šíření akčního potenciálu; ukázka: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Prototyp spiking neural network (2014):** implementace na GPU v CUDA (CUDAfy.net) s vizualizací šíření akčního potenciálu; ukázka: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
 * **Rigorózní práce (úspěšně obhájeno 2013):** agentní simulační prostředí pro AGI (virtuální prostředí s agenty; ukládání scénářů a vyhledávání znalostí); abstrakt + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
 
 ## Absolvované kurzy

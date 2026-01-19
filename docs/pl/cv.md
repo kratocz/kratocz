@@ -53,7 +53,7 @@
 
 ## Badania
 
-* **Prototyp sieci neuronowej typu spiking (2014):** implementacja w CUDA (CUDAfy.net) z wizualizacją OpenGL propagacji potencjału; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Prototyp sieci neuronowej typu spiking (2014):** implementacja na GPU w CUDA (CUDAfy.net) z wizualizacją propagacji potencjału; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
 * **Praca rygorystyczna (pomyślnie obroniona 2013):** agentowe środowisko symulacyjne dla AGI (wirtualne środowisko z agentami; przechowywanie scenariuszy); abstrakt + pełny tekst: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
 
 ## Ukończone kursy
