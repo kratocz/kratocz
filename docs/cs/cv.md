@@ -30,9 +30,7 @@
 
 * **2017 – dosud: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
 * **2015 – dosud: OSVČ** – vývoj webových prezentací a API v PHP, Java, JavaScript, TypeScript, administrace Linuxových serverů, AI specialista
-* **2014 říjen-prosinec: RTsoft, s.r.o.** – vývoj webových stránek na zakázku
-* **2013 březen: RTsoft, s.r.o.** – intranetové webové stránky evidence zboží
-* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, podíl na e-shop knihydobrovsky.cz a slevovém portálu pepa.cz
+* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, e-commerce projekty (knihydobrovsky.cz, pepa.cz), intranetové systémy, webové stránky na zakázku
 * **2011 únor-srpen: Swistar s.r.o.** – hotelová kniha pro tablety s OS Android
 * **2007: Západočeská Univerzita** – vývoj webu International Student Club
 * **2002 – 2004: Nemocnice Tábor** – vývoj intranetových webových stránek (stále používáno po 20+ letech)

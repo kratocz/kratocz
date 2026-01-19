@@ -30,9 +30,7 @@
 
 * **2017 – obecnie: ProfiSMS, s.r.o.** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
 * **2015 – obecnie: Działalność gospodarcza** – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, specjalista AI
-* **2014 paź-gru: RTsoft, s.r.o.** – rozwój stron internetowych na zamówienie
-* **2013 marzec: RTsoft, s.r.o.** – intranetowy system zarządzania magazynem
-* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, udział w e-shop knihydobrovsky.cz i portalu rabatowym pepa.cz
+* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, projekty e-commerce (knihydobrovsky.cz, pepa.cz), systemy intranetowe, strony internetowe na zamówienie
 * **2011 lut-sie: Swistar s.r.o.** – aplikacja hotelowa na tablety Android
 * **2007: Uniwersytet Zachodnioczesski** – rozwój strony International Student Club
 * **2002 – 2004: Szpital Tábor** – rozwój intranetowych stron internetowych (nadal używane po 20+ latach)

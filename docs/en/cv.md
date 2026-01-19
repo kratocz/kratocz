@@ -30,9 +30,7 @@
 
 * **2017 – present: ProfiSMS, s.r.o.** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
 * **2015 – present: Self-employed** – web presentations and API development in PHP, Java, JavaScript, TypeScript, Linux server administration, AI specialist
-* **2014 Oct-Dec: RTsoft, s.r.o.** – custom web development
-* **2013 March: RTsoft, s.r.o.** – intranet inventory management system
-* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, participation in e-shop knihydobrovsky.cz and discount portal pepa.cz
+* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, e-commerce projects (knihydobrovsky.cz, pepa.cz), intranet systems, custom web development
 * **2011 Feb-Aug: Swistar s.r.o.** – hotel booking app for Android tablets
 * **2007: University of West Bohemia** – International Student Club website development
 * **2002 – 2004: Tábor Hospital** – intranet web development (still in use after 20+ years)
