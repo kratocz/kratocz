@@ -36,16 +36,6 @@
 * **2002 – 2004: Tábor Hospital** – intranet web development (still in use after 20+ years)
 * **2002 (5 months): Tábor Hospital** – permanent position in IT department
 
-## Education
-
-* **2002 – 2007: University of West Bohemia in Pilsen** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, 2 years merit scholarship
-* **1997 – 2001: Secondary Technical School Písek** – electrical engineering, field: electrical computers
-
-## Research
-
-* **Spiking Neural Network prototype (2014):** CUDA (CUDAfy.net) implementation with OpenGL visualization of action potential propagation; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
-* **Rigorous thesis (successfully defended 2013):** agent-based simulation environment for AGI (virtual world with agents; scenario storage and knowledge retrieval); abstract + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
-
 ## Key Skills
 
 * **Programming:** PHP (20+ years), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
@@ -55,6 +45,16 @@
 * **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
 * **Database:** MySQL, MariaDB, SQL optimization, ERA and UML modeling
 * **Linux:** Debian, Ubuntu, RHEL, bash scripting, server administration
+
+## Education
+
+* **2002 – 2007: University of West Bohemia in Pilsen** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, 2 years merit scholarship
+* **1997 – 2001: Secondary Technical School Písek** – electrical engineering, field: electrical computers
+
+## Research
+
+* **Spiking Neural Network prototype (2014):** CUDA (CUDAfy.net) implementation with OpenGL visualization of action potential propagation; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Rigorous thesis (successfully defended 2013):** agent-based simulation environment for AGI (virtual world with agents; scenario storage and knowledge retrieval); abstract + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
 
 ## Completed Courses
 

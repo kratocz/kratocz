@@ -36,16 +36,6 @@
 * **2002 – 2004: Nemocnice Tábor** – vývoj intranetových stránek (stále používány po 20+ letech)
 * **2002 (5 měsíců): Nemocnice Tábor** – HPP na oddělení informačních systémů
 
-## Vzdělání
-
-* **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, 2 roky prospěchové stipendium
-* **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
-
-## Výzkum
-
-* **Prototyp spiking neural network (2014):** implementace v CUDA (CUDAfy.net) s OpenGL vizualizací šíření akčního potenciálu; ukázka: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
-* **Rigorózní práce (úspěšně obhájeno 2013):** agentní simulační prostředí pro AGI (virtuální prostředí s agenty; ukládání scénářů a vyhledávání znalostí); abstrakt + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
-
 ## Klíčové dovednosti
 
 * **Programování:** PHP (20+ let), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
@@ -55,6 +45,16 @@
 * **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
 * **Databáze:** MySQL, MariaDB, SQL optimalizace, ERA a UML modelování
 * **Linux:** Debian, Ubuntu, RHEL, bash scripting, administrace serverů
+
+## Vzdělání
+
+* **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, 2 roky prospěchové stipendium
+* **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
+
+## Výzkum
+
+* **Prototyp spiking neural network (2014):** implementace v CUDA (CUDAfy.net) s OpenGL vizualizací šíření akčního potenciálu; ukázka: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Rigorózní práce (úspěšně obhájeno 2013):** agentní simulační prostředí pro AGI (virtuální prostředí s agenty; ukládání scénářů a vyhledávání znalostí); abstrakt + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
 
 ## Absolvované kurzy
 
