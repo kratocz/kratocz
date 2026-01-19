@@ -43,6 +43,11 @@
 * **2002 – 2007: Uniwersytet Zachodnioczesski w Pilźnie** – Ing., Informatyka i Techniki Obliczeniowe, specjalizacja Systemy Rozproszone, praca dyplomowa "System komunikacyjny wykorzystujący urządzenia mobilne", stypendium za wyniki w nauce
 * **1997 – 2001: SPŠ A VOŠ Písek** – szkoła techniczna elektrotechniczna, kierunek: komputery elektroniczne
 
+## Badania
+
+* **Prototyp sieci neuronowej typu spiking (2014):** implementacja w CUDA (CUDAfy.net) z wizualizacją OpenGL propagacji potencjału czynnościowego; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Praca rygorystyczna (pomyślnie obroniona 2013):** agentowe środowisko symulacyjne dla AGI (wirtualne środowisko z agentami; przechowywanie scenariuszy i wyszukiwanie wiedzy); abstrakt + pełny tekst: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
+
 ## Kluczowe umiejętności
 
 * **Programowanie:** PHP (20+ lat), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
@@ -96,7 +101,7 @@
 
 ## Zainteresowania
 
-* **Zawodowo:** nowoczesne technologie IT, system operacyjny Linux, agenci LLM
+* **Zawodowo:** nauka i stosowanie nowoczesnych technologii IT, system operacyjny Linux, agenci LLM
 * **Rekreacyjnie:** jazda na rolkach, pływanie, muzyka, jazda konna, szachy, gry komputerowe
 
 ## Wizytówka (kod QR)

@@ -43,6 +43,11 @@
 * **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, diplomová práce "Komunikační systém s využitím mobilních zařízení", prospěchové stipendium
 * **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
 
+## Výzkum
+
+* **Prototyp spiking neural network (2014):** implementace v CUDA (CUDAfy.net) s OpenGL vizualizací šíření akčního potenciálu; ukázka: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Rigorózní práce (úspěšně obhájeno 2013):** agentní simulační prostředí pro AGI (virtuální prostředí s agenty; ukládání scénářů a vyhledávání znalostí); abstrakt + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
+
 ## Klíčové dovednosti
 
 * **Programování:** PHP (20+ let), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
@@ -96,7 +101,7 @@
 
 ## Zájmy
 
-* **Profesionálně:** moderní IT technologie, OS Linux, LLM agenti
+* **Profesionálně:** studium a aplikace moderních IT technologií, OS Linux, LLM agenti
 * **Rekreačně:** In-line bruslení, plavání, hudba, jízda na koni, šachy, počítačové hry
 
 ## Vizitka (QR kód)

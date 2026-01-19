@@ -43,6 +43,11 @@
 * **2002 – 2007: University of West Bohemia in Pilsen** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, thesis "Communication System Using Mobile Devices", merit scholarship
 * **1997 – 2001: Secondary Technical School Písek** – electrical engineering, field: electrical computers
 
+## Research
+
+* **Spiking Neural Network prototype (2014):** CUDA (CUDAfy.net) implementation with OpenGL visualization of action potential propagation; demo: [youtube.com/watch?v=gGi28vx0NdQ](https://www.youtube.com/watch?v=gGi28vx0NdQ)
+* **Rigorous thesis (successfully defended 2013):** agent-based simulation environment for AGI (virtual world with agents; scenario storage and knowledge retrieval); abstract + fulltext: [dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37](https://dspace.zcu.cz/items/d2bd3155-a7a7-4f88-9250-a859a7824d37)
+
 ## Key Skills
 
 * **Programming:** PHP (20+ years), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
@@ -96,7 +101,7 @@
 
 ## Interests
 
-* **Professionally:** modern IT technologies, Linux OS, LLM agents
+* **Professionally:** learning and applying modern IT technologies, Linux OS, LLM agents
 * **Recreationally:** Inline skating, swimming, music, horseback riding, chess, computer games
 
 ## Business Card (QR code)
