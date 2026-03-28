@@ -81,7 +81,6 @@
 * **Kubernetes** (robot_dreams, planowane na 2026) – cloud, orkiestracja
 * **Microservices** (robot_dreams, planowane na 2026) – architektura
 * **Zarządzanie projektami IT** (robot_dreams, planowane na 2026) – zarządzanie
-* **Zarządzanie zespołami IT** (robot_dreams, planowane na 2026) – zarządzanie
 
 ## Projekty publiczne
 
