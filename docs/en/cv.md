@@ -80,6 +80,7 @@
 * **Become an Ethical Hacker** (robot_dreams, planned for 2026) – cybersecurity
 * **Kubernetes** (robot_dreams, planned for 2026) – cloud, orchestration
 * **Microservices** (robot_dreams, planned for 2026) – architecture
+* **IT Project Management** (robot_dreams, planned for 2026) – management
 * **IT Team Leadership** (robot_dreams, planned for 2026) – management
 
 ## Public Projects

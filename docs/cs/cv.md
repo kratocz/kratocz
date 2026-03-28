@@ -80,6 +80,7 @@
 * **Staň se etickým hackerem** (robot_dreams, plán na 2026) – cybersecurity
 * **Kubernetes** (robot_dreams, plán na 2026) – cloud, orchestrace
 * **Microservices** (robot_dreams, plán na 2026) – architektura
+* **Projektový management v IT** (robot_dreams, plán na 2026) – management
 * **Vedení IT týmů** (robot_dreams, plán na 2026) – management
 
 ## Veřejné projekty
