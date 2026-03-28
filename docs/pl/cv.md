@@ -78,7 +78,6 @@
 
 * **Machine Learning** (robot_dreams, planowane na 2026) – AI
 * **Zostań etycznym hakerem** (robot_dreams, planowane na 2026) – cyberbezpieczeństwo
-* **DevOps Engineer** (robot_dreams, planowane na 2026) – DevOps
 * **Kubernetes** (robot_dreams, planowane na 2026) – cloud, orkiestracja
 * **Microservices** (robot_dreams, planowane na 2026) – architektura
 * **Zarządzanie zespołami IT** (robot_dreams, planowane na 2026) – zarządzanie

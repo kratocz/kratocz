@@ -78,7 +78,6 @@
 
 * **Machine Learning** (robot_dreams, plán na 2026) – AI
 * **Staň se etickým hackerem** (robot_dreams, plán na 2026) – cybersecurity
-* **DevOps Engineer** (robot_dreams, plán na 2026) – DevOps
 * **Kubernetes** (robot_dreams, plán na 2026) – cloud, orchestrace
 * **Microservices** (robot_dreams, plán na 2026) – architektura
 * **Vedení IT týmů** (robot_dreams, plán na 2026) – management
