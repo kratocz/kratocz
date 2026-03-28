@@ -17,11 +17,11 @@
 
 * **Backend Development** – PHP, Java, Kotlin, Python
 * **Backend Architecture** – API design, design patterns (MVC, Repository, DI), SOLID principles, microservices, data pipelines, zpracování zpráv, monitoring & observability, vysoký výkon, vysoká dostupnost a spolehlivost
-* **LLM/AI** – AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, Machine Learning
+* **LLM/AI** – AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, Machine Learning, MLOps
 * **Computer Vision** – OpenCV, neural networks
 * **Linux** – bash, Ansible, Terraform
-* **DevOps** – Docker, Kubernetes, GitLab CI/CD, GitHub Actions
-* **Cloud** – AWS, Azure
+* **DevOps** – Docker, Kubernetes, K3s, GitLab CI/CD, GitHub Actions
+* **Cloud** – AWS, Azure, GCP
 * **Cybersecurity** – penetrační testování, etický hacking, Kali Linux
 * **SPA Frontend** – Angular
 * **File Systems** – Btrfs, CephFS
