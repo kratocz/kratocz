@@ -13,18 +13,17 @@ I specialize in working with PHP, Docker, AI technologies, and Btrfs, focusing o
 | 👨‍💼 LinkedIn: | [www.linkedin.com/in/kratocz](https://www.linkedin.com/in/kratocz/)                  |
 | ▶️ YouTube:     | [www.youtube.com/@kratocz](https://www.youtube.com/@kratocz)                         |
 | 🐳 Docker Hub:  | [hub.docker.com/u/krato](https://hub.docker.com/u/krato)                             |
+| 🤗 Hugging Face:| [huggingface.co/kratocz](https://huggingface.co/kratocz)                             |
+| 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                             |
 | ☁️ Bluesky:     | [bsky.app/profile/kratocz.bsky.social](https://bsky.app/profile/kratocz.bsky.social) |
 | 🐦 Twitter (X): | [x.com/kratocz](https://x.com/kratocz)                                               |
-| 📘 Facebook:    | [facebook.com/kratocz](https://www.facebook.com/kratocz)                             |
 | 🚴 Strava:      | [www.strava.com/athletes/kratocz](https://www.strava.com/athletes/kratocz)           |
 
 ## Public Projects
 
-- 🤖 **Local AI Coder** - AI agent for local code development (final project of AI Agents course): [GitHub Repo](https://github.com/kratocz/localaicoder)
-- ⚡ **Sys Alert Tuner** - AI system for alert tuning (final project of AI Developer course): [GitHub Repo](https://github.com/kratocz/sys-alert-tuner)
-- 🏗 **IT Knowledge Base** - A structured repository of my IT knowledge: [GitHub Repo](https://github.com/kratocz/shel)
-- 🐧 **Btrfs, Docker and Linux administration Tutorials** - YouTube Playlist in Czech: [Kratokurz - videa 1. série (Kratotipy)](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x&si=R_UCIlmM8ZwODst6)
-- 📦 **Docker & DevOps Tools** - Various containerization and automation scripts: [GitHub Repos](https://github.com/kratocz?tab=repositories)
+- 🔌 **Claude Code Plugins** - Plugin marketplace for Claude Code (time tracker, MikroTik audit, second opinion, desktop notifications, session log): [GitHub Repo](https://github.com/kratocz/claude-plugins)
+- 🐧 **Kratokurz** - YouTube tutorials about Docker, Btrfs and Linux administration (in Czech): [YouTube Playlist](https://youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
+- 🔐 **MCP Auth Per-Tool RBAC** - Tutorial implementation of MCP server authorization with Keycloak and OAuth 2.0: [GitHub Repo](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
 
 ## Curriculum Vitae (CV)
 
