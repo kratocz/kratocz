@@ -72,12 +72,12 @@
 ### Cyberbezpieczeństwo i Networking
 
 * **Testy penetracyjne praktycznie** (robot_dreams, 2025, 18h, instruktor: Patrik Žák - Tester penetracyjny, SYSNETSHIELD, [kurs](https://robotdreams.cz/course/455-penetration-tester)) – Kali Linux, Nmap, OpenVAS, Metasploit, ZAP, phishing, bruteforcing, reverse shell, privilege escalation, reporting
+* **Ofensywne bezpieczeństwo i Red Teaming w praktyce** (robot_dreams, 2026, 18h, instruktor: Petr Váchal - Ethical Hacker, BEMOP s.r.o., [kurs](https://robotdreams.cz/course/331-stan-se-etickym-hackerem)) – OSINT, enumeracja usług, ataki na hasła, exploitacja podatności, eskalacja uprawnień, Active Directory hacking, techniki LOTL, własny malware, frameworki C2, pivoting, testowanie aplikacji webowych, AI w hackingu
 * **CCNA 1-4** (Cisco Networking Academy, 2006) – technologie sieciowe, routing, switching
 
 ## Planowane kursy
 
 * **Machine Learning** (robot_dreams, planowane na 2026) – AI
-* **Zostań etycznym hakerem** (robot_dreams, planowane na 2026) – cyberbezpieczeństwo
 * **Kubernetes** (robot_dreams, planowane na 2026) – cloud, orkiestracja
 * **Microservices** (robot_dreams, planowane na 2026) – architektura
 * **Zarządzanie projektami IT** (robot_dreams, planowane na 2026) – zarządzanie

@@ -72,12 +72,12 @@
 ### Cybersecurity & Networking
 
 * **Practical Penetration Testing** (robot_dreams, 2025, 18h, instructor: Patrik Žák - Penetration Tester, SYSNETSHIELD, [course](https://robotdreams.cz/course/455-penetration-tester)) – Kali Linux, Nmap, OpenVAS, Metasploit, ZAP, phishing, bruteforcing, reverse shell, privilege escalation, reporting
+* **Offensive Security and Red Teaming in Practice** (robot_dreams, 2026, 18h, instructor: Petr Váchal - Ethical Hacker, BEMOP s.r.o., [course](https://robotdreams.cz/course/331-stan-se-etickym-hackerem)) – OSINT, service enumeration, password attacks, vulnerability exploitation, privilege escalation, Active Directory hacking, LOTL techniques, custom malware, C2 frameworks, pivoting, web application testing, AI in hacking
 * **CCNA 1-4** (Cisco Networking Academy, 2006) – network technologies, routing, switching
 
 ## Planned Courses
 
 * **Machine Learning** (robot_dreams, planned for 2026) – AI
-* **Become an Ethical Hacker** (robot_dreams, planned for 2026) – cybersecurity
 * **Kubernetes** (robot_dreams, planned for 2026) – cloud, orchestration
 * **Microservices** (robot_dreams, planned for 2026) – architecture
 * **IT Project Management** (robot_dreams, planned for 2026) – management
