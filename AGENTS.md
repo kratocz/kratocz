@@ -81,7 +81,7 @@ Each language has a CV file:
   - Cloud Architecture
   - Cybersecurity & Networking
 - Plánované kurzy (Planned Courses)
-- Veřejné projekty (Public Projects) - with Kratokurz first
+- Veřejné projekty (Public Projects) - with Claude Code Plugin Marketplace first, Kratokurz second
 - Další zkušenosti (Additional Experience)
 - Zájmy (Interests)
 - Vizitka QR kód (Business Card QR code)
