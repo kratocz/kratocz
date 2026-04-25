@@ -86,7 +86,6 @@
 
 * **Pluginy do Claude Code** – marketplace pluginów do Claude Code (tracker czasu, audyt MikroTik, second opinion, powiadomienia desktopowe, log sesji): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
 * **Kratokurz** – samouczki YouTube o Dockerze, Btrfs i administracji Linuksem (po czesku): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
-* **Local AI Coder** – agent AI wykorzystujący lokalne LLM do rozwoju kodu: [github.com/kratocz/localaicoder](https://github.com/kratocz/localaicoder)
 * **MCP Auth Per-Tool RBAC** – przykład implementacji autoryzacji dla MCP z Keycloak i OAuth 2.0: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
 
 ## Wybrane doświadczenie
