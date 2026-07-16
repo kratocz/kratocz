@@ -28,7 +28,8 @@
 
 ## Doświadczenie zawodowe
 
-* **2017 – obecnie: ProfiSMS, s.r.o.** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
+* **2026 – obecnie: NTIT Group s.r.o.** – tech lead, DevOps engineer
+* **2017 – 2026: ProfiSMS, s.r.o.** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
 * **2015 – obecnie: Działalność gospodarcza** – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, specjalista AI
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, projekty e-commerce (knihydobrovsky.cz, pepa.cz), systemy intranetowe, strony internetowe na zamówienie
 * **2011 lut-sie: Swistar s.r.o.** – aplikacja hotelowa na tablety Android
@@ -64,6 +65,7 @@
 * **AI Agenci** (robot_dreams, 2025, 22h, instruktor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurs](https://robotdreams.cz/course/567-ai-agents)) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, projekt końcowy: Local AI Coder
 * **Zaawansowane aplikacje AI** (robot_dreams, 2025, 20h, instruktor: Tomáš Kubica - Azure Cloud Solutions Architect, Microsoft, [kurs](https://robotdreams.cz/course/706-pokrocile-ai-aplikace)) – agenci AI w produkcji, MCP, OAuth, RBAC, Keycloak, projekt końcowy: MCP Auth Per-Tool RBAC
 * **Computer Vision** (robot_dreams, 2025, 24h, instruktor: Jakub Klus - fizyk, Thermo Fisher Scientific, [kurs](https://robotdreams.cz/course/323-computer-vision)) – cyfrowe przetwarzanie obrazu, operacje morfologiczne, transformacje spektralne, sieci neuronowe, OpenCV
+* **Architektura AI w praktyce** (robot_dreams, 2026, 22h, instruktor: Josef Večerník - Head of Engineering AI & Integrations, Make.com, [kurs](https://robotdreams.cz/course/914-ai-architektura-v-praxi)) – architektura systemów AI, asystenci AI w projektowaniu (Cursor, Claude Code), ADR, warstwa danych i RAG, systemy agentowe, pamięć i durable execution, orkiestracja hybrydowa, bezpieczeństwo AI, LLM gateway i routing, zarządzanie kosztami, observability, CI/CD, projekt końcowy: dokument architektoniczny własnego systemu AI
 
 ### Cloud Architecture
 

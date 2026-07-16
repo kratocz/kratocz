@@ -28,7 +28,8 @@
 
 ## Pracovní zkušenosti
 
-* **2017 – dosud: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
+* **2026 – dosud: NTIT Group s.r.o.** – tech lead, DevOps engineer
+* **2017 – 2026: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
 * **2015 – dosud: OSVČ** – vývoj webových prezentací a API v PHP, Java, JavaScript, TypeScript, administrace Linuxových serverů, AI specialista
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, e-commerce projekty (knihydobrovsky.cz, pepa.cz), intranetové systémy, webové stránky na zakázku
 * **2011 únor-srpen: Swistar s.r.o.** – hotelová kniha pro tablety s OS Android
@@ -64,6 +65,7 @@
 * **AI Agenti** (robot_dreams, 2025, 22h, lektor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [kurz](https://robotdreams.cz/course/567-ai-agents)) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, závěrečný projekt: Local AI Coder
 * **Pokročilé AI aplikace** (robot_dreams, 2025, 20h, lektor: Tomáš Kubica - Azure Cloud Solutions Architect, Microsoft, [kurz](https://robotdreams.cz/course/706-pokrocile-ai-aplikace)) – AI agenti v produkci, MCP, OAuth, RBAC, Keycloak, závěrečný projekt: MCP Auth Per-Tool RBAC
 * **Computer Vision** (robot_dreams, 2025, 24h, lektor: Jakub Klus - fyzik, Thermo Fisher Scientific, [kurz](https://robotdreams.cz/course/323-computer-vision)) – digitální zpracování obrazu, morfologické operace, spektrální transformace, neuronové sítě, OpenCV
+* **AI architektura v praxi** (robot_dreams, 2026, 22h, lektor: Josef Večerník - Head of Engineering AI & Integrations, Make.com, [kurz](https://robotdreams.cz/course/914-ai-architektura-v-praxi)) – architektura AI systémů, AI asistenti v návrhu (Cursor, Claude Code), ADR, datová vrstva a RAG, agentní systémy, paměť a durable execution, hybridní orchestrace, bezpečnost AI, LLM gateway a routing, řízení nákladů, observabilita, CI/CD, závěrečný projekt: architektonický dokument vlastního AI systému
 
 ### Cloud Architecture
 

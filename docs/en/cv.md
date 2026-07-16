@@ -28,7 +28,8 @@
 
 ## Work Experience
 
-* **2017 – present: ProfiSMS, s.r.o.** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
+* **2026 – present: NTIT Group s.r.o.** – tech lead, DevOps engineer
+* **2017 – 2026: ProfiSMS, s.r.o.** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
 * **2015 – present: Self-employed** – web presentations and API development in PHP, Java, JavaScript, TypeScript, Linux server administration, AI specialist
 * **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, e-commerce projects (knihydobrovsky.cz, pepa.cz), intranet systems, custom web development
 * **2011 Feb-Aug: Swistar s.r.o.** – hotel booking app for Android tablets
@@ -64,6 +65,7 @@
 * **AI Agents** (robot_dreams, 2025, 22h, instructor: Lukáš Kellerstein - Senior Software Engineer, Microsoft, [course](https://robotdreams.cz/course/567-ai-agents)) – AI API, MCP, n8n, LangChain/LangGraph, Semantic Kernel, Autogen, reinforcement learning, final project: Local AI Coder
 * **Advanced AI Applications** (robot_dreams, 2025, 20h, instructor: Tomáš Kubica - Azure Cloud Solutions Architect, Microsoft, [course](https://robotdreams.cz/course/706-pokrocile-ai-aplikace)) – AI agents in production, MCP, OAuth, RBAC, Keycloak, final project: MCP Auth Per-Tool RBAC
 * **Computer Vision** (robot_dreams, 2025, 24h, instructor: Jakub Klus - physicist, Thermo Fisher Scientific, [course](https://robotdreams.cz/course/323-computer-vision)) – digital image processing, morphological operations, spectral transformations, neural networks, OpenCV
+* **AI Architecture in Practice** (robot_dreams, 2026, 22h, instructor: Josef Večerník - Head of Engineering AI & Integrations, Make.com, [course](https://robotdreams.cz/course/914-ai-architektura-v-praxi)) – AI systems architecture, AI assistants in design (Cursor, Claude Code), ADR, data layer and RAG, agent systems, memory and durable execution, hybrid orchestration, AI security, LLM gateway and routing, cost management, observability, CI/CD, final project: architecture document of own AI system
 
 ### Cloud Architecture
 
