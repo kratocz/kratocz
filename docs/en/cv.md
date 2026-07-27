@@ -41,7 +41,7 @@
 ## Education
 
 * **2002 – 2007: [University of West Bohemia in Pilsen](https://www.zcu.cz/)** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, 2 years merit scholarship
-* **1997 – 2001: Secondary Technical School Písek** – electrical engineering, field: electrical computers
+* **1997 – 2001: [Secondary Technical School Písek](https://www.sps-pi.cz/)** – electrical engineering, field: electrical computers
 
 ## Research
 

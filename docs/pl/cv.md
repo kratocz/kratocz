@@ -41,7 +41,7 @@
 ## Wykształcenie
 
 * **2002 – 2007: [Uniwersytet Zachodnioczesski w Pilźnie](https://www.zcu.cz/)** – Ing., Informatyka i Techniki Obliczeniowe, specjalizacja Systemy Rozproszone, 2 lata stypendium za wyniki w nauce
-* **1997 – 2001: SPŠ A VOŠ Písek** – szkoła elektrotechniczna: komputery elektroniczne
+* **1997 – 2001: [SPŠ A VOŠ Písek](https://www.sps-pi.cz/)** – szkoła elektrotechniczna: komputery elektroniczne
 
 ## Badania
 

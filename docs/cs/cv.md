@@ -41,7 +41,7 @@
 ## Vzdělání
 
 * **2002 – 2007: [Západočeská Univerzita v Plzni](https://www.zcu.cz/)** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, 2 roky prospěchové stipendium
-* **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
+* **1997 – 2001: [SPŠ A VOŠ Písek](https://www.sps-pi.cz/)** – elektrotechnická průmyslová škola, obor el. počítače
 
 ## Výzkum
 
