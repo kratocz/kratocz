@@ -49,18 +49,6 @@ h1, h2, h3, h4, h5 {
     page-break-after: avoid;
 }
 
-/* Employer/university links in bold list headings: signal the link only
-   with a subtle dark-blue tint (near-black indigo); accent on hover. */
-.md-typeset li strong a {
-    color: #1a237e;
-    text-decoration: none;
-}
-
-.md-typeset li strong a:hover {
-    color: var(--md-accent-fg-color);
-    text-decoration: underline;
-}
-
 table {
     break-inside: avoid;
     page-break-inside: avoid;
@@ -93,8 +81,7 @@ table {
     }
 
     /* Links print as plain text: no color, no underline. */
-    .md-typeset a,
-    .md-typeset li strong a {
+    .md-typeset a {
         color: inherit;
         text-decoration: none;
     }
