@@ -72,9 +72,9 @@ Each language has a CV file:
 - Header with contact info (3 bullet points)
 - Aktuální verze CV (Current CV versions) - single line with language links
 - Profily (Profiles) - split into "IT development" and "Other"
-- Oblasti zájmu (Areas of Interest) - structured bullet list
+- Dovednosti (Skills / Umiejętności) - one bullet per domain (Backend, LLM/AI, DevOps & Cloud, Linux, Cybersecurity, Web, Databáze); merged former "Oblasti zájmu" and "Klíčové dovednosti"
+- Dovednosti v rozvoji (Skills in Development / Umiejętności w rozwoju) - single-line list of technologies currently being learned; Dovednosti must contain only proven skills, aspirational items belong here
 - Pracovní zkušenosti (Work Experience) - with "AI specialista" at end of OSVČ entry
-- Klíčové dovednosti (Key Skills)
 - Absolvované kurzy (Completed Courses) - organized by categories:
   - AI Development
   - AI Prompt Engineering
@@ -89,7 +89,7 @@ Each language has a CV file:
 **Important conventions:**
 - Keep all three language versions structurally identical
 - "AI specialista" / "AI specialist" / "specjalista AI" appears at end of OSVČ/Self-employed description
-- LLM/AI interests include: "AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design"
+- LLM/AI skills include: "AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design"
 - Course entries format: `**Course Name** (provider, year, hours, instructor: Name - Title, Company, [course](link)) – topics`
 - Use full YouTube URLs in project links (not shortened versions)
 - Maintain DRY, SOLID, Scrum in "Additional Experience" section

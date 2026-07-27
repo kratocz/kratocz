@@ -13,18 +13,19 @@
 * **Rozwój IT:** 🐙 [GitHub](https://github.com/kratocz), 👨‍💼 [LinkedIn](https://www.linkedin.com/in/kratocz/), ▶️ [YouTube](https://www.youtube.com/@kratocz), 🐳 [Docker Hub](https://hub.docker.com/u/krato), 🤗 [Hugging Face](https://huggingface.co/kratocz)
 * **Inne:** 📘 [Facebook](https://www.facebook.com/kratocz), ☁️ [Bluesky](https://bsky.app/profile/kratocz.bsky.social), 🐦 [Twitter/X](https://x.com/kratocz), 🚴 [Strava](https://www.strava.com/athletes/kratocz)
 
-## Obszary zainteresowań
+## Umiejętności
 
-* **Backend Development** – PHP, Java, Kotlin, Python
-* **Backend Architecture** – projektowanie API, wzorce projektowe (MVC, Repository, DI), zasady SOLID, microservices, potoki danych, przetwarzanie wiadomości, monitoring & observability, wysoka wydajność, wysoka dostępność i niezawodność
-* **LLM/AI** – agenci AI, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, Machine Learning, MLOps
-* **Computer Vision** – OpenCV, sieci neuronowe
-* **Linux** – bash, Ansible, Terraform
-* **DevOps** – Docker, Kubernetes, K3s, GitLab CI/CD, GitHub Actions
-* **Cloud** – AWS, Azure, GCP
-* **Cyberbezpieczeństwo** – testy penetracyjne, etyczny hacking, Kali Linux
-* **SPA Frontend** – Angular
-* **Systemy Plików** – Btrfs, CephFS
+* **Backend:** PHP (20+ lat, PHP 4–8.5), Java, Python, JavaScript/TypeScript, C#, ANSI C – projektowanie API, UML, MVC, Repository, DI, SOLID, potoki danych, przetwarzanie wiadomości, wysoka dostępność
+* **LLM/AI:** agenci AI, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, LangChain/LangGraph, HuggingFace, ollama, OpenCV, sieci neuronowe
+* **DevOps & Cloud:** Docker, Kubernetes/K3s, AWS, GitLab CI/CD, GitHub Actions, Ansible, Terraform, monitoring & observability
+* **Linux:** Debian, Ubuntu, RHEL, bash scripting, administracja serwerów, Btrfs, CephFS
+* **Cyberbezpieczeństwo:** testy penetracyjne, etyczny hacking, Kali Linux, Nmap, OpenVAS, Metasploit
+* **Web:** Angular, Nette Framework, REST API, HTML5, CSS3, SCSS, Latte
+* **Bazy danych:** MySQL, MariaDB, optymalizacja SQL, modelowanie ERA
+
+## Umiejętności w rozwoju
+
+* Azure, GCP, MLOps, microservices
 
 ## Doświadczenie zawodowe
 
@@ -36,16 +37,6 @@
 * **2007: Uniwersytet Zachodnioczesski** – rozwój strony International Student Club
 * **2002 – 2004: Szpital Tábor** – rozwój strony intranetowej (nadal używana po 20+ latach)
 * **2002 (5 miesięcy): Szpital Tábor** – stanowisko stałe w dziale IT
-
-## Kluczowe umiejętności
-
-* **Programowanie:** PHP (20+ lat), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
-* **DevOps i Cloud:** Docker, Docker Compose, Git, GitLab CI/CD, Ansible, Terraform
-* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain
-* **Cyberbezpieczeństwo:** Kali Linux, Nmap, OpenVAS, Metasploit, testy penetracyjne
-* **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
-* **Bazy danych:** MySQL, MariaDB, optymalizacja SQL, modelowanie ERA i UML
-* **Linux:** Debian, Ubuntu, RHEL, bash scripting, administracja serwerów
 
 ## Wykształcenie
 
@@ -79,7 +70,6 @@
 
 ## Planowane kursy
 
-* **Machine Learning** (robot_dreams, planowane na 2026) – AI
 * **Kubernetes** (robot_dreams, planowane na 2026) – cloud, orkiestracja
 * **Microservices** (robot_dreams, planowane na 2026) – architektura
 * **Zarządzanie projektami IT** (robot_dreams, planowane na 2026) – zarządzanie

@@ -79,4 +79,18 @@ table {
     table {
         font-size: 0.9em;
     }
+
+    /* Keep section headings together with the content below them.
+       Firefox and Safari ignore "break-after: avoid" (set above), so we
+       reserve space below each heading via ::after; combined with
+       "break-inside: avoid" the whole heading jumps to the next page
+       whenever the reserved space does not fit at the page bottom.
+       The negative margin gives the space back, so spacing is unchanged. */
+    .md-typeset h2::after,
+    .md-typeset h3::after {
+        content: "";
+        display: block;
+        height: 5rem;
+        margin-bottom: -5rem;
+    }
 }

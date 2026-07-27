@@ -13,18 +13,19 @@
 * **IT vývoj:** 🐙 [GitHub](https://github.com/kratocz), 👨‍💼 [LinkedIn](https://www.linkedin.com/in/kratocz/), ▶️ [YouTube](https://www.youtube.com/@kratocz), 🐳 [Docker Hub](https://hub.docker.com/u/krato), 🤗 [Hugging Face](https://huggingface.co/kratocz)
 * **Ostatní:** 📘 [Facebook](https://www.facebook.com/kratocz), ☁️ [Bluesky](https://bsky.app/profile/kratocz.bsky.social), 🐦 [Twitter/X](https://x.com/kratocz), 🚴 [Strava](https://www.strava.com/athletes/kratocz)
 
-## Oblasti zájmu
+## Dovednosti
 
-* **Backend Development** – PHP, Java, Kotlin, Python
-* **Backend Architecture** – API design, design patterns (MVC, Repository, DI), SOLID principles, microservices, data pipelines, zpracování zpráv, monitoring & observability, vysoký výkon, vysoká dostupnost a spolehlivost
-* **LLM/AI** – AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, Machine Learning, MLOps
-* **Computer Vision** – OpenCV, neural networks
-* **Linux** – bash, Ansible, Terraform
-* **DevOps** – Docker, Kubernetes, K3s, GitLab CI/CD, GitHub Actions
-* **Cloud** – AWS, Azure, GCP
-* **Cybersecurity** – penetrační testování, etický hacking, Kali Linux
-* **SPA Frontend** – Angular
-* **File Systems** – Btrfs, CephFS
+* **Backend:** PHP (20+ let, PHP 4–8.5), Java, Python, JavaScript/TypeScript, C#, ANSI C – API design, UML, MVC, Repository, DI, SOLID, data pipelines, zpracování zpráv, vysoká dostupnost
+* **LLM/AI:** AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, LangChain/LangGraph, HuggingFace, ollama, OpenCV, neuronové sítě
+* **DevOps & Cloud:** Docker, Kubernetes/K3s, AWS, GitLab CI/CD, GitHub Actions, Ansible, Terraform, monitoring & observability
+* **Linux:** Debian, Ubuntu, RHEL, bash scripting, administrace serverů, Btrfs, CephFS
+* **Cybersecurity:** penetrační testování, etický hacking, Kali Linux, Nmap, OpenVAS, Metasploit
+* **Web:** Angular, Nette Framework, REST API, HTML5, CSS3, SCSS, Latte
+* **Databáze:** MySQL, MariaDB, SQL optimalizace, ERA modelování
+
+## Dovednosti v rozvoji
+
+* Azure, GCP, MLOps, microservices
 
 ## Pracovní zkušenosti
 
@@ -36,16 +37,6 @@
 * **2007: Západočeská Univerzita** – vývoj webu International Student Club
 * **2002 – 2004: Nemocnice Tábor** – vývoj intranetových stránek (stále používány po 20+ letech)
 * **2002 (5 měsíců): Nemocnice Tábor** – HPP na oddělení informačních systémů
-
-## Klíčové dovednosti
-
-* **Programování:** PHP (20+ let), Java, JavaScript/TypeScript, Python, ANSI C, C#, Delphi
-* **DevOps & Cloud:** Docker, Docker Compose, Git, GitLab CI/CD, Ansible, Terraform
-* **AI/ML:** HuggingFace, ollama, RAG, tooling, fine-tuning, LangGraph, LangChain
-* **Cybersecurity:** Kali Linux, Nmap, OpenVAS, Metasploit, penetrační testování
-* **Web:** Angular, Nette Framework, HTML5, CSS3, SCSS, REST API, Latte, jQuery, jQuery UI
-* **Databáze:** MySQL, MariaDB, SQL optimalizace, ERA a UML modelování
-* **Linux:** Debian, Ubuntu, RHEL, bash scripting, administrace serverů
 
 ## Vzdělání
 
@@ -79,7 +70,6 @@
 
 ## Plánované kurzy
 
-* **Machine Learning** (robot_dreams, plán na 2026) – AI
 * **Kubernetes** (robot_dreams, plán na 2026) – cloud, orchestrace
 * **Microservices** (robot_dreams, plán na 2026) – architektura
 * **Projektový management v IT** (robot_dreams, plán na 2026) – management
