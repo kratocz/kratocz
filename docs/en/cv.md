@@ -29,18 +29,18 @@
 
 ## Work Experience
 
-* **2026 – present: NTIT Group s.r.o.** – tech lead, DevOps engineer
-* **2017 – 2026: ProfiSMS, s.r.o.** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
+* **2026 – present: [NTIT Group s.r.o.](https://ntit.cz/)** – tech lead, DevOps engineer
+* **2017 – 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
 * **2015 – present: Self-employed** – web presentations and API development in PHP, Java, JavaScript, TypeScript, Linux server administration, AI specialist
-* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack developer, e-commerce projects (knihydobrovsky.cz, pepa.cz), intranet systems, custom web development
-* **2011 Feb-Aug: Swistar s.r.o.** – hotel booking app for Android tablets
-* **2007: University of West Bohemia** – International Student Club website development
-* **2002 – 2004: Tábor Hospital** – intranet web development (still in use after 20+ years)
-* **2002 (5 months): Tábor Hospital** – permanent position in IT department
+* **2013 – 2014: [RTsoft, s.r.o.](https://www.rtsoft.cz/)** – PHP/full-stack developer, e-commerce projects (knihydobrovsky.cz, pepa.cz), intranet systems, custom web development
+* **2011 Feb-Aug: [Swistar s.r.o.](https://www.swistar.cz/)** – hotel booking app for Android tablets
+* **2007: [University of West Bohemia](https://www.zcu.cz/)** – International Student Club website development
+* **2002 – 2004: [Tábor Hospital](https://www.nemta.cz/)** – intranet web development (still in use after 20+ years)
+* **2002 (5 months): [Tábor Hospital](https://www.nemta.cz/)** – permanent position in IT department
 
 ## Education
 
-* **2002 – 2007: University of West Bohemia in Pilsen** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, 2 years merit scholarship
+* **2002 – 2007: [University of West Bohemia in Pilsen](https://www.zcu.cz/)** – Ing., Computer Science and Computer Engineering, specialization in Distributed Systems, 2 years merit scholarship
 * **1997 – 2001: Secondary Technical School Písek** – electrical engineering, field: electrical computers
 
 ## Research

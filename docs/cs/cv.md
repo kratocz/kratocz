@@ -29,18 +29,18 @@
 
 ## Pracovní zkušenosti
 
-* **2026 – dosud: NTIT Group s.r.o.** – tech lead, DevOps engineer
-* **2017 – 2026: ProfiSMS, s.r.o.** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
+* **2026 – dosud: [NTIT Group s.r.o.](https://ntit.cz/)** – tech lead, DevOps engineer
+* **2017 – 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
 * **2015 – dosud: OSVČ** – vývoj webových prezentací a API v PHP, Java, JavaScript, TypeScript, administrace Linuxových serverů, AI specialista
-* **2013 – 2014: RTsoft, s.r.o.** – PHP/full-stack vývojář, e-commerce projekty (knihydobrovsky.cz, pepa.cz), intranetové systémy, webové stránky na zakázku
-* **2011 únor-srpen: Swistar s.r.o.** – hotelová kniha pro tablety s OS Android
-* **2007: Západočeská Univerzita** – vývoj webu International Student Club
-* **2002 – 2004: Nemocnice Tábor** – vývoj intranetových stránek (stále používány po 20+ letech)
-* **2002 (5 měsíců): Nemocnice Tábor** – HPP na oddělení informačních systémů
+* **2013 – 2014: [RTsoft, s.r.o.](https://www.rtsoft.cz/)** – PHP/full-stack vývojář, e-commerce projekty (knihydobrovsky.cz, pepa.cz), intranetové systémy, webové stránky na zakázku
+* **2011 únor-srpen: [Swistar s.r.o.](https://www.swistar.cz/)** – hotelová kniha pro tablety s OS Android
+* **2007: [Západočeská Univerzita](https://www.zcu.cz/)** – vývoj webu International Student Club
+* **2002 – 2004: [Nemocnice Tábor](https://www.nemta.cz/)** – vývoj intranetových stránek (stále používány po 20+ letech)
+* **2002 (5 měsíců): [Nemocnice Tábor](https://www.nemta.cz/)** – HPP na oddělení informačních systémů
 
 ## Vzdělání
 
-* **2002 – 2007: Západočeská Univerzita v Plzni** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, 2 roky prospěchové stipendium
+* **2002 – 2007: [Západočeská Univerzita v Plzni](https://www.zcu.cz/)** – Ing., Informatika a Výpočetní Technika, specializace Distribuované Systémy, 2 roky prospěchové stipendium
 * **1997 – 2001: SPŠ A VOŠ Písek** – elektrotechnická průmyslová škola, obor el. počítače
 
 ## Výzkum
