@@ -49,18 +49,16 @@ h1, h2, h3, h4, h5 {
     page-break-after: avoid;
 }
 
-/* Employer/university links in bold list headings: keep the text color,
-   signal the link only with a subtle underline; accent color on hover. */
+/* Employer/university links in bold list headings: signal the link only
+   with a subtle dark-blue tint (near-black indigo); accent on hover. */
 .md-typeset li strong a {
-    color: inherit;
-    text-decoration: underline;
-    text-decoration-color: var(--md-default-fg-color--lighter);
-    text-underline-offset: 0.15em;
+    color: #1a237e;
+    text-decoration: none;
 }
 
 .md-typeset li strong a:hover {
     color: var(--md-accent-fg-color);
-    text-decoration-color: currentColor;
+    text-decoration: underline;
 }
 
 table {
@@ -95,7 +93,8 @@ table {
     }
 
     /* Links print as plain text: no color, no underline. */
-    .md-typeset a {
+    .md-typeset a,
+    .md-typeset li strong a {
         color: inherit;
         text-decoration: none;
     }

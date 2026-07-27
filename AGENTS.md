@@ -92,7 +92,7 @@ Each language has a CV file:
 - LLM/AI skills include: "AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design"
 - Course entries format: `**Course Name** (provider, year, hours, instructor: Name - Title, Company, [course](link)) – topics`
 - Use full YouTube URLs in project links (not shortened versions)
-- Employer and university names in Work Experience/Education link to their websites; common.css keeps these links visually quiet (inherit text color, subtle underline, plain text in print)
+- Employer and university names in Work Experience/Education link to their websites; common.css keeps these links visually quiet (subtle dark-blue tint #1a237e, no underline, plain text in print)
 - Maintain DRY, SOLID, Scrum in "Additional Experience" section
 
 ## Deployment
