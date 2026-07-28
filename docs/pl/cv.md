@@ -29,8 +29,8 @@
 
 ## Doświadczenie zawodowe
 
-* **2026 – obecnie: [NTIT Group s.r.o.](https://ntit.cz/)** – tech lead, DevOps engineer
-* **2017 – 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
+* **kwiecień 2026 – obecnie: [NTIT Group s.r.o.](https://ntit.cz/)** – tech lead, DevOps engineer
+* **2017 – kwiecień 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
 * **2015 – obecnie: Działalność gospodarcza** – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, specjalista AI
 * **2013 – 2014: [RTsoft, s.r.o.](https://www.rtsoft.cz/)** – PHP/full-stack developer, projekty e-commerce (knihydobrovsky.cz, pepa.cz), systemy intranetowe, strony internetowe na zamówienie
 * **2011 lut-sie: [Swistar s.r.o.](https://www.swistar.cz/)** – aplikacja hotelowa na tablety Android
