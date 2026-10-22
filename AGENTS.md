@@ -24,11 +24,12 @@ poetry run mkdocs serve  # Alternative way to serve locally
 
 ### Build and Deploy
 ```bash
-poetry install           # Install dependencies
-poetry run mkdocs build  # Build static site (output in ./site/)
+poetry install                    # Install dependencies
+poetry run mkdocs build           # Build static site (output in ./site/)
+poetry run mkdocs build --strict  # Pre-commit check: fails on warnings such as broken links
 ```
 
-The GitHub Actions workflow automatically handles deployment when pushing to `main`.
+The GitHub Actions workflow automatically handles deployment when pushing to `main`. It does not run on pull requests, so a PR shows no checks and `mkdocs build --strict` is the only gate before merge. Its INFO message listing the `cv-old-*.md` files as not included in nav is expected.
 
 ## Project Structure
 
@@ -36,10 +37,11 @@ The GitHub Actions workflow automatically handles deployment when pushing to `ma
 /
 ├── docs/                 # Content source
 │   ├── index.md         # Main homepage
+│   ├── cs/cv.md         # Czech CV
 │   ├── en/cv.md         # English CV
-│   └── cs/cv.md         # Czech CV
+│   ├── pl/cv.md         # Polish CV
+│   └── assets/          # Static assets referenced in docs (common.css, QR codes)
 ├── overrides/           # Custom MkDocs theme overrides
-├── assets/              # Static assets (referenced in docs)
 ├── mkdocs.yml           # MkDocs configuration
 ├── pyproject.toml       # Poetry configuration
 └── dev                  # Development server script
@@ -75,15 +77,16 @@ Each language has a CV file:
 - Dovednosti (Skills / Umiejętności) - one bullet per domain (Backend, LLM/AI, DevOps & Cloud, Linux, Cybersecurity, Web, Databáze); merged former "Oblasti zájmu" and "Klíčové dovednosti"
 - Dovednosti v rozvoji (Skills in Development / Umiejętności w rozwoju) - single-line list of technologies currently being learned; Dovednosti must contain only proven skills, aspirational items belong here
 - Pracovní zkušenosti (Work Experience) - with "AI specialista" at end of OSVČ entry
+- Vzdělání (Education)
+- Výzkum (Research)
 - Absolvované kurzy (Completed Courses) - organized by categories:
   - AI Development
-  - AI Prompt Engineering
   - Cloud Architecture
   - Cybersecurity & Networking
 - Probíhající kurzy (Ongoing Courses / Kursy w trakcie)
 - Plánované kurzy (Planned Courses) - ends with a link to the learning repo for long-term considered courses
 - Veřejné projekty (Public Projects) - with Claude Code Plugin Marketplace first, Kratokurz second
-- Další zkušenosti (Additional Experience)
+- Vybrané zkušenosti (Selected Experience / Wybrane doświadczenie)
 - Zájmy (Interests)
 - Vizitka QR kód (Business Card QR code)
 
@@ -94,7 +97,7 @@ Each language has a CV file:
 - Course entries format: `**Course Name** (provider, year, hours, instructor: Name - Title, Company, [course](link)) – topics`
 - Use full YouTube URLs in project links (not shortened versions)
 - Employer and university names in Work Experience/Education link to their websites (default theme link styling on web; common.css prints all content links as plain text)
-- Maintain DRY, SOLID, Scrum in "Additional Experience" section
+- Maintain DRY, SOLID, Scrum in "Selected Experience" section
 - Course sections are a condensed copy of the README in [kratocz/learning](https://github.com/kratocz/learning), which is the source of truth: completed courses verbatim; ongoing and planned courses without payment details, phone-call notes or volatile run dates; long-term considered courses only via the link. Never name the company that pays for the courses, nor its people - write only "the company that pays for my courses"
 
 ## Deployment
