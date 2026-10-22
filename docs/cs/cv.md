@@ -19,7 +19,7 @@
 * **LLM/AI:** AI agents, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, LangChain/LangGraph, HuggingFace, ollama, OpenCV, neuronové sítě
 * **DevOps & Cloud:** Docker, Kubernetes/K3s, AWS, GitLab CI/CD, GitHub Actions, Ansible, Terraform, monitoring & observability
 * **Linux:** Debian, Ubuntu, RHEL, bash scripting, administrace serverů, Btrfs, CephFS
-* **Cybersecurity:** penetrační testování, etický hacking, Kali Linux, Nmap, OpenVAS, Metasploit
+* **Cybersecurity:** penetrační testování, etický hacking, Kali Linux, Nmap, OpenVAS, Metasploit, bezpečnost LLM aplikací (prompt injection, guardrails, threat modeling, red teaming s PyRIT a garak)
 * **Web:** Angular, Nette Framework, REST API, HTML5, CSS3, SCSS, Latte
 * **Databáze:** MySQL, MariaDB, SQL optimalizace, ERA modelování
 
@@ -66,13 +66,19 @@
 
 * **Penetrační testování prakticky** (robot_dreams, 2025, 18h, lektor: Patrik Žák - Penetrační tester, SYSNETSHIELD, [kurz](https://robotdreams.cz/course/455-penetration-tester)) – Kali Linux, Nmap, OpenVAS, Metasploit, ZAP, phishing, bruteforcing, reverse shell, privilege escalation, reporting
 * **Ofenzivní bezpečnost a Red Teaming v praxi** (robot_dreams, 2026, 18h, lektor: Petr Váchal - Ethical Hacker, BEMOP s.r.o., [kurz](https://robotdreams.cz/course/331-stan-se-etickym-hackerem)) – OSINT, enumerace služeb, útoky na hesla, exploitace zranitelností, eskalace oprávnění, Active Directory hacking, LOTL techniky, vlastní malware, C2 frameworky, pivoting, testování webových aplikací, AI v hackingu
+* **Bezpečnost AI aplikací** (robot_dreams, 2026, 18h, lektor: Tomáš Kubica - Cloud & AI Apps Senior Solution Engineer, Microsoft, [kurz](https://robotdreams.cz/course/938-bezpecnost-ai-aplikaci)) – zabezpečení LLM aplikací (chatboty, RAG, agenti), prompt injection a guardrails, threat modeling, red teaming (PyRIT, garak), bezpečnostní testy v CI/CD, AI supply chain, EU AI Act, NIST AI RMF, závěrečný projekt hodnocen plným počtem bodů (certifikát o úspěšném absolvování)
 * **CCNA 1-4** (Cisco Networking Academy, 2006) – síťové technologie, routing, switching
+
+## Probíhající kurzy
+
+* **Game design pro začátečníky** (SKVOT, 2026, lektorky: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), a Lenka Krsová - Living World Designer, Fool's Theory, [kurz](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role v herním vývoji, game design dokument, Unreal Engine 5 a Blueprint skriptování, psychologie hráče, herní mechaniky, level design, storytelling, vyvažování, AI a multiplayer; běh 15. 9. – 15. 12. 2026, kvůli vývoji vlastní hry [IronHell](https://ironhell.krato.cz)
 
 ## Plánované kurzy
 
-* **Kubernetes** (robot_dreams, plán na 2026) – cloud, orchestrace
-* **Microservices** (robot_dreams, plán na 2026) – architektura
-* **Projektový management v IT** (robot_dreams, plán na 2026) – management
+* **MLOps** (robot_dreams, plán na 2027) – provoz, nasazování a monitoring ML modelů
+* **Kubernetes** (robot_dreams, plán na 2027, [kurz Docker a Kubernetes](https://robotdreams.cz/course/219-kubernetes)) – cloud, orchestrace
+* **Microservices** (robot_dreams, plán na 2027) – architektura
+* Další kurzy, které dlouhodobě zvažuji, a aktuální termíny běhů: [github.com/kratocz/learning](https://github.com/kratocz/learning)
 
 ## Veřejné projekty
 
