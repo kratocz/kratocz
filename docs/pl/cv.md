@@ -19,7 +19,7 @@
 * **LLM/AI:** agenci AI, RAG, fine-tuning, Prompt Engineering, AI Interaction Design, LangChain/LangGraph, HuggingFace, ollama, OpenCV, sieci neuronowe
 * **DevOps & Cloud:** Docker, Kubernetes/K3s, AWS, GitLab CI/CD, GitHub Actions, Ansible, Terraform, monitoring & observability
 * **Linux:** Debian, Ubuntu, RHEL, bash scripting, administracja serwerów, Btrfs, CephFS
-* **Cyberbezpieczeństwo:** testy penetracyjne, etyczny hacking, Kali Linux, Nmap, OpenVAS, Metasploit
+* **Cyberbezpieczeństwo:** testy penetracyjne, etyczny hacking, Kali Linux, Nmap, OpenVAS, Metasploit, bezpieczeństwo aplikacji LLM (prompt injection, guardrails, threat modeling, red teaming z PyRIT i garak)
 * **Web:** Angular, Nette Framework, REST API, HTML5, CSS3, SCSS, Latte
 * **Bazy danych:** MySQL, MariaDB, optymalizacja SQL, modelowanie ERA
 
@@ -66,13 +66,19 @@
 
 * **Testy penetracyjne praktycznie** (robot_dreams, 2025, 18h, instruktor: Patrik Žák - Tester penetracyjny, SYSNETSHIELD, [kurs](https://robotdreams.cz/course/455-penetration-tester)) – Kali Linux, Nmap, OpenVAS, Metasploit, ZAP, phishing, bruteforcing, reverse shell, privilege escalation, reporting
 * **Ofensywne bezpieczeństwo i Red Teaming w praktyce** (robot_dreams, 2026, 18h, instruktor: Petr Váchal - Ethical Hacker, BEMOP s.r.o., [kurs](https://robotdreams.cz/course/331-stan-se-etickym-hackerem)) – OSINT, enumeracja usług, ataki na hasła, exploitacja podatności, eskalacja uprawnień, Active Directory hacking, techniki LOTL, własny malware, frameworki C2, pivoting, testowanie aplikacji webowych, AI w hackingu
+* **Bezpieczeństwo aplikacji AI** (robot_dreams, 2026, 18h, instruktor: Tomáš Kubica - Cloud & AI Apps Senior Solution Engineer, Microsoft, [kurs](https://robotdreams.cz/course/938-bezpecnost-ai-aplikaci)) – zabezpieczanie aplikacji LLM (chatboty, RAG, agenci), prompt injection i guardrails, threat modeling, red teaming (PyRIT, garak), testy bezpieczeństwa w CI/CD, AI supply chain, EU AI Act, NIST AI RMF, projekt końcowy oceniony na maksymalną liczbę punktów (certyfikat pomyślnego ukończenia kursu)
 * **CCNA 1-4** (Cisco Networking Academy, 2006) – technologie sieciowe, routing, switching
+
+## Kursy w trakcie
+
+* **Game design dla początkujących** (SKVOT, 2026, instruktorki: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), i Lenka Krsová - Living World Designer, Fool's Theory, [kurs](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role w tworzeniu gier, dokument game designu, Unreal Engine 5 i skrypty Blueprint, psychologia gracza, mechaniki gry, level design, storytelling, balansowanie, AI i multiplayer; termin: 15 września – 15 grudnia 2026, w związku z tworzeniem własnej gry [IronHell](https://ironhell.krato.cz)
 
 ## Planowane kursy
 
-* **Kubernetes** (robot_dreams, planowane na 2026) – cloud, orkiestracja
-* **Microservices** (robot_dreams, planowane na 2026) – architektura
-* **Zarządzanie projektami IT** (robot_dreams, planowane na 2026) – zarządzanie
+* **MLOps** (robot_dreams, planowane na 2027) – utrzymanie, wdrażanie i monitoring modeli ML
+* **Kubernetes** (robot_dreams, planowane na 2027, [kurs Docker i Kubernetes](https://robotdreams.cz/course/219-kubernetes)) – cloud, orkiestracja
+* **Microservices** (robot_dreams, planowane na 2027) – architektura
+* Inne kursy, które rozważam długoterminowo, oraz aktualne terminy (po czesku): [github.com/kratocz/learning](https://github.com/kratocz/learning)
 
 ## Projekty publiczne
 

@@ -80,7 +80,8 @@ Each language has a CV file:
   - AI Prompt Engineering
   - Cloud Architecture
   - Cybersecurity & Networking
-- Plánované kurzy (Planned Courses)
+- Probíhající kurzy (Ongoing Courses / Kursy w trakcie)
+- Plánované kurzy (Planned Courses) - ends with a link to the learning repo for long-term considered courses
 - Veřejné projekty (Public Projects) - with Claude Code Plugin Marketplace first, Kratokurz second
 - Další zkušenosti (Additional Experience)
 - Zájmy (Interests)
@@ -94,6 +95,7 @@ Each language has a CV file:
 - Use full YouTube URLs in project links (not shortened versions)
 - Employer and university names in Work Experience/Education link to their websites (default theme link styling on web; common.css prints all content links as plain text)
 - Maintain DRY, SOLID, Scrum in "Additional Experience" section
+- Course sections are a condensed copy of the README in [kratocz/learning](https://github.com/kratocz/learning), which is the source of truth: completed courses verbatim; ongoing and planned courses without payment details, phone-call notes or volatile run dates; long-term considered courses only via the link. Never name the company that pays for the courses, nor its people - write only "the company that pays for my courses"
 
 ## Deployment
 
