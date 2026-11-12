@@ -25,7 +25,7 @@
 
 ## Dovednosti v rozvoji
 
-* Azure, GCP, MLOps, microservices
+* Azure, GCP, MLOps, microservices, Godot 4, Unreal Engine 5
 
 ## Pracovní zkušenosti
 
@@ -33,7 +33,7 @@
 * **2017 – duben 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack vývojář, backendové služby, API integrace, administrace Linux serverů, cloud deployment
 * **2015 – dosud: OSVČ** – vývoj webových prezentací a API v PHP, Java, JavaScript, TypeScript, administrace Linuxových serverů, AI specialista
 * **2013 – 2014: [RTsoft, s.r.o.](https://www.rtsoft.cz/)** – PHP/full-stack vývojář, e-commerce projekty (knihydobrovsky.cz, pepa.cz), intranetové systémy, webové stránky na zakázku
-* **2011 únor-srpen: [Swistar s.r.o.](https://www.swistar.cz/)** – hotelová kniha pro tablety s OS Android
+* **únor – srpen 2011: [Swistar s.r.o.](https://www.swistar.cz/)** – hotelová kniha pro tablety s OS Android
 * **2007: [Západočeská Univerzita](https://www.zcu.cz/)** – vývoj webu International Student Club
 * **2002 – 2004: [Nemocnice Tábor](https://www.nemta.cz/)** – vývoj intranetových stránek (stále používány po 20+ letech)
 * **2002 (5 měsíců): [Nemocnice Tábor](https://www.nemta.cz/)** – HPP na oddělení informačních systémů
@@ -71,7 +71,7 @@
 
 ## Probíhající kurzy
 
-* **Game design pro začátečníky** (SKVOT, 2026, lektorky: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), a Lenka Krsová - Living World Designer, Fool's Theory, [kurz](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role v herním vývoji, game design dokument, Unreal Engine 5 a Blueprint skriptování, psychologie hráče, herní mechaniky, level design, storytelling, vyvažování, AI a multiplayer; běh 15. 9. – 15. 12. 2026, kvůli vývoji vlastní hry [IronHell](https://ironhell.krato.cz)
+* **Game design pro začátečníky** (SKVOT, 2026, lektorky: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), a Lenka Krsová - Living World Designer, Fool's Theory, [kurz](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role v herním vývoji, game design dokument, Unreal Engine 5 a Blueprint skriptování, psychologie hráče, herní mechaniky, level design, storytelling, vyvažování, AI a multiplayer; běh 15. 9. – 15. 12. 2026, út + čt 18:00–19:30 (26 lekcí), kvůli vývoji vlastní hry [IronHell](https://ironhell.krato.cz)
 
 ## Plánované kurzy
 
@@ -82,14 +82,18 @@
 
 ## Veřejné projekty
 
-* **Pluginy pro Claude Code** – marketplace pluginů pro Claude Code (tracking času, MikroTik audit, second opinion, desktop notifikace, session log): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
+* **Skilly pro AI agenty** – sada skillů pro Claude Code, Codex, Antigravity CLI a další agenty (code review, tracking času, MikroTik audit, second opinion, retrospektivy): [github.com/kratocz/skills](https://github.com/kratocz/skills)
+* **Pluginy pro Claude Code** – marketplace pluginů pro Claude Code postavených na hoocích (desktop notifikace, session log, stav session v tmux): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
 * **Kratokurz** – YouTube tutoriály o Dockeru, Btrfs a správě Linuxu (česky): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
-* **MCP Auth Per-Tool RBAC** – ukázková implementace autorizace pro MCP servery s Keycloak a OAuth 2.0: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **MCP Auth Per-Tool RBAC** – rozšíření tutoriálu autorizace MCP serverů od Christiana Posty o RBAC po jednotlivých nástrojích (Keycloak, OAuth 2.0), migraci na FastMCP a testy: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **IronHell** – vlastní top-down boomer shooter v Godot 4 pro Android a iOS (alfa, hratelný i v prohlížeči): [ironhell.krato.cz](https://ironhell.krato.cz)
+* **Godot Visibility Polygon** – 2D visibility polygon (isovist) pro Godot 4, algoritmus O(N log N) pro fog of war, 2D osvětlení a line of sight: [github.com/kratocz/godot-visibility-polygon](https://github.com/kratocz/godot-visibility-polygon)
+* **Tech Comparisons** – datovaná srovnání technologií zakončená verdiktem pro konkrétní kontext: [github.com/kratocz/tech-comparisons](https://github.com/kratocz/tech-comparisons)
 
 ## Vybrané zkušenosti
 
 * **Agilní workflow:** denní Scrum videomeetingy v angličtině, projektové řízení (ClickUp/Jira), týmová komunikace (Slack), verzování a CI/CD (GitLab, GitHub), vývoj (IntelliJ IDEA Ultimate, Claude Code), databáze (DBeaver), API testování (Postman), terminál, SSH
-* **PHP expertise:** 20+ let profesionálních zkušeností (PHP 4 – PHP 8.5), frameworky (Nette), template systémy (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, typy projektů (Backend API, webové prezentace, intranetové systémy, REST API, e-commerce, administrační rozhraní), klíčové projekty (ProfiSMS - příjem SMS přes API, backendové služby, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; nemocniční intranet stále v provozu po 20+ letech)
+* **PHP expertise:** frameworky (Nette), template systémy (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, typy projektů (Backend API, webové prezentace, intranetové systémy, REST API, e-commerce, administrační rozhraní), klíčové projekty (ProfiSMS - příjem SMS přes API, backendové služby, cloud; RTsoft - knihydobrovsky.cz, pepa.cz)
 * **Programátorské soutěže:** ACM ICPC – reprezentace ČR na evropském kole v Budapešti (2005, 2006), celostátním kole v Praze (2004-2006), reprezentace na krajském (České Budějovice) a celostátním kole (Mladá Boleslav, 1997) během základní a střední školy
 * **Jazyky:** Čeština (rodilý mluvčí), Angličtina (pokročilý – písmem a slovem)
 

@@ -25,7 +25,7 @@
 
 ## Umiejętności w rozwoju
 
-* Azure, GCP, MLOps, microservices
+* Azure, GCP, MLOps, microservices, Godot 4, Unreal Engine 5
 
 ## Doświadczenie zawodowe
 
@@ -33,7 +33,7 @@
 * **2017 – kwiecień 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack developer, usługi backendowe, integracja API, administracja serwerów Linux, wdrożenia w chmurze
 * **2015 – obecnie: Działalność gospodarcza** – rozwój prezentacji internetowych i API w PHP, Java, JavaScript, TypeScript, administracja serwerów Linux, specjalista AI
 * **2013 – 2014: [RTsoft, s.r.o.](https://www.rtsoft.cz/)** – PHP/full-stack developer, projekty e-commerce (knihydobrovsky.cz, pepa.cz), systemy intranetowe, strony internetowe na zamówienie
-* **2011 lut-sie: [Swistar s.r.o.](https://www.swistar.cz/)** – aplikacja hotelowa na tablety Android
+* **luty – sierpień 2011: [Swistar s.r.o.](https://www.swistar.cz/)** – aplikacja hotelowa na tablety Android
 * **2007: [Uniwersytet Zachodnioczesski](https://www.zcu.cz/)** – rozwój strony International Student Club
 * **2002 – 2004: [Szpital Tábor](https://www.nemta.cz/)** – rozwój strony intranetowej (nadal używana po 20+ latach)
 * **2002 (5 miesięcy): [Szpital Tábor](https://www.nemta.cz/)** – stanowisko stałe w dziale IT
@@ -71,7 +71,7 @@
 
 ## Kursy w trakcie
 
-* **Game design dla początkujących** (SKVOT, 2026, instruktorki: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), i Lenka Krsová - Living World Designer, Fool's Theory, [kurs](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role w tworzeniu gier, dokument game designu, Unreal Engine 5 i skrypty Blueprint, psychologia gracza, mechaniki gry, level design, storytelling, balansowanie, AI i multiplayer; termin: 15 września – 15 grudnia 2026, w związku z tworzeniem własnej gry [IronHell](https://ironhell.krato.cz)
+* **Game design dla początkujących** (SKVOT, 2026, instruktorki: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), i Lenka Krsová - Living World Designer, Fool's Theory, [kurs](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – role w tworzeniu gier, dokument game designu, Unreal Engine 5 i skrypty Blueprint, psychologia gracza, mechaniki gry, level design, storytelling, balansowanie, AI i multiplayer; termin: 15 września – 15 grudnia 2026, wt. + czw. 18:00–19:30 (26 lekcji), w związku z tworzeniem własnej gry [IronHell](https://ironhell.krato.cz)
 
 ## Planowane kursy
 
@@ -82,14 +82,18 @@
 
 ## Projekty publiczne
 
-* **Pluginy do Claude Code** – marketplace pluginów do Claude Code (tracker czasu, audyt MikroTik, second opinion, powiadomienia desktopowe, log sesji): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
+* **Skille dla agentów AI** – zestaw skilli dla Claude Code, Codex, Antigravity CLI i innych agentów (code review, śledzenie czasu, audyt MikroTik, second opinion, retrospektywy): [github.com/kratocz/skills](https://github.com/kratocz/skills)
+* **Pluginy do Claude Code** – marketplace pluginów do Claude Code opartych na hookach (powiadomienia desktopowe, log sesji, stan sesji w tmux): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
 * **Kratokurz** – samouczki YouTube o Dockerze, Btrfs i administracji Linuksem (po czesku): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
-* **MCP Auth Per-Tool RBAC** – przykład implementacji autoryzacji dla MCP z Keycloak i OAuth 2.0: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **MCP Auth Per-Tool RBAC** – rozszerzenie tutoriala autoryzacji serwerów MCP autorstwa Christiana Posty o RBAC na poziomie narzędzi (Keycloak, OAuth 2.0), migrację na FastMCP i testy: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **IronHell** – własna gra top-down boomer shooter w Godot 4 na Androida i iOS (alfa, grywalna też w przeglądarce): [ironhell.krato.cz](https://ironhell.krato.cz)
+* **Godot Visibility Polygon** – 2D visibility polygon (isovist) dla Godot 4, algorytm O(N log N) do fog of war, oświetlenia 2D i line of sight: [github.com/kratocz/godot-visibility-polygon](https://github.com/kratocz/godot-visibility-polygon)
+* **Tech Comparisons** – datowane porównania technologii zakończone werdyktem dla konkretnego kontekstu: [github.com/kratocz/tech-comparisons](https://github.com/kratocz/tech-comparisons)
 
 ## Wybrane doświadczenie
 
 * **Agile workflow:** codzienne spotkania Scrum wideo po angielsku, zarządzanie projektami (ClickUp/Jira), komunikacja zespołowa (Slack), kontrola wersji i CI/CD (GitLab, GitHub), rozwój (IntelliJ IDEA Ultimate, Claude Code), bazy danych (DBeaver), terminal, SSH
-* **Ekspertyza PHP:** 20+ lat doświadczenia profesjonalnego (PHP 4 – PHP 8.5), frameworki (Nette), systemy szablonów (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, typy projektów (Backend API, prezentacje internetowe, systemy intranetowe, REST API, e-commerce, interfejsy administracyjne), kluczowe projekty (ProfiSMS - odbiór SMS przez API, usługi backendowe, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; intranet szpitalny nadal działa po 20+ latach)
+* **Ekspertyza PHP:** frameworki (Nette), systemy szablonów (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, typy projektów (Backend API, prezentacje internetowe, systemy intranetowe, REST API, e-commerce, interfejsy administracyjne), kluczowe projekty (ProfiSMS - odbiór SMS przez API, usługi backendowe, cloud; RTsoft - knihydobrovsky.cz, pepa.cz)
 * **Konkursy programistyczne:** ACM ICPC – reprezentacja Czech w rundzie europejskiej w Budapeszcie (2005, 2006), rundzie ogólnokrajowej w Pradze (2004-2006), reprezentacja w rundzie regionalnej (České Budějovice) i ogólnokrajowej (Mladá Boleslav, 1997) podczas szkoły podstawowej i średniej
 * **Języki:** Czeski (język ojczysty), Angielski (zaawansowany – pisemnie i ustnie)
 

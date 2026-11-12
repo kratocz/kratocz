@@ -25,7 +25,7 @@
 
 ## Skills in Development
 
-* Azure, GCP, MLOps, microservices
+* Azure, GCP, MLOps, microservices, Godot 4, Unreal Engine 5
 
 ## Work Experience
 
@@ -33,7 +33,7 @@
 * **2017 – April 2026: [ProfiSMS, s.r.o.](https://www.profisms.cz/)** – PHP/full-stack developer, backend services, API integration, Linux server administration, cloud deployment
 * **2015 – present: Self-employed** – web presentations and API development in PHP, Java, JavaScript, TypeScript, Linux server administration, AI specialist
 * **2013 – 2014: [RTsoft, s.r.o.](https://www.rtsoft.cz/)** – PHP/full-stack developer, e-commerce projects (knihydobrovsky.cz, pepa.cz), intranet systems, custom web development
-* **2011 Feb-Aug: [Swistar s.r.o.](https://www.swistar.cz/)** – hotel booking app for Android tablets
+* **February – August 2011: [Swistar s.r.o.](https://www.swistar.cz/)** – hotel booking app for Android tablets
 * **2007: [University of West Bohemia](https://www.zcu.cz/)** – International Student Club website development
 * **2002 – 2004: [Tábor Hospital](https://www.nemta.cz/)** – intranet web development (still in use after 20+ years)
 * **2002 (5 months): [Tábor Hospital](https://www.nemta.cz/)** – permanent position in IT department
@@ -71,7 +71,7 @@
 
 ## Ongoing Courses
 
-* **Game Design for Beginners** (SKVOT, 2026, instructors: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), and Lenka Krsová - Living World Designer, Fool's Theory, [course](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – roles in game development, game design document, Unreal Engine 5 and Blueprint scripting, player psychology, game mechanics, level design, storytelling, balancing, AI and multiplayer; runs 15 September – 15 December 2026, taken for the development of my own game [IronHell](https://ironhell.krato.cz)
+* **Game Design for Beginners** (SKVOT, 2026, instructors: Katarína Ferencová - Senior Expert Technical Designer, Elsewhere Entertainment (Activision), and Lenka Krsová - Living World Designer, Fool's Theory, [course](https://skvt.cz/course/122-game-design-pro-zacatecniky)) – roles in game development, game design document, Unreal Engine 5 and Blueprint scripting, player psychology, game mechanics, level design, storytelling, balancing, AI and multiplayer; runs 15 September – 15 December 2026, Tue + Thu 18:00–19:30 (26 lessons), taken for the development of my own game [IronHell](https://ironhell.krato.cz)
 
 ## Planned Courses
 
@@ -82,14 +82,18 @@
 
 ## Public Projects
 
-* **Claude Code Plugins** – plugin marketplace for Claude Code (time tracker, MikroTik audit, second opinion, desktop notifications, session log): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
+* **AI Agent Skills** – skill collection for Claude Code, Codex, Antigravity CLI and other agents (code review, time tracking, MikroTik audit, second opinion, retrospectives): [github.com/kratocz/skills](https://github.com/kratocz/skills)
+* **Claude Code Plugins** – marketplace of hook-based plugins for Claude Code (desktop notifications, session log, session state in tmux): [github.com/kratocz/claude-plugins](https://github.com/kratocz/claude-plugins)
 * **Kratokurz** – YouTube tutorials about Docker, Btrfs and Linux administration (Czech): [youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x](https://www.youtube.com/playlist?list=PLaudh7Uy_4tV-xpzPtFln51tNqA7nLJ_x)
-* **MCP Auth Per-Tool RBAC** – tutorial implementation of MCP server authorization with Keycloak and OAuth 2.0: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **MCP Auth Per-Tool RBAC** – extension of Christian Posta's MCP server authorization tutorial with per-tool RBAC (Keycloak, OAuth 2.0), a FastMCP migration and tests: [github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs](https://github.com/kratocz/mcp-auth-step-by-step/tree/feature/per-tool-rbac/docs)
+* **IronHell** – my own top-down boomer shooter in Godot 4 for Android and iOS (alpha, also playable in the browser): [ironhell.krato.cz](https://ironhell.krato.cz)
+* **Godot Visibility Polygon** – 2D visibility polygon (isovist) for Godot 4, an O(N log N) algorithm for fog of war, 2D lighting and line of sight: [github.com/kratocz/godot-visibility-polygon](https://github.com/kratocz/godot-visibility-polygon)
+* **Tech Comparisons** – dated technology comparisons that end with a verdict for a concrete context: [github.com/kratocz/tech-comparisons](https://github.com/kratocz/tech-comparisons)
 
 ## Selected Experience
 
 * **Agile workflow:** daily Scrum video meetings in English, project management (ClickUp/Jira), team communication (Slack), version control and CI/CD (GitLab, GitHub), development (IntelliJ IDEA Ultimate, Claude Code), database (DBeaver), API testing (Postman), terminal, SSH
-* **PHP expertise:** 20+ years of professional experience (PHP 4 – PHP 8.5), frameworks (Nette), template systems (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, project types (Backend API, web presentations, intranet systems, REST API, e-commerce, admin interfaces), key projects (ProfiSMS - SMS reception via API, backend services, cloud; RTsoft - knihydobrovsky.cz, pepa.cz; hospital intranet still in operation after 20+ years)
+* **PHP expertise:** frameworks (Nette), template systems (Latte, Smarty), MVC, Repository pattern, Dependency Injection, DRY, SOLID, project types (Backend API, web presentations, intranet systems, REST API, e-commerce, admin interfaces), key projects (ProfiSMS - SMS reception via API, backend services, cloud; RTsoft - knihydobrovsky.cz, pepa.cz)
 * **Programming contests:** ACM ICPC – Czech Republic representation at European round in Budapest (2005, 2006), nationwide round in Prague (2004-2006), regional (České Budějovice) and nationwide round (Mladá Boleslav, 1997) during elementary and high school
 * **Languages:** Czech (native speaker), English (advanced – in writing and speech)
 

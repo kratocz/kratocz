@@ -87,7 +87,7 @@ Each language has a CV file:
   - Cybersecurity & Networking
 - Probíhající kurzy (Ongoing Courses / Kursy w trakcie)
 - Plánované kurzy (Planned Courses) - ends with a link to the learning repo for long-term considered courses
-- Veřejné projekty (Public Projects) - with Claude Code Plugin Marketplace first, Kratokurz second
+- Veřejné projekty (Public Projects) - with AI agent skills (kratocz/skills) first, Claude Code Plugin Marketplace second, Kratokurz third; the marketplace holds only hook-based plugins, skills such as time tracking or MikroTik audit live in kratocz/skills
 - Vybrané zkušenosti (Selected Experience / Wybrane doświadczenie)
 - Zájmy (Interests)
 - Vizitka QR kód (Business Card QR code)
@@ -100,7 +100,7 @@ Each language has a CV file:
 - Use full YouTube URLs in project links (not shortened versions)
 - Employer and university names in Work Experience/Education link to their websites (default theme link styling on web; common.css prints all content links as plain text)
 - Maintain DRY, SOLID, Scrum in "Selected Experience" section
-- Course sections are a condensed copy of the README in [kratocz/learning](https://github.com/kratocz/learning), which is the source of truth: completed courses verbatim; ongoing and planned courses without payment details, phone-call notes or volatile run dates; long-term considered courses only via the link. Never name the company that pays for the courses, nor its people - write only "the company that pays for my courses"
+- Course sections are a condensed copy of the README in [kratocz/learning](https://github.com/kratocz/learning), which is the source of truth: completed courses verbatim; ongoing and planned courses without payment details, phone-call notes or volatile run dates (an ongoing course may keep the details of the run actually taken: start and end date, weekdays, times, number of lessons, and lesson progress dated as in the learning README, e.g. "as of 21 October 2026"); long-term considered courses only via the link. Never name the company that pays for the courses, nor its people - write only "the company that pays for my courses"
 
 ### Print layout (CV printed to PDF)
 
