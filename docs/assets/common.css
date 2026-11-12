@@ -99,4 +99,20 @@ table {
         height: 5rem;
         margin-bottom: -5rem;
     }
+
+    /* Never leave the last item of a list alone at the top of a new page.
+       Same technique as for the headings above: the second-to-last item
+       reserves room for two more lines, so when the last item would not
+       fit below it, both move to the next page together. */
+    .md-typeset li:nth-last-child(2) {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .md-typeset li:nth-last-child(2)::after {
+        content: "";
+        display: block;
+        height: 2.5rem;
+        margin-bottom: -2.5rem;
+    }
 }
