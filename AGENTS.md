@@ -29,6 +29,8 @@ poetry run mkdocs build           # Build static site (output in ./site/)
 poetry run mkdocs build --strict  # Pre-commit check: fails on warnings such as broken links
 ```
 
+If the build fails with `Unrecognised theme name: 'material'`, the active Poetry environment has no dependencies installed (Poetry silently creates a fresh one when the default Python changes); run `poetry install`.
+
 The GitHub Actions workflow automatically handles deployment when pushing to `main`. It does not run on pull requests, so a PR shows no checks and `mkdocs build --strict` is the only gate before merge. Its INFO message listing the `cv-old-*.md` files as not included in nav is expected.
 
 ## Project Structure
@@ -99,6 +101,12 @@ Each language has a CV file:
 - Employer and university names in Work Experience/Education link to their websites (default theme link styling on web; common.css prints all content links as plain text)
 - Maintain DRY, SOLID, Scrum in "Selected Experience" section
 - Course sections are a condensed copy of the README in [kratocz/learning](https://github.com/kratocz/learning), which is the source of truth: completed courses verbatim; ongoing and planned courses without payment details, phone-call notes or volatile run dates; long-term considered courses only via the link. Never name the company that pays for the courses, nor its people - write only "the company that pays for my courses"
+
+### Print layout (CV printed to PDF)
+
+The CV is printed from the browser, so page breaks are controlled by the `@media print` block in `docs/assets/common.css`. Firefox and Safari ignore `break-after: avoid`, so blocks are kept together by an `::after` pseudo-element that reserves space below an element with `break-inside: avoid` and gives it back with a negative margin: `h2`/`h3` reserve 5rem so a heading never ends a page, and the second-to-last list item reserves 2.5rem so the last item never starts a page alone. New keep-together rules should use the same technique.
+
+To check page breaks, build the site into a temporary directory and append `@page { size: A4; }` to that copy's `assets/common.css` only (headless Chrome prints Letter by default, which moves every break). Serve it with `python3 -m http.server`, print each CV with `chrome --headless=new --no-pdf-header-footer --print-to-pdf=<out.pdf> http://127.0.0.1:<port>/<lang>/cv/` and read the first and last lines of each page with `pdftotext -f N -l N <out.pdf> -`. Check all three languages, since their text lengths differ.
 
 ## Deployment
 
